@@ -1,224 +1,224 @@
 # Start with E
-`e2freefrag` - report free space fragmentation information
-`e2fsck` - check a Linux ext2/ext3/ext4 file system
-`e2fsck.conf` - Configuration file for e2fsck
-`e2image` - Save critical ext2/ext3/ext4 file system metadata to a file
-`e2label` - Change the label on an ext2/ext3/ext4 file system
-`e2mmpstatus` - Check MMP status of an ext4 file system
-`e2undo` - Replay an undo log for an ext2/ext3/ext4 file system
-`e4crypt` - ext4 file system encryption utility
-`e4defrag` - online defragmenter for ext4 file system
-`eaccess` - check effective user's permissions for a file
-`ebtables-nft` - based)
-`ebtables-translate` - translation tool to migrate from iptables to nftables
-`ebtables` - based)
-`ecb_crypt` - fast DES encryption
-`echo` - display a line of text
-`echo` - write arguments to standard output
-`echo` - curses input options
-`echochar` - add a character (with attributes) to a curses window, then advance the cursor
-`echo_wchar` - add a complex character and rendition to a curses window, then advance the cursor
-`ecvt` - convert a floating-point number to a string
-`ecvt_r` - convert a floating-point number to a string
-`ed` - edit text
-`edata` - end of program segments
-`edquota` - edit user quotas
-`eject` - eject removable media
-`elf` - format of Executable and Linking Format (ELF) files
-`elfedit` - update ELF header and program property of ELF files
-`ematch` - extended matches for use with "basic", "cgroup"  or "flow" filters
-`encrypt` - encrypt 64-bit messages
-`encrypt` - encoding function (CRYPT)
-`encrypt_r` - encrypt 64-bit messages
-`end` - end of program segments
-`endaliasent` - read an alias entry
-`endfsent` - handle fstab entries
-`endgrent` - get group file entry
-`endgrent` - group database entry functions
-`endhostent` - get network host entry
-`endhostent` - network host database functions
-`endian` - convert values between host and big-/little-endian byte order
-`endmntent` - get filesystem descriptor file entry
-`endnetent` - get network entry
-`endnetent` - network database functions
-`endnetgrent` - handle network group entries
-`endprotoent` - get protocol entry
-`endprotoent` - network protocol database functions
-`endpwent` - get password file entry
-`endpwent` - user database functions
-`endrpcent` - get RPC entry
-`endservent` - get service entry
-`endservent` - network services database functions
-`endspent` - get shadow password file entry
-`endttyent` - get ttys file entry
-`endusershell` - get permitted user shells
-`endutent` - access utmp file entries
-`endutxent` - access utmp file entries
-`endutxent` - user accounting database functions
-`endwin` - curses screen initialization and manipulation routines
-`enosys` - utility to make syscalls fail with ENOSYS
-`env` - run a program in a modified environment
-`env` - set the environment for command invocation
-`environ` - array of character pointers to the environment strings
-`environ` - user environment
-`environment` - the environment variables config files
-`environment.d` - Definition of user service environment
-`envsubst` - substitutes environment variables in shell format strings
-`envz` - environment string support
-`envz_add` - environment string support
-`envz_entry` - environment string support
-`envz_get` - environment string support
-`envz_merge` - environment string support
-`envz_remove` - environment string support
-`envz_strip` - environment string support
-`EOF` - end of file or error indicator
-`eof` - end of file or error indicator
-`EPIOCGPARAMS` - ioctl() operations for epoll file descriptors
-`epiocgparams` - ioctl() operations for epoll file descriptors
-`EPIOCSPARAMS` - ioctl() operations for epoll file descriptors
-`epiocsparams` - ioctl() operations for epoll file descriptors
-`epoll` - I/O event notification facility
-`epoll_create` - open an epoll file descriptor
-`epoll_create1` - open an epoll file descriptor
-`epoll_ctl` - control interface for an epoll file descriptor
-`epoll_data` - epoll event
-`epoll_data_t` - epoll event
-`epoll_event` - epoll event
-`epoll_pwait` - wait for an I/O event on an epoll file descriptor
-`epoll_pwait2` - wait for an I/O event on an epoll file descriptor
-`epoll_wait` - wait for an I/O event on an epoll file descriptor
-`eqn` - 
-`eqn2graph` - 
-`erand48` - generate uniformly distributed pseudo-random numbers
-`erand48` - random numbers
-`erand48_r` - generate uniformly distributed pseudo-random numbers reentrantly
-`erase` - clear all or part of a curses window
-`erasechar` - curses environment query routines
-`erasewchar` - curses environment query routines
-`erf` - error function
-`erf` - error functions
-`erfc` - complementary error function
-`erfc` - complementary error functions
-`erfcf` - complementary error function
-`erfcf` - complementary error functions
-`erfcl` - complementary error function
-`erfcl` - complementary error functions
-`erff` - error function
-`erff` - error functions
-`erfl` - error function
-`erfl` - error functions
-`erofs` - the Enhanced Read-Only File System
-`err` - formatted error messages
-`errno` - number of last error
-`errno` - error return value
-`errno.h` - system error numbers
-`error` - glibc error reporting functions
-`error::dwarf` - dwarf debuginfo quality problems
-`error::fault` - memory access faults
-`error::inode-uprobes` - limitations of inode-uprobes
-`error::pass1` - systemtap pass-1 errors
-`error::pass2` - systemtap pass-2 errors
-`error::pass3` - systemtap pass-3 errors
-`error::pass4` - systemtap pass-4 errors
-`error::pass5` - systemtap pass-5 errors
-`error::process-tracking` - process-tracking facilities are not available
-`error::reporting` - systemtap error reporting
-`error::sdt` - <sys/sdt.h> marker failures
-`error_at_line` - glibc error reporting functions
-`error_message_count` - glibc error reporting functions
-`error_one_per_line` - glibc error reporting functions
-`error_print_progname` - glibc error reporting functions
-`errx` - formatted error messages
-`ESCDELAY` - curses global variables
-`etext` - end of program segments
-`ETF` - Earliest TxTime First (ETF) Qdisc
-`ether_aton` - Ethernet address manipulation routines
-`ether_aton_r` - Ethernet address manipulation routines
-`ether_hostton` - Ethernet address manipulation routines
-`ether_line` - Ethernet address manipulation routines
-`ether_ntoa` - Ethernet address manipulation routines
-`ether_ntoa_r` - Ethernet address manipulation routines
-`ether_ntohost` - Ethernet address manipulation routines
-`ethers` - Ethernet address to IP number database
-`ethtool` - query or control network driver and hardware settings
-`ETS` - Enhanced Transmission Selection scheduler
-`euidaccess` - check effective user's permissions for a file
-`eval` - construct command by concatenating arguments
-`eventfd` - create a file descriptor for event notification
-`eventfd2` - create a file descriptor for event notification
-`eventfd_read` - create a file descriptor for event notification
-`eventfd_write` - create a file descriptor for event notification
-`ex` - text editor
-`exch` - atomically exchanges paths between two files
-`exec` - execute commands and open, close, or copy file descriptors
-`exec` - execute a file
-`exec` - execute a file
-`execl` - execute a file
-`execl` - execute a file
-`execle` - execute a file
-`execle` - execute a file
-`execlp` - execute a file
-`execlp` - execute a file
-`execstack` - tool to set, clear, or query executable stack flag of ELF binaries and shared libraries
-`execv` - execute a file
-`execv` - execute a file
-`execve` - execute program
-`execve` - execute a file
-`execveat` - execute program relative to a directory file descriptor
-`execvp` - execute a file
-`execvp` - execute a file
-`execvpe` - execute a file
-`exit` - cause the shell to exit
-`exit` - terminate the calling process
-`_Exit` - terminate the calling process
-`_exit` - terminate the calling process
-`exit` - cause normal process termination
-`exit` - terminate a process
-`_Exit` - terminate a process
-`_exit` - terminate a process
-`exit_curses` - curses memory-leak checking
-`EXIT_FAILURE` - termination status constants
-`exit_failure` - termination status constants
-`exit_group` - exit all threads in a process
-`EXIT_SUCCESS` - termination status constants
-`exit_success` - termination status constants
-`exit_terminfo` - curses memory-leak checking
-`exp` - base-e exponential function
-`exp` - exponential function
-`exp10` - base-10 exponential function
-`exp10f` - base-10 exponential function
-`exp10l` - base-10 exponential function
-`exp2` - base-2 exponential function
-`exp2` - exponential base 2 functions
-`exp2f` - base-2 exponential function
-`exp2f` - exponential base 2 functions
-`exp2l` - base-2 exponential function
-`exp2l` - exponential base 2 functions
-`expand` - convert tabs to spaces
-`expand` - convert tabs to spaces
-`expect` - programmed dialogue with interactive programs, Version 5
-`expf` - base-e exponential function
-`expf` - exponential function
-`expiry` - check and enforce password expiration policy
-`expl` - base-e exponential function
-`expl` - exponential function
-`explicit_bzero` - zero a byte string
-`expm1` - exponential minus 1
-`expm1` - compute exponential functions
-`expm1f` - exponential minus 1
-`expm1f` - compute exponential functions
-`expm1l` - exponential minus 1
-`expm1l` - compute exponential functions
-`export` - set the export attribute for variables
-`exportd` - NFSv4 Server Mount Daemon
-`exportfs` - maintain table of exported NFS file systems
-`exports` - NFS server export table
-`expr` - evaluate expressions
-`expr` - evaluate arguments as an expression
-`ext2` - the second extended file system
-`ext3` - the second extended file system
-`ext4` - the second extended file system
-`extended_color_content` - curses color manipulation routines
-`extended_pair_content` - curses color manipulation routines
-`extended_slk_color` - curses soft label routines
-`extension-release` - Operating system identification
+[`e2freefrag`](https://www.man7.org/linux/man-pages/man8/e2freefrag.8.html) - report free space fragmentation information
+[`e2fsck`](https://www.man7.org/linux/man-pages/man8/e2fsck.8.html) - check a Linux ext2/ext3/ext4 file system
+[`e2fsck.conf`](https://www.man7.org/linux/man-pages/man5/e2fsck.conf.5.html) - Configuration file for e2fsck
+[`e2image`](https://www.man7.org/linux/man-pages/man8/e2image.8.html) - Save critical ext2/ext3/ext4 file system metadata to a file
+[`e2label`](https://www.man7.org/linux/man-pages/man8/e2label.8.html) - Change the label on an ext2/ext3/ext4 file system
+[`e2mmpstatus`](https://www.man7.org/linux/man-pages/man8/e2mmpstatus.8.html) - Check MMP status of an ext4 file system
+[`e2undo`](https://www.man7.org/linux/man-pages/man8/e2undo.8.html) - Replay an undo log for an ext2/ext3/ext4 file system
+[`e4crypt`](https://www.man7.org/linux/man-pages/man8/e4crypt.8.html) - ext4 file system encryption utility
+[`e4defrag`](https://www.man7.org/linux/man-pages/man8/e4defrag.8.html) - online defragmenter for ext4 file system
+[`eaccess`](https://www.man7.org/linux/man-pages/man3/eaccess.3.html) - check effective user's permissions for a file
+[`ebtables-nft`](https://www.man7.org/linux/man-pages/man8/ebtables-nft.8.html) - based)
+[`ebtables-translate`](https://www.man7.org/linux/man-pages/man8/ebtables-translate.8.html) - translation tool to migrate from iptables to nftables
+[`ebtables`](https://www.man7.org/linux/man-pages/man8/ebtables.8.html) - based)
+[`ecb_crypt`](https://www.man7.org/linux/man-pages/man3/ecb_crypt.3.html) - fast DES encryption
+[`echo`](https://www.man7.org/linux/man-pages/man1/echo.1.html) - display a line of text
+[`echo`](https://www.man7.org/linux/man-pages/man1/echo.1p.html) - write arguments to standard output
+[`echo`](https://www.man7.org/linux/man-pages/man3/echo.3x.html) - curses input options
+[`echochar`](https://www.man7.org/linux/man-pages/man3/echochar.3x.html) - add a character (with attributes) to a curses window, then advance the cursor
+[`echo_wchar`](https://www.man7.org/linux/man-pages/man3/echo_wchar.3x.html) - add a complex character and rendition to a curses window, then advance the cursor
+[`ecvt`](https://www.man7.org/linux/man-pages/man3/ecvt.3.html) - convert a floating-point number to a string
+[`ecvt_r`](https://www.man7.org/linux/man-pages/man3/ecvt_r.3.html) - convert a floating-point number to a string
+[`ed`](https://www.man7.org/linux/man-pages/man1/ed.1p.html) - edit text
+[`edata`](https://www.man7.org/linux/man-pages/man3/edata.3.html) - end of program segments
+[`edquota`](https://www.man7.org/linux/man-pages/man8/edquota.8.html) - edit user quotas
+[`eject`](https://www.man7.org/linux/man-pages/man1/eject.1.html) - eject removable media
+[`elf`](https://www.man7.org/linux/man-pages/man5/elf.5.html) - format of Executable and Linking Format (ELF) files
+[`elfedit`](https://www.man7.org/linux/man-pages/man1/elfedit.1.html) - update ELF header and program property of ELF files
+[`ematch`](https://www.man7.org/linux/man-pages/man8/ematch.8.html) - extended matches for use with "basic", "cgroup"  or "flow" filters
+[`encrypt`](https://www.man7.org/linux/man-pages/man3/encrypt.3.html) - encrypt 64-bit messages
+[`encrypt`](https://www.man7.org/linux/man-pages/man3/encrypt.3p.html) - encoding function (CRYPT)
+[`encrypt_r`](https://www.man7.org/linux/man-pages/man3/encrypt_r.3.html) - encrypt 64-bit messages
+[`end`](https://www.man7.org/linux/man-pages/man3/end.3.html) - end of program segments
+[`endaliasent`](https://www.man7.org/linux/man-pages/man3/endaliasent.3.html) - read an alias entry
+[`endfsent`](https://www.man7.org/linux/man-pages/man3/endfsent.3.html) - handle fstab entries
+[`endgrent`](https://www.man7.org/linux/man-pages/man3/endgrent.3.html) - get group file entry
+[`endgrent`](https://www.man7.org/linux/man-pages/man3/endgrent.3p.html) - group database entry functions
+[`endhostent`](https://www.man7.org/linux/man-pages/man3/endhostent.3.html) - get network host entry
+[`endhostent`](https://www.man7.org/linux/man-pages/man3/endhostent.3p.html) - network host database functions
+[`endian`](https://www.man7.org/linux/man-pages/man3/endian.3.html) - convert values between host and big-/little-endian byte order
+[`endmntent`](https://www.man7.org/linux/man-pages/man3/endmntent.3.html) - get filesystem descriptor file entry
+[`endnetent`](https://www.man7.org/linux/man-pages/man3/endnetent.3.html) - get network entry
+[`endnetent`](https://www.man7.org/linux/man-pages/man3/endnetent.3p.html) - network database functions
+[`endnetgrent`](https://www.man7.org/linux/man-pages/man3/endnetgrent.3.html) - handle network group entries
+[`endprotoent`](https://www.man7.org/linux/man-pages/man3/endprotoent.3.html) - get protocol entry
+[`endprotoent`](https://www.man7.org/linux/man-pages/man3/endprotoent.3p.html) - network protocol database functions
+[`endpwent`](https://www.man7.org/linux/man-pages/man3/endpwent.3.html) - get password file entry
+[`endpwent`](https://www.man7.org/linux/man-pages/man3/endpwent.3p.html) - user database functions
+[`endrpcent`](https://www.man7.org/linux/man-pages/man3/endrpcent.3.html) - get RPC entry
+[`endservent`](https://www.man7.org/linux/man-pages/man3/endservent.3.html) - get service entry
+[`endservent`](https://www.man7.org/linux/man-pages/man3/endservent.3p.html) - network services database functions
+[`endspent`](https://www.man7.org/linux/man-pages/man3/endspent.3.html) - get shadow password file entry
+[`endttyent`](https://www.man7.org/linux/man-pages/man3/endttyent.3.html) - get ttys file entry
+[`endusershell`](https://www.man7.org/linux/man-pages/man3/endusershell.3.html) - get permitted user shells
+[`endutent`](https://www.man7.org/linux/man-pages/man3/endutent.3.html) - access utmp file entries
+[`endutxent`](https://www.man7.org/linux/man-pages/man3/endutxent.3.html) - access utmp file entries
+[`endutxent`](https://www.man7.org/linux/man-pages/man3/endutxent.3p.html) - user accounting database functions
+[`endwin`](https://www.man7.org/linux/man-pages/man3/endwin.3x.html) - curses screen initialization and manipulation routines
+[`enosys`](https://www.man7.org/linux/man-pages/man1/enosys.1.html) - utility to make syscalls fail with ENOSYS
+[`env`](https://www.man7.org/linux/man-pages/man1/env.1.html) - run a program in a modified environment
+[`env`](https://www.man7.org/linux/man-pages/man1/env.1p.html) - set the environment for command invocation
+[`environ`](https://www.man7.org/linux/man-pages/man3/environ.3p.html) - array of character pointers to the environment strings
+[`environ`](https://www.man7.org/linux/man-pages/man7/environ.7.html) - user environment
+[`environment`](https://www.man7.org/linux/man-pages/man5/environment.5.html) - the environment variables config files
+[`environment.d`](https://www.man7.org/linux/man-pages/man5/environment.d.5.html) - Definition of user service environment
+[`envsubst`](https://www.man7.org/linux/man-pages/man1/envsubst.1.html) - substitutes environment variables in shell format strings
+[`envz`](https://www.man7.org/linux/man-pages/man3/envz.3.html) - environment string support
+[`envz_add`](https://www.man7.org/linux/man-pages/man3/envz_add.3.html) - environment string support
+[`envz_entry`](https://www.man7.org/linux/man-pages/man3/envz_entry.3.html) - environment string support
+[`envz_get`](https://www.man7.org/linux/man-pages/man3/envz_get.3.html) - environment string support
+[`envz_merge`](https://www.man7.org/linux/man-pages/man3/envz_merge.3.html) - environment string support
+[`envz_remove`](https://www.man7.org/linux/man-pages/man3/envz_remove.3.html) - environment string support
+[`envz_strip`](https://www.man7.org/linux/man-pages/man3/envz_strip.3.html) - environment string support
+[`EOF`](https://www.man7.org/linux/man-pages/man3/EOF.3const.html) - end of file or error indicator
+[`eof`](https://www.man7.org/linux/man-pages/man3/eof.3const.html) - end of file or error indicator
+[`EPIOCGPARAMS`](https://www.man7.org/linux/man-pages/man2/EPIOCGPARAMS.2const.html) - ioctl() operations for epoll file descriptors
+[`epiocgparams`](https://www.man7.org/linux/man-pages/man2/epiocgparams.2const.html) - ioctl() operations for epoll file descriptors
+[`EPIOCSPARAMS`](https://www.man7.org/linux/man-pages/man2/EPIOCSPARAMS.2const.html) - ioctl() operations for epoll file descriptors
+[`epiocsparams`](https://www.man7.org/linux/man-pages/man2/epiocsparams.2const.html) - ioctl() operations for epoll file descriptors
+[`epoll`](https://www.man7.org/linux/man-pages/man7/epoll.7.html) - I/O event notification facility
+[`epoll_create`](https://www.man7.org/linux/man-pages/man2/epoll_create.2.html) - open an epoll file descriptor
+[`epoll_create1`](https://www.man7.org/linux/man-pages/man2/epoll_create1.2.html) - open an epoll file descriptor
+[`epoll_ctl`](https://www.man7.org/linux/man-pages/man2/epoll_ctl.2.html) - control interface for an epoll file descriptor
+[`epoll_data`](https://www.man7.org/linux/man-pages/man3/epoll_data.3type.html) - epoll event
+[`epoll_data_t`](https://www.man7.org/linux/man-pages/man3/epoll_data_t.3type.html) - epoll event
+[`epoll_event`](https://www.man7.org/linux/man-pages/man3/epoll_event.3type.html) - epoll event
+[`epoll_pwait`](https://www.man7.org/linux/man-pages/man2/epoll_pwait.2.html) - wait for an I/O event on an epoll file descriptor
+[`epoll_pwait2`](https://www.man7.org/linux/man-pages/man2/epoll_pwait2.2.html) - wait for an I/O event on an epoll file descriptor
+[`epoll_wait`](https://www.man7.org/linux/man-pages/man2/epoll_wait.2.html) - wait for an I/O event on an epoll file descriptor
+[`eqn` -](https://www.man7.org/linux/man-pages/man1/eqn.1.html) - (no description)
+[`eqn2graph` -](https://www.man7.org/linux/man-pages/man1/eqn2graph.1.html) - (no description)
+[`erand48`](https://www.man7.org/linux/man-pages/man3/erand48.3.html) - generate uniformly distributed pseudo-random numbers
+[`erand48`](https://www.man7.org/linux/man-pages/man3/erand48.3p.html) - random numbers
+[`erand48_r`](https://www.man7.org/linux/man-pages/man3/erand48_r.3.html) - generate uniformly distributed pseudo-random numbers reentrantly
+[`erase`](https://www.man7.org/linux/man-pages/man3/erase.3x.html) - clear all or part of a curses window
+[`erasechar`](https://www.man7.org/linux/man-pages/man3/erasechar.3x.html) - curses environment query routines
+[`erasewchar`](https://www.man7.org/linux/man-pages/man3/erasewchar.3x.html) - curses environment query routines
+[`erf`](https://www.man7.org/linux/man-pages/man3/erf.3.html) - error function
+[`erf`](https://www.man7.org/linux/man-pages/man3/erf.3p.html) - error functions
+[`erfc`](https://www.man7.org/linux/man-pages/man3/erfc.3.html) - complementary error function
+[`erfc`](https://www.man7.org/linux/man-pages/man3/erfc.3p.html) - complementary error functions
+[`erfcf`](https://www.man7.org/linux/man-pages/man3/erfcf.3.html) - complementary error function
+[`erfcf`](https://www.man7.org/linux/man-pages/man3/erfcf.3p.html) - complementary error functions
+[`erfcl`](https://www.man7.org/linux/man-pages/man3/erfcl.3.html) - complementary error function
+[`erfcl`](https://www.man7.org/linux/man-pages/man3/erfcl.3p.html) - complementary error functions
+[`erff`](https://www.man7.org/linux/man-pages/man3/erff.3.html) - error function
+[`erff`](https://www.man7.org/linux/man-pages/man3/erff.3p.html) - error functions
+[`erfl`](https://www.man7.org/linux/man-pages/man3/erfl.3.html) - error function
+[`erfl`](https://www.man7.org/linux/man-pages/man3/erfl.3p.html) - error functions
+[`erofs`](https://www.man7.org/linux/man-pages/man5/erofs.5.html) - the Enhanced Read-Only File System
+[`err`](https://www.man7.org/linux/man-pages/man3/err.3.html) - formatted error messages
+[`errno`](https://www.man7.org/linux/man-pages/man3/errno.3.html) - number of last error
+[`errno`](https://www.man7.org/linux/man-pages/man3/errno.3p.html) - error return value
+[`errno.h`](https://www.man7.org/linux/man-pages/man0/errno.h.0p.html) - system error numbers
+[`error`](https://www.man7.org/linux/man-pages/man3/error.3.html) - glibc error reporting functions
+[`error::dwarf`](https://www.man7.org/linux/man-pages/man7/error::dwarf.7stap.html) - dwarf debuginfo quality problems
+[`error::fault`](https://www.man7.org/linux/man-pages/man7/error::fault.7stap.html) - memory access faults
+[`error::inode-uprobes`](https://www.man7.org/linux/man-pages/man7/error::inode-uprobes.7stap.html) - limitations of inode-uprobes
+[`error::pass1`](https://www.man7.org/linux/man-pages/man7/error::pass1.7stap.html) - systemtap pass-1 errors
+[`error::pass2`](https://www.man7.org/linux/man-pages/man7/error::pass2.7stap.html) - systemtap pass-2 errors
+[`error::pass3`](https://www.man7.org/linux/man-pages/man7/error::pass3.7stap.html) - systemtap pass-3 errors
+[`error::pass4`](https://www.man7.org/linux/man-pages/man7/error::pass4.7stap.html) - systemtap pass-4 errors
+[`error::pass5`](https://www.man7.org/linux/man-pages/man7/error::pass5.7stap.html) - systemtap pass-5 errors
+[`error::process-tracking`](https://www.man7.org/linux/man-pages/man7/error::process-tracking.7stap.html) - process-tracking facilities are not available
+[`error::reporting`](https://www.man7.org/linux/man-pages/man7/error::reporting.7stap.html) - systemtap error reporting
+[`error::sdt`](https://www.man7.org/linux/man-pages/man7/error::sdt.7stap.html) - <sys/sdt.h> marker failures
+[`error_at_line`](https://www.man7.org/linux/man-pages/man3/error_at_line.3.html) - glibc error reporting functions
+[`error_message_count`](https://www.man7.org/linux/man-pages/man3/error_message_count.3.html) - glibc error reporting functions
+[`error_one_per_line`](https://www.man7.org/linux/man-pages/man3/error_one_per_line.3.html) - glibc error reporting functions
+[`error_print_progname`](https://www.man7.org/linux/man-pages/man3/error_print_progname.3.html) - glibc error reporting functions
+[`errx`](https://www.man7.org/linux/man-pages/man3/errx.3.html) - formatted error messages
+[`ESCDELAY`](https://www.man7.org/linux/man-pages/man3/ESCDELAY.3x.html) - curses global variables
+[`etext`](https://www.man7.org/linux/man-pages/man3/etext.3.html) - end of program segments
+[`ETF`](https://www.man7.org/linux/man-pages/man8/ETF.8.html) - Earliest TxTime First (ETF) Qdisc
+[`ether_aton`](https://www.man7.org/linux/man-pages/man3/ether_aton.3.html) - Ethernet address manipulation routines
+[`ether_aton_r`](https://www.man7.org/linux/man-pages/man3/ether_aton_r.3.html) - Ethernet address manipulation routines
+[`ether_hostton`](https://www.man7.org/linux/man-pages/man3/ether_hostton.3.html) - Ethernet address manipulation routines
+[`ether_line`](https://www.man7.org/linux/man-pages/man3/ether_line.3.html) - Ethernet address manipulation routines
+[`ether_ntoa`](https://www.man7.org/linux/man-pages/man3/ether_ntoa.3.html) - Ethernet address manipulation routines
+[`ether_ntoa_r`](https://www.man7.org/linux/man-pages/man3/ether_ntoa_r.3.html) - Ethernet address manipulation routines
+[`ether_ntohost`](https://www.man7.org/linux/man-pages/man3/ether_ntohost.3.html) - Ethernet address manipulation routines
+[`ethers`](https://www.man7.org/linux/man-pages/man5/ethers.5.html) - Ethernet address to IP number database
+[`ethtool`](https://www.man7.org/linux/man-pages/man8/ethtool.8.html) - query or control network driver and hardware settings
+[`ETS`](https://www.man7.org/linux/man-pages/man8/ETS.8.html) - Enhanced Transmission Selection scheduler
+[`euidaccess`](https://www.man7.org/linux/man-pages/man3/euidaccess.3.html) - check effective user's permissions for a file
+[`eval`](https://www.man7.org/linux/man-pages/man1/eval.1p.html) - construct command by concatenating arguments
+[`eventfd`](https://www.man7.org/linux/man-pages/man2/eventfd.2.html) - create a file descriptor for event notification
+[`eventfd2`](https://www.man7.org/linux/man-pages/man2/eventfd2.2.html) - create a file descriptor for event notification
+[`eventfd_read`](https://www.man7.org/linux/man-pages/man3/eventfd_read.3.html) - create a file descriptor for event notification
+[`eventfd_write`](https://www.man7.org/linux/man-pages/man3/eventfd_write.3.html) - create a file descriptor for event notification
+[`ex`](https://www.man7.org/linux/man-pages/man1/ex.1p.html) - text editor
+[`exch`](https://www.man7.org/linux/man-pages/man1/exch.1.html) - atomically exchanges paths between two files
+[`exec`](https://www.man7.org/linux/man-pages/man1/exec.1p.html) - execute commands and open, close, or copy file descriptors
+[`exec`](https://www.man7.org/linux/man-pages/man3/exec.3.html) - execute a file
+[`exec`](https://www.man7.org/linux/man-pages/man3/exec.3p.html) - execute a file
+[`execl`](https://www.man7.org/linux/man-pages/man3/execl.3.html) - execute a file
+[`execl`](https://www.man7.org/linux/man-pages/man3/execl.3p.html) - execute a file
+[`execle`](https://www.man7.org/linux/man-pages/man3/execle.3.html) - execute a file
+[`execle`](https://www.man7.org/linux/man-pages/man3/execle.3p.html) - execute a file
+[`execlp`](https://www.man7.org/linux/man-pages/man3/execlp.3.html) - execute a file
+[`execlp`](https://www.man7.org/linux/man-pages/man3/execlp.3p.html) - execute a file
+[`execstack`](https://www.man7.org/linux/man-pages/man8/execstack.8.html) - tool to set, clear, or query executable stack flag of ELF binaries and shared libraries
+[`execv`](https://www.man7.org/linux/man-pages/man3/execv.3.html) - execute a file
+[`execv`](https://www.man7.org/linux/man-pages/man3/execv.3p.html) - execute a file
+[`execve`](https://www.man7.org/linux/man-pages/man2/execve.2.html) - execute program
+[`execve`](https://www.man7.org/linux/man-pages/man3/execve.3p.html) - execute a file
+[`execveat`](https://www.man7.org/linux/man-pages/man2/execveat.2.html) - execute program relative to a directory file descriptor
+[`execvp`](https://www.man7.org/linux/man-pages/man3/execvp.3.html) - execute a file
+[`execvp`](https://www.man7.org/linux/man-pages/man3/execvp.3p.html) - execute a file
+[`execvpe`](https://www.man7.org/linux/man-pages/man3/execvpe.3.html) - execute a file
+[`exit`](https://www.man7.org/linux/man-pages/man1/exit.1p.html) - cause the shell to exit
+[`exit`](https://www.man7.org/linux/man-pages/man2/exit.2.html) - terminate the calling process
+[`_Exit`](https://www.man7.org/linux/man-pages/man2/_Exit.2.html) - terminate the calling process
+[`_exit`](https://www.man7.org/linux/man-pages/man2/_exit.2.html) - terminate the calling process
+[`exit`](https://www.man7.org/linux/man-pages/man3/exit.3.html) - cause normal process termination
+[`exit`](https://www.man7.org/linux/man-pages/man3/exit.3p.html) - terminate a process
+[`_Exit`](https://www.man7.org/linux/man-pages/man3/_Exit.3p.html) - terminate a process
+[`_exit`](https://www.man7.org/linux/man-pages/man3/_exit.3p.html) - terminate a process
+[`exit_curses`](https://www.man7.org/linux/man-pages/man3/exit_curses.3x.html) - curses memory-leak checking
+[`EXIT_FAILURE`](https://www.man7.org/linux/man-pages/man3/EXIT_FAILURE.3const.html) - termination status constants
+[`exit_failure`](https://www.man7.org/linux/man-pages/man3/exit_failure.3const.html) - termination status constants
+[`exit_group`](https://www.man7.org/linux/man-pages/man2/exit_group.2.html) - exit all threads in a process
+[`EXIT_SUCCESS`](https://www.man7.org/linux/man-pages/man3/EXIT_SUCCESS.3const.html) - termination status constants
+[`exit_success`](https://www.man7.org/linux/man-pages/man3/exit_success.3const.html) - termination status constants
+[`exit_terminfo`](https://www.man7.org/linux/man-pages/man3/exit_terminfo.3x.html) - curses memory-leak checking
+[`exp`](https://www.man7.org/linux/man-pages/man3/exp.3.html) - base-e exponential function
+[`exp`](https://www.man7.org/linux/man-pages/man3/exp.3p.html) - exponential function
+[`exp10`](https://www.man7.org/linux/man-pages/man3/exp10.3.html) - base-10 exponential function
+[`exp10f`](https://www.man7.org/linux/man-pages/man3/exp10f.3.html) - base-10 exponential function
+[`exp10l`](https://www.man7.org/linux/man-pages/man3/exp10l.3.html) - base-10 exponential function
+[`exp2`](https://www.man7.org/linux/man-pages/man3/exp2.3.html) - base-2 exponential function
+[`exp2`](https://www.man7.org/linux/man-pages/man3/exp2.3p.html) - exponential base 2 functions
+[`exp2f`](https://www.man7.org/linux/man-pages/man3/exp2f.3.html) - base-2 exponential function
+[`exp2f`](https://www.man7.org/linux/man-pages/man3/exp2f.3p.html) - exponential base 2 functions
+[`exp2l`](https://www.man7.org/linux/man-pages/man3/exp2l.3.html) - base-2 exponential function
+[`exp2l`](https://www.man7.org/linux/man-pages/man3/exp2l.3p.html) - exponential base 2 functions
+[`expand`](https://www.man7.org/linux/man-pages/man1/expand.1.html) - convert tabs to spaces
+[`expand`](https://www.man7.org/linux/man-pages/man1/expand.1p.html) - convert tabs to spaces
+[`expect`](https://www.man7.org/linux/man-pages/man1/expect.1.html) - programmed dialogue with interactive programs, Version 5
+[`expf`](https://www.man7.org/linux/man-pages/man3/expf.3.html) - base-e exponential function
+[`expf`](https://www.man7.org/linux/man-pages/man3/expf.3p.html) - exponential function
+[`expiry`](https://www.man7.org/linux/man-pages/man1/expiry.1.html) - check and enforce password expiration policy
+[`expl`](https://www.man7.org/linux/man-pages/man3/expl.3.html) - base-e exponential function
+[`expl`](https://www.man7.org/linux/man-pages/man3/expl.3p.html) - exponential function
+[`explicit_bzero`](https://www.man7.org/linux/man-pages/man3/explicit_bzero.3.html) - zero a byte string
+[`expm1`](https://www.man7.org/linux/man-pages/man3/expm1.3.html) - exponential minus 1
+[`expm1`](https://www.man7.org/linux/man-pages/man3/expm1.3p.html) - compute exponential functions
+[`expm1f`](https://www.man7.org/linux/man-pages/man3/expm1f.3.html) - exponential minus 1
+[`expm1f`](https://www.man7.org/linux/man-pages/man3/expm1f.3p.html) - compute exponential functions
+[`expm1l`](https://www.man7.org/linux/man-pages/man3/expm1l.3.html) - exponential minus 1
+[`expm1l`](https://www.man7.org/linux/man-pages/man3/expm1l.3p.html) - compute exponential functions
+[`export`](https://www.man7.org/linux/man-pages/man1/export.1p.html) - set the export attribute for variables
+[`exportd`](https://www.man7.org/linux/man-pages/man8/exportd.8.html) - NFSv4 Server Mount Daemon
+[`exportfs`](https://www.man7.org/linux/man-pages/man8/exportfs.8.html) - maintain table of exported NFS file systems
+[`exports`](https://www.man7.org/linux/man-pages/man5/exports.5.html) - NFS server export table
+[`expr`](https://www.man7.org/linux/man-pages/man1/expr.1.html) - evaluate expressions
+[`expr`](https://www.man7.org/linux/man-pages/man1/expr.1p.html) - evaluate arguments as an expression
+[`ext2`](https://www.man7.org/linux/man-pages/man5/ext2.5.html) - the second extended file system
+[`ext3`](https://www.man7.org/linux/man-pages/man5/ext3.5.html) - the second extended file system
+[`ext4`](https://www.man7.org/linux/man-pages/man5/ext4.5.html) - the second extended file system
+[`extended_color_content`](https://www.man7.org/linux/man-pages/man3/extended_color_content.3x.html) - curses color manipulation routines
+[`extended_pair_content`](https://www.man7.org/linux/man-pages/man3/extended_pair_content.3x.html) - curses color manipulation routines
+[`extended_slk_color`](https://www.man7.org/linux/man-pages/man3/extended_slk_color.3x.html) - curses soft label routines
+[`extension-release`](https://www.man7.org/linux/man-pages/man5/extension-release.5.html) - Operating system identification

@@ -3,7 +3,7 @@ a guide of how to use command line and shell
 
 ## Table of Contents
 
-### Step one:
+### Environment Setup:
 Make sure you have a command line tool installed on your computer, such as Windows Command Prompt, PowerShell, or the Linux terminal.
 
 If you are using Windows, you can download and install the Windows Subsystem for Linux (WSL) to run Linux commands on Windows.

@@ -1,320 +1,320 @@
 # Start with D
-`daemon` - run in the background
-`daemon` - Writing and packaging system daemons
-`dane_cert_type_name` - API function
-`dane_cert_usage_name` - API function
-`dane_match_type_name` - API function
-`dane_query_data` - API function
-`dane_query_deinit` - API function
-`dane_query_entries` - API function
-`dane_query_status` - API function
-`dane_query_tlsa` - API function
-`dane_query_to_raw_tlsa` - API function
-`dane_raw_tlsa` - API function
-`dane_state_deinit` - API function
-`dane_state_init` - API function
-`dane_state_set_dlv_file` - API function
-`dane_strerror` - API function
-`danetool` - GnuTLS DANE tool
-`dane_verification_status_print` - API function
-`dane_verify_crt` - API function
-`dane_verify_crt_raw` - API function
-`dane_verify_session_crt` - API function
-`dash` - command interpreter (shell)
-`data_ahead` - test for off-screen data in given forms
-`data_behind` - test for off-screen data in given forms
-`date` - print or set the system date and time
-`date` - write the date and time
-`daylight` - initialize time conversion information
-`daylight` - daylight savings time flag
-`db` - database access methods
-`dbm_clearerr` - database functions
-`dbm_close` - database functions
-`dbm_delete` - database functions
-`dbm_error` - database functions
-`dbm_fetch` - database functions
-`dbm_firstkey` - database functions
-`dbm_nextkey` - database functions
-`dbm_open` - database functions
-`dbm_store` - database functions
-`dbopen` - database access methods
-`dbpmda` - debugger for Performance Co-Pilot PMDAs
-`dbprobe` - database response time and availability information
-`dcb-app` - show / manipulate application priority table of the DCB (Data Center Bridging) subsystem
-`dcb-apptrust` - show / configure per-selector trust and trust order of the application priority table of the DCB (Data Center Bridging) subsystem.
-`dcb-buffer` - show / manipulate port buffer settings of the DCB (Data Center Bridging) subsystem
-`dcb-dcbx` - show / manipulate port DCBX (Data Center Bridging eXchange)
-`dcb-ets` - show / manipulate ETS (Enhanced Transmission Selection) settings of the DCB (Data Center Bridging) subsystem
-`dcb-maxrate` - show / manipulate port maxrate settings of the DCB (Data Center Bridging) subsystem
-`dcb-pfc` - show / manipulate PFC (Priority-based Flow Control) settings of the DCB (Data Center Bridging) subsystem
-`dcb-rewr` - show / manipulate the rewrite table of the DCB (Data Center Bridging) subsystem
-`dcb` - show / manipulate DCB (Data Center Bridging) settings
-`dcgettext` - translate message
-`dcngettext` - translate message and choose plural form
-`dd` - convert and copy a file
-`dd` - convert and copy a file
-`ddp` - Linux AppleTalk protocol implementation
-`deallocvt` - deallocate unused virtual consoles
-`deb-buildinfo` - Debian build information file format
-`deb-changelog` - dpkg source packages' changelog file format
-`deb-changes` - Debian upload changes control file format
-`deb-conffiles` - package conffiles
-`deb-control` - Debian binary package control file format
-`deb-extra-override` - Debian archive extra override file
-`deb-md5sums` - package MD5 file digests
-`deb-old` - old style Debian binary package format
-`deb-origin` - Vendor-specific information files
-`deb-override` - Debian archive override file
-`deb-postinst` - package post-installation maintainer script
-`deb-postrm` - package post-removal maintainer script
-`deb-preinst` - package pre-installation maintainer script
-`deb-prerm` - package pre-removal maintainer script
-`deb-shlibs` - Debian shared library information file
-`deb-split` - Debian multi-part binary package format
-`deb-src-control` - Debian source package template control file format
-`deb-src-files` - Debian distribute files format
-`deb-src-rules` - Debian source package rules file
-`deb-src-symbols` - Debian's extended shared library template file
-`deb-substvars` - Debian source substitution variables
-`deb-symbols` - Debian's extended shared library information file
-`deb-triggers` - package triggers
-`deb-version` - Debian package version number format
-`deb` - Debian binary package format
-`deb822` - Debian RFC822 control data format
-`debhelper-compat-upgrade-checklist` - Upgrade checklist for supported debhelper compat levels
-`debhelper-obsolete-compat` - List of no longer supported compat levels
-`debhelper` - the debhelper tool suite
-`debugfs` - ext2/ext3/ext4 file system debugger
-`debuginfo-install` - install debuginfo packages and their dependencies
-`default_colors` - use terminal's default colors
-`default_contexts` - The SELinux default contexts configuration file
-`default_type` - The SELinux default type configuration file
-`define_key` - define a keycode
-`def_prog_mode` - low-level curses routines
-`def_shell_mode` - low-level curses routines
-`delay_output` - miscellaneous curses utility routines
-`delch` - delete character under the cursor in a curses window
-`del_curterm` - curses interfaces to terminfo database
-`deleteln` - delete and insert lines in a curses window
-`delete_module` - unload a kernel module
-`delpart` - tell the kernel to forget about a partition
-`delscreen` - curses screen initialization and manipulation routines
-`delta` - make a delta (change) to an SCCS file (DEVELOPMENT)
-`delwin` - create curses windows
-`depmod` - Generate modules.dep and map files.
-`depmod.d` - Configuration directory for depmod
-`derb` - disassemble a resource bundle
-`derwin` - create curses windows
-`des_crypt` - fast DES encryption
-`DES_FAILED` - fast DES encryption
-`des_failed` - fast DES encryption
-`des_setparity` - fast DES encryption
-`devlink-dev` - devlink device configuration
-`devlink-dpipe` - devlink dataplane pipeline visualization
-`devlink-health` - devlink health reporting and recovery
-`devlink-lc` - devlink line card configuration
-`devlink-monitor` - state monitoring
-`devlink-port` - devlink port configuration
-`devlink-rate` - devlink rate management
-`devlink-region` - devlink address region access
-`devlink-resource` - devlink device resource configuration
-`devlink-sb` - devlink shared buffer configuration
-`devlink-trap` - devlink trap configuration
-`devlink` - Devlink tool
-`dev_t` - device ID
-`df` - report file system space usage
-`df` - report free disk space
-`dgettext` - translate message
-`dh` - debhelper command sequencer
-`dh_assistant` - tool for supporting debhelper tools and provide introspection
-`dh_auto_build` - automatically builds a package
-`dh_auto_clean` - automatically cleans up after a build
-`dh_auto_configure` - automatically configure a package prior to building
-`dh_auto_install` - automatically runs make install or similar
-`dh_auto_test` - automatically runs a package's test suites
-`dh_bugfiles` - install bug reporting customization files into package build directories
-`dh_builddeb` - build Debian binary packages
-`dh_clean` - clean up package build directories
-`dh_compress` - compress files and fix symlinks in package build directories
-`dh_dwz` - optimize DWARF debug information in ELF binaries via dwz
-`dh_fixperms` - fix permissions of files in package build directories
-`dh_gencontrol` - generate and install control file
-`dh_icons` - Update caches of Freedesktop icons
-`dh_install` - install files into package build directories
-`dh_installalternatives` - install declarative alternative rules
-`dh_installcatalogs` - install and register SGML Catalogs
-`dh_installchangelogs` - install changelogs into package build directories
-`dh_installcron` - install cron scripts into etc/cron.*
-`dh_installdeb` - install files into the DEBIAN directory
-`dh_installdebconf` - install files used by debconf in package build directories
-`dh_installdirs` - create subdirectories in package build directories
-`dh_installdocs` - install documentation into package build directories
-`dh_installemacsen` - register an Emacs add on package
-`dh_installexamples` - install example files into package build directories
-`dh_installgsettings` - install GSettings overrides and set dependencies
-`dh_installifupdown` - install if-up and if-down hooks
-`dh_installinfo` - install info files
-`dh_installinit` - install service init files into package build directories
-`dh_installinitramfs` - install initramfs hooks and setup maintscripts
-`dh_installlogcheck` - install logcheck rulefiles into etc/logcheck/
-`dh_installlogrotate` - install logrotate config files
-`dh_installman` - install man pages into package build directories
-`dh_installmanpages` - old-style man page installer (deprecated)
-`dh_installmenu` - install Debian menu files into package build directories
-`dh_installmime` - install mime files into package build directories
-`dh_installmodules` - register kernel modules
-`dh_installpam` - install pam support files
-`dh_installppp` - install ppp ip-up and ip-down files
-`dh_installsystemd` - install systemd unit files
-`dh_installsystemduser` - install systemd unit files
-`dh_installsysusers` - install and integrates systemd sysusers files
-`dh_installtmpfiles` - install tmpfiles.d configuration files
-`dh_installudev` - install udev rules files
-`dh_installwm` - register a window manager
-`dh_installxfonts` - register X fonts
-`dh_link` - create symlinks in package build directories
-`dh_lintian` - install lintian override files into package build directories
-`dh_listpackages` - list binary packages debhelper will act on
-`dh_makeshlibs` - automatically create shlibs file and call dpkg-gensymbols
-`dh_md5sums` - generate DEBIAN/md5sums file
-`dh_missing` - check for missing files
-`dh_movefiles` - move files out of debian/tmp into subpackages
-`dh_movetousr` - canonicalize location according to merged-/usr
-`dh_perl` - calculates Perl dependencies and cleans up after MakeMaker
-`dh_prep` - perform cleanups in preparation for building a binary package
-`dh_shlibdeps` - calculate shared library dependencies
-`dh_strip` - strip executables, shared libraries, and some static libraries
-`dh_systemd_enable` - enable/disable systemd unit files
-`dh_systemd_start` - start/stop/restart systemd unit files
-`dh_testdir` - test directory before building Debian package
-`dh_testroot` - ensure that a package is built with necessary level of root permissions
-`dh_ucf` - register configuration files with ucf
-`dh_update_autotools_config` - Update autotools config files
-`dh_usrlocal` - migrate usr/local directories to maintainer scripts
-`diff` - compare files line by line
-`diff` - compare two files
-`diff3` - compare three files line by line
-`diffman-git` - compare changes to manual pages line by line
-`difftime` - calculate time difference
-`difftime` - compute the difference between two calendar time values
-`dir` - list directory contents
-`dircolors` - color setup for ls
-`dir_colors` - configuration file for dircolors
-`dirent.h` - format of directory entries
-`dirfd` - get directory stream file descriptor
-`dirfd` - extract the file descriptor used by a DIR stream
-`dirname` - strip last component from file name
-`dirname` - return the directory portion of a pathname
-`dirname` - parse pathname components
-`dirname` - report the parent directory name of a file pathname
-`ditroff` - 
-`div` - compute quotient and remainder of an integer division
-`div` - compute the quotient and remainder of an integer division
-`div_t` - quotient and remainder of an integer division
-`dkvis` - visualize disk I/O activity and performance
-`dladdr` - translate address to symbolic information
-`dladdr1` - translate address to symbolic information
-`dlclose` - open and close a shared object
-`dlclose` - close a symbol table handle
-`dlerror` - obtain error diagnostic for functions in the dlopen API
-`dlerror` - get diagnostic information
-`dlfcn.h` - dynamic linking
-`dlinfo` - obtain information about a dynamically loaded object
-`dl_iterate_phdr` - walk through list of shared objects
-`dlltool` - create files needed to build and use DLLs
-`dlmopen` - open and close a shared object
-`dlopen` - open and close a shared object
-`dlopen` - open a symbol table handle
-`dlsym` - obtain address of a symbol in a shared object or executable
-`dlsym` - get the address of a symbol from a symbol table handle
-`dlvsym` - obtain address of a symbol in a shared object or executable
-`dmesg` - print or control the kernel ring buffer
-`dmeventd` - mapper event daemon
-`dmfilemapd` - mapper filemap monitoring daemon
-`dmsetup` - low level logical volume management
-`dmstats` - mapper statistics management
-`dn_comp` - resolver routines
-`dn_expand` - resolver routines
-`dnf-automatic` - DNF Automatic
-`dnf4-transaction-json` - DNF Stored Transaction JSON
-`dnf4` - DNF Command Reference
-`dnf4.conf` - DNF Configuration Reference
-`dnf4.modularity` - Modularity in DNF
-`dngettext` - translate message and choose plural form
-`dnsdomainname` - show or set the system's host name
-`dnssec-trust-anchors.d` - DNSSEC trust anchor configuration files
-`domainname` - show or set the system's host name
-`dosfsck` - check and repair MS-DOS FAT filesystems
-`dosfslabel` - set or get MS-DOS filesystem label or volume ID
-`dot` - execute commands in the current environment
-`do_tracepoint` - LTTng user space tracing
-`double_t` - most efficient floating types
-`doupdate` - refresh curses windows and lines
-`dpkg-architecture` - set and determine the architecture for package building
-`dpkg-build-api` - source package dpkg build API level
-`dpkg-buildapi` - returns the build API level to use during package build
-`dpkg-buildflags` - returns build flags to use during package build
-`dpkg-buildpackage` - build binary or source packages from sources
-`dpkg-buildtree` - helper for build tree operations during package builds
-`dpkg-checkbuilddeps` - check build dependencies and conflicts
-`dpkg-deb` - Debian package archive (.deb) manipulation tool
-`dpkg-distaddfile` - add entries to debian/files
-`dpkg-divert` - override a package's version of a file
-`dpkg-fsys-usrunmess` - undoes the merged-/usr-via-aliased-dirs mess
-`dpkg-genbuildinfo` - generate Debian .buildinfo files
-`dpkg-genchanges` - generate Debian .changes files
-`dpkg-gencontrol` - generate Debian control files
-`dpkg-gensymbols` - generate symbols files (shared library dependency information)
-`dpkg-maintscript-helper` - works around known dpkg limitations in maintainer scripts
-`dpkg-mergechangelogs` - 3-way merge of debian/changelog files
-`dpkg-name` - rename Debian packages to full package names
-`dpkg-parsechangelog` - parse Debian changelog files
-`dpkg-query` - a tool to query the dpkg database
-`dpkg-realpath` - print the resolved pathname with DPKG_ROOT support
-`dpkg-scanpackages` - create Packages index files
-`dpkg-scansources` - create Sources index files
-`dpkg-shlibdeps` - generate shared library substvar dependencies
-`dpkg-source` - Debian source package (.dsc) manipulation tool
-`dpkg-split` - Debian package archive split/join tool
-`dpkg-statoverride` - override ownership and mode of files
-`dpkg-trigger` - a package trigger utility
-`dpkg-vendor` - queries information about distribution vendors
-`dpkg` - package manager for Debian
-`dpkg.cfg` - dpkg configuration file
-`dprintf` - formatted output conversion
-`dprintf` - print formatted output
-`dracut-catimages` - creates initial ramdisk image by concatenating images
-`dracut` - low-level tool for generating an initramfs/initrd image
-`dracut.bootup` - boot ordering in the initramfs
-`dracut.cmdline` - dracut kernel command line options
-`dracut.conf` - configuration file(s) for dracut
-`dracut.modules` - dracut modules
-`drand48` - generate uniformly distributed pseudo-random numbers
-`drand48` - random numbers
-`drand48_r` - generate uniformly distributed pseudo-random numbers reentrantly
-`drem` - floating-point remainder function
-`dremf` - floating-point remainder function
-`dreml` - floating-point remainder function
-`drr` - deficit round robin scheduler
-`dsc` - Debian source package control file format
-`dselect` - Debian package management frontend
-`dselect.cfg` - dselect configuration file
-`dsp56k` - DSP56001 interface device
-`dtrace` - Dtrace compatible user application static probe generation tool.
-`du` - estimate file space usage
-`du` - estimate file space usage
-`dump-acct` - print an acct/pacct file in human-readable format
-`dump-utmp` - print a utmp file in human-readable format
-`dumpe2fs` - dump ext2/ext3/ext4 file system information
-`dumpkeys` - dump keyboard translation tables
-`dup` - duplicate a file descriptor
-`dup` - duplicate an open file descriptor
-`dup2` - duplicate a file descriptor
-`dup2` - duplicate an open file descriptor
-`dup3` - duplicate a file descriptor
-`dup_field` - create and destroy form fields
-`duplocale` - duplicate a locale object
-`duplocale` - duplicate a locale object
-`dupwin` - create curses windows
-`dynamic_field_info` - retrieve field characteristics
-`dysize` - get number of days for a given year
+[`daemon`](https://www.man7.org/linux/man-pages/man3/daemon.3.html) - run in the background
+[`daemon`](https://www.man7.org/linux/man-pages/man7/daemon.7.html) - Writing and packaging system daemons
+[`dane_cert_type_name`](https://www.man7.org/linux/man-pages/man3/dane_cert_type_name.3.html) - API function
+[`dane_cert_usage_name`](https://www.man7.org/linux/man-pages/man3/dane_cert_usage_name.3.html) - API function
+[`dane_match_type_name`](https://www.man7.org/linux/man-pages/man3/dane_match_type_name.3.html) - API function
+[`dane_query_data`](https://www.man7.org/linux/man-pages/man3/dane_query_data.3.html) - API function
+[`dane_query_deinit`](https://www.man7.org/linux/man-pages/man3/dane_query_deinit.3.html) - API function
+[`dane_query_entries`](https://www.man7.org/linux/man-pages/man3/dane_query_entries.3.html) - API function
+[`dane_query_status`](https://www.man7.org/linux/man-pages/man3/dane_query_status.3.html) - API function
+[`dane_query_tlsa`](https://www.man7.org/linux/man-pages/man3/dane_query_tlsa.3.html) - API function
+[`dane_query_to_raw_tlsa`](https://www.man7.org/linux/man-pages/man3/dane_query_to_raw_tlsa.3.html) - API function
+[`dane_raw_tlsa`](https://www.man7.org/linux/man-pages/man3/dane_raw_tlsa.3.html) - API function
+[`dane_state_deinit`](https://www.man7.org/linux/man-pages/man3/dane_state_deinit.3.html) - API function
+[`dane_state_init`](https://www.man7.org/linux/man-pages/man3/dane_state_init.3.html) - API function
+[`dane_state_set_dlv_file`](https://www.man7.org/linux/man-pages/man3/dane_state_set_dlv_file.3.html) - API function
+[`dane_strerror`](https://www.man7.org/linux/man-pages/man3/dane_strerror.3.html) - API function
+[`danetool`](https://www.man7.org/linux/man-pages/man1/danetool.1.html) - GnuTLS DANE tool
+[`dane_verification_status_print`](https://www.man7.org/linux/man-pages/man3/dane_verification_status_print.3.html) - API function
+[`dane_verify_crt`](https://www.man7.org/linux/man-pages/man3/dane_verify_crt.3.html) - API function
+[`dane_verify_crt_raw`](https://www.man7.org/linux/man-pages/man3/dane_verify_crt_raw.3.html) - API function
+[`dane_verify_session_crt`](https://www.man7.org/linux/man-pages/man3/dane_verify_session_crt.3.html) - API function
+[`dash`](https://www.man7.org/linux/man-pages/man1/dash.1.html) - command interpreter (shell)
+[`data_ahead`](https://www.man7.org/linux/man-pages/man3/data_ahead.3x.html) - test for off-screen data in given forms
+[`data_behind`](https://www.man7.org/linux/man-pages/man3/data_behind.3x.html) - test for off-screen data in given forms
+[`date`](https://www.man7.org/linux/man-pages/man1/date.1.html) - print or set the system date and time
+[`date`](https://www.man7.org/linux/man-pages/man1/date.1p.html) - write the date and time
+[`daylight`](https://www.man7.org/linux/man-pages/man3/daylight.3.html) - initialize time conversion information
+[`daylight`](https://www.man7.org/linux/man-pages/man3/daylight.3p.html) - daylight savings time flag
+[`db`](https://www.man7.org/linux/man-pages/man3/db.3.html) - database access methods
+[`dbm_clearerr`](https://www.man7.org/linux/man-pages/man3/dbm_clearerr.3p.html) - database functions
+[`dbm_close`](https://www.man7.org/linux/man-pages/man3/dbm_close.3p.html) - database functions
+[`dbm_delete`](https://www.man7.org/linux/man-pages/man3/dbm_delete.3p.html) - database functions
+[`dbm_error`](https://www.man7.org/linux/man-pages/man3/dbm_error.3p.html) - database functions
+[`dbm_fetch`](https://www.man7.org/linux/man-pages/man3/dbm_fetch.3p.html) - database functions
+[`dbm_firstkey`](https://www.man7.org/linux/man-pages/man3/dbm_firstkey.3p.html) - database functions
+[`dbm_nextkey`](https://www.man7.org/linux/man-pages/man3/dbm_nextkey.3p.html) - database functions
+[`dbm_open`](https://www.man7.org/linux/man-pages/man3/dbm_open.3p.html) - database functions
+[`dbm_store`](https://www.man7.org/linux/man-pages/man3/dbm_store.3p.html) - database functions
+[`dbopen`](https://www.man7.org/linux/man-pages/man3/dbopen.3.html) - database access methods
+[`dbpmda`](https://www.man7.org/linux/man-pages/man1/dbpmda.1.html) - debugger for Performance Co-Pilot PMDAs
+[`dbprobe`](https://www.man7.org/linux/man-pages/man1/dbprobe.1.html) - database response time and availability information
+[`dcb-app`](https://www.man7.org/linux/man-pages/man8/dcb-app.8.html) - show / manipulate application priority table of the DCB (Data Center Bridging) subsystem
+[`dcb-apptrust`](https://www.man7.org/linux/man-pages/man8/dcb-apptrust.8.html) - show / configure per-selector trust and trust order of the application priority table of the DCB (Data Center Bridging) subsystem.
+[`dcb-buffer`](https://www.man7.org/linux/man-pages/man8/dcb-buffer.8.html) - show / manipulate port buffer settings of the DCB (Data Center Bridging) subsystem
+[`dcb-dcbx`](https://www.man7.org/linux/man-pages/man8/dcb-dcbx.8.html) - show / manipulate port DCBX (Data Center Bridging eXchange)
+[`dcb-ets`](https://www.man7.org/linux/man-pages/man8/dcb-ets.8.html) - show / manipulate ETS (Enhanced Transmission Selection) settings of the DCB (Data Center Bridging) subsystem
+[`dcb-maxrate`](https://www.man7.org/linux/man-pages/man8/dcb-maxrate.8.html) - show / manipulate port maxrate settings of the DCB (Data Center Bridging) subsystem
+[`dcb-pfc`](https://www.man7.org/linux/man-pages/man8/dcb-pfc.8.html) - show / manipulate PFC (Priority-based Flow Control) settings of the DCB (Data Center Bridging) subsystem
+[`dcb-rewr`](https://www.man7.org/linux/man-pages/man8/dcb-rewr.8.html) - show / manipulate the rewrite table of the DCB (Data Center Bridging) subsystem
+[`dcb`](https://www.man7.org/linux/man-pages/man8/dcb.8.html) - show / manipulate DCB (Data Center Bridging) settings
+[`dcgettext`](https://www.man7.org/linux/man-pages/man3/dcgettext.3.html) - translate message
+[`dcngettext`](https://www.man7.org/linux/man-pages/man3/dcngettext.3.html) - translate message and choose plural form
+[`dd`](https://www.man7.org/linux/man-pages/man1/dd.1.html) - convert and copy a file
+[`dd`](https://www.man7.org/linux/man-pages/man1/dd.1p.html) - convert and copy a file
+[`ddp`](https://www.man7.org/linux/man-pages/man7/ddp.7.html) - Linux AppleTalk protocol implementation
+[`deallocvt`](https://www.man7.org/linux/man-pages/man1/deallocvt.1.html) - deallocate unused virtual consoles
+[`deb-buildinfo`](https://www.man7.org/linux/man-pages/man5/deb-buildinfo.5.html) - Debian build information file format
+[`deb-changelog`](https://www.man7.org/linux/man-pages/man5/deb-changelog.5.html) - dpkg source packages' changelog file format
+[`deb-changes`](https://www.man7.org/linux/man-pages/man5/deb-changes.5.html) - Debian upload changes control file format
+[`deb-conffiles`](https://www.man7.org/linux/man-pages/man5/deb-conffiles.5.html) - package conffiles
+[`deb-control`](https://www.man7.org/linux/man-pages/man5/deb-control.5.html) - Debian binary package control file format
+[`deb-extra-override`](https://www.man7.org/linux/man-pages/man5/deb-extra-override.5.html) - Debian archive extra override file
+[`deb-md5sums`](https://www.man7.org/linux/man-pages/man5/deb-md5sums.5.html) - package MD5 file digests
+[`deb-old`](https://www.man7.org/linux/man-pages/man5/deb-old.5.html) - old style Debian binary package format
+[`deb-origin`](https://www.man7.org/linux/man-pages/man5/deb-origin.5.html) - Vendor-specific information files
+[`deb-override`](https://www.man7.org/linux/man-pages/man5/deb-override.5.html) - Debian archive override file
+[`deb-postinst`](https://www.man7.org/linux/man-pages/man5/deb-postinst.5.html) - package post-installation maintainer script
+[`deb-postrm`](https://www.man7.org/linux/man-pages/man5/deb-postrm.5.html) - package post-removal maintainer script
+[`deb-preinst`](https://www.man7.org/linux/man-pages/man5/deb-preinst.5.html) - package pre-installation maintainer script
+[`deb-prerm`](https://www.man7.org/linux/man-pages/man5/deb-prerm.5.html) - package pre-removal maintainer script
+[`deb-shlibs`](https://www.man7.org/linux/man-pages/man5/deb-shlibs.5.html) - Debian shared library information file
+[`deb-split`](https://www.man7.org/linux/man-pages/man5/deb-split.5.html) - Debian multi-part binary package format
+[`deb-src-control`](https://www.man7.org/linux/man-pages/man5/deb-src-control.5.html) - Debian source package template control file format
+[`deb-src-files`](https://www.man7.org/linux/man-pages/man5/deb-src-files.5.html) - Debian distribute files format
+[`deb-src-rules`](https://www.man7.org/linux/man-pages/man5/deb-src-rules.5.html) - Debian source package rules file
+[`deb-src-symbols`](https://www.man7.org/linux/man-pages/man5/deb-src-symbols.5.html) - Debian's extended shared library template file
+[`deb-substvars`](https://www.man7.org/linux/man-pages/man5/deb-substvars.5.html) - Debian source substitution variables
+[`deb-symbols`](https://www.man7.org/linux/man-pages/man5/deb-symbols.5.html) - Debian's extended shared library information file
+[`deb-triggers`](https://www.man7.org/linux/man-pages/man5/deb-triggers.5.html) - package triggers
+[`deb-version`](https://www.man7.org/linux/man-pages/man7/deb-version.7.html) - Debian package version number format
+[`deb`](https://www.man7.org/linux/man-pages/man5/deb.5.html) - Debian binary package format
+[`deb822`](https://www.man7.org/linux/man-pages/man5/deb822.5.html) - Debian RFC822 control data format
+[`debhelper-compat-upgrade-checklist`](https://www.man7.org/linux/man-pages/man7/debhelper-compat-upgrade-checklist.7.html) - Upgrade checklist for supported debhelper compat levels
+[`debhelper-obsolete-compat`](https://www.man7.org/linux/man-pages/man7/debhelper-obsolete-compat.7.html) - List of no longer supported compat levels
+[`debhelper`](https://www.man7.org/linux/man-pages/man7/debhelper.7.html) - the debhelper tool suite
+[`debugfs`](https://www.man7.org/linux/man-pages/man8/debugfs.8.html) - ext2/ext3/ext4 file system debugger
+[`debuginfo-install`](https://www.man7.org/linux/man-pages/man1/debuginfo-install.1.html) - install debuginfo packages and their dependencies
+[`default_colors`](https://www.man7.org/linux/man-pages/man3/default_colors.3x.html) - use terminal's default colors
+[`default_contexts`](https://www.man7.org/linux/man-pages/man5/default_contexts.5.html) - The SELinux default contexts configuration file
+[`default_type`](https://www.man7.org/linux/man-pages/man5/default_type.5.html) - The SELinux default type configuration file
+[`define_key`](https://www.man7.org/linux/man-pages/man3/define_key.3x.html) - define a keycode
+[`def_prog_mode`](https://www.man7.org/linux/man-pages/man3/def_prog_mode.3x.html) - low-level curses routines
+[`def_shell_mode`](https://www.man7.org/linux/man-pages/man3/def_shell_mode.3x.html) - low-level curses routines
+[`delay_output`](https://www.man7.org/linux/man-pages/man3/delay_output.3x.html) - miscellaneous curses utility routines
+[`delch`](https://www.man7.org/linux/man-pages/man3/delch.3x.html) - delete character under the cursor in a curses window
+[`del_curterm`](https://www.man7.org/linux/man-pages/man3/del_curterm.3x.html) - curses interfaces to terminfo database
+[`deleteln`](https://www.man7.org/linux/man-pages/man3/deleteln.3x.html) - delete and insert lines in a curses window
+[`delete_module`](https://www.man7.org/linux/man-pages/man2/delete_module.2.html) - unload a kernel module
+[`delpart`](https://www.man7.org/linux/man-pages/man8/delpart.8.html) - tell the kernel to forget about a partition
+[`delscreen`](https://www.man7.org/linux/man-pages/man3/delscreen.3x.html) - curses screen initialization and manipulation routines
+[`delta`](https://www.man7.org/linux/man-pages/man1/delta.1p.html) - make a delta (change) to an SCCS file (DEVELOPMENT)
+[`delwin`](https://www.man7.org/linux/man-pages/man3/delwin.3x.html) - create curses windows
+[`depmod`](https://www.man7.org/linux/man-pages/man8/depmod.8.html) - Generate modules.dep and map files.
+[`depmod.d`](https://www.man7.org/linux/man-pages/man5/depmod.d.5.html) - Configuration directory for depmod
+[`derb`](https://www.man7.org/linux/man-pages/man1/derb.1.html) - disassemble a resource bundle
+[`derwin`](https://www.man7.org/linux/man-pages/man3/derwin.3x.html) - create curses windows
+[`des_crypt`](https://www.man7.org/linux/man-pages/man3/des_crypt.3.html) - fast DES encryption
+[`DES_FAILED`](https://www.man7.org/linux/man-pages/man3/DES_FAILED.3.html) - fast DES encryption
+[`des_failed`](https://www.man7.org/linux/man-pages/man3/des_failed.3.html) - fast DES encryption
+[`des_setparity`](https://www.man7.org/linux/man-pages/man3/des_setparity.3.html) - fast DES encryption
+[`devlink-dev`](https://www.man7.org/linux/man-pages/man8/devlink-dev.8.html) - devlink device configuration
+[`devlink-dpipe`](https://www.man7.org/linux/man-pages/man8/devlink-dpipe.8.html) - devlink dataplane pipeline visualization
+[`devlink-health`](https://www.man7.org/linux/man-pages/man8/devlink-health.8.html) - devlink health reporting and recovery
+[`devlink-lc`](https://www.man7.org/linux/man-pages/man8/devlink-lc.8.html) - devlink line card configuration
+[`devlink-monitor`](https://www.man7.org/linux/man-pages/man8/devlink-monitor.8.html) - state monitoring
+[`devlink-port`](https://www.man7.org/linux/man-pages/man8/devlink-port.8.html) - devlink port configuration
+[`devlink-rate`](https://www.man7.org/linux/man-pages/man8/devlink-rate.8.html) - devlink rate management
+[`devlink-region`](https://www.man7.org/linux/man-pages/man8/devlink-region.8.html) - devlink address region access
+[`devlink-resource`](https://www.man7.org/linux/man-pages/man8/devlink-resource.8.html) - devlink device resource configuration
+[`devlink-sb`](https://www.man7.org/linux/man-pages/man8/devlink-sb.8.html) - devlink shared buffer configuration
+[`devlink-trap`](https://www.man7.org/linux/man-pages/man8/devlink-trap.8.html) - devlink trap configuration
+[`devlink`](https://www.man7.org/linux/man-pages/man8/devlink.8.html) - Devlink tool
+[`dev_t`](https://www.man7.org/linux/man-pages/man3/dev_t.3type.html) - device ID
+[`df`](https://www.man7.org/linux/man-pages/man1/df.1.html) - report file system space usage
+[`df`](https://www.man7.org/linux/man-pages/man1/df.1p.html) - report free disk space
+[`dgettext`](https://www.man7.org/linux/man-pages/man3/dgettext.3.html) - translate message
+[`dh`](https://www.man7.org/linux/man-pages/man1/dh.1.html) - debhelper command sequencer
+[`dh_assistant`](https://www.man7.org/linux/man-pages/man1/dh_assistant.1.html) - tool for supporting debhelper tools and provide introspection
+[`dh_auto_build`](https://www.man7.org/linux/man-pages/man1/dh_auto_build.1.html) - automatically builds a package
+[`dh_auto_clean`](https://www.man7.org/linux/man-pages/man1/dh_auto_clean.1.html) - automatically cleans up after a build
+[`dh_auto_configure`](https://www.man7.org/linux/man-pages/man1/dh_auto_configure.1.html) - automatically configure a package prior to building
+[`dh_auto_install`](https://www.man7.org/linux/man-pages/man1/dh_auto_install.1.html) - automatically runs make install or similar
+[`dh_auto_test`](https://www.man7.org/linux/man-pages/man1/dh_auto_test.1.html) - automatically runs a package's test suites
+[`dh_bugfiles`](https://www.man7.org/linux/man-pages/man1/dh_bugfiles.1.html) - install bug reporting customization files into package build directories
+[`dh_builddeb`](https://www.man7.org/linux/man-pages/man1/dh_builddeb.1.html) - build Debian binary packages
+[`dh_clean`](https://www.man7.org/linux/man-pages/man1/dh_clean.1.html) - clean up package build directories
+[`dh_compress`](https://www.man7.org/linux/man-pages/man1/dh_compress.1.html) - compress files and fix symlinks in package build directories
+[`dh_dwz`](https://www.man7.org/linux/man-pages/man1/dh_dwz.1.html) - optimize DWARF debug information in ELF binaries via dwz
+[`dh_fixperms`](https://www.man7.org/linux/man-pages/man1/dh_fixperms.1.html) - fix permissions of files in package build directories
+[`dh_gencontrol`](https://www.man7.org/linux/man-pages/man1/dh_gencontrol.1.html) - generate and install control file
+[`dh_icons`](https://www.man7.org/linux/man-pages/man1/dh_icons.1.html) - Update caches of Freedesktop icons
+[`dh_install`](https://www.man7.org/linux/man-pages/man1/dh_install.1.html) - install files into package build directories
+[`dh_installalternatives`](https://www.man7.org/linux/man-pages/man1/dh_installalternatives.1.html) - install declarative alternative rules
+[`dh_installcatalogs`](https://www.man7.org/linux/man-pages/man1/dh_installcatalogs.1.html) - install and register SGML Catalogs
+[`dh_installchangelogs`](https://www.man7.org/linux/man-pages/man1/dh_installchangelogs.1.html) - install changelogs into package build directories
+[`dh_installcron`](https://www.man7.org/linux/man-pages/man1/dh_installcron.1.html) - install cron scripts into etc/cron.*
+[`dh_installdeb`](https://www.man7.org/linux/man-pages/man1/dh_installdeb.1.html) - install files into the DEBIAN directory
+[`dh_installdebconf`](https://www.man7.org/linux/man-pages/man1/dh_installdebconf.1.html) - install files used by debconf in package build directories
+[`dh_installdirs`](https://www.man7.org/linux/man-pages/man1/dh_installdirs.1.html) - create subdirectories in package build directories
+[`dh_installdocs`](https://www.man7.org/linux/man-pages/man1/dh_installdocs.1.html) - install documentation into package build directories
+[`dh_installemacsen`](https://www.man7.org/linux/man-pages/man1/dh_installemacsen.1.html) - register an Emacs add on package
+[`dh_installexamples`](https://www.man7.org/linux/man-pages/man1/dh_installexamples.1.html) - install example files into package build directories
+[`dh_installgsettings`](https://www.man7.org/linux/man-pages/man1/dh_installgsettings.1.html) - install GSettings overrides and set dependencies
+[`dh_installifupdown`](https://www.man7.org/linux/man-pages/man1/dh_installifupdown.1.html) - install if-up and if-down hooks
+[`dh_installinfo`](https://www.man7.org/linux/man-pages/man1/dh_installinfo.1.html) - install info files
+[`dh_installinit`](https://www.man7.org/linux/man-pages/man1/dh_installinit.1.html) - install service init files into package build directories
+[`dh_installinitramfs`](https://www.man7.org/linux/man-pages/man1/dh_installinitramfs.1.html) - install initramfs hooks and setup maintscripts
+[`dh_installlogcheck`](https://www.man7.org/linux/man-pages/man1/dh_installlogcheck.1.html) - install logcheck rulefiles into etc/logcheck/
+[`dh_installlogrotate`](https://www.man7.org/linux/man-pages/man1/dh_installlogrotate.1.html) - install logrotate config files
+[`dh_installman`](https://www.man7.org/linux/man-pages/man1/dh_installman.1.html) - install man pages into package build directories
+[`dh_installmanpages`](https://www.man7.org/linux/man-pages/man1/dh_installmanpages.1.html) - old-style man page installer (deprecated)
+[`dh_installmenu`](https://www.man7.org/linux/man-pages/man1/dh_installmenu.1.html) - install Debian menu files into package build directories
+[`dh_installmime`](https://www.man7.org/linux/man-pages/man1/dh_installmime.1.html) - install mime files into package build directories
+[`dh_installmodules`](https://www.man7.org/linux/man-pages/man1/dh_installmodules.1.html) - register kernel modules
+[`dh_installpam`](https://www.man7.org/linux/man-pages/man1/dh_installpam.1.html) - install pam support files
+[`dh_installppp`](https://www.man7.org/linux/man-pages/man1/dh_installppp.1.html) - install ppp ip-up and ip-down files
+[`dh_installsystemd`](https://www.man7.org/linux/man-pages/man1/dh_installsystemd.1.html) - install systemd unit files
+[`dh_installsystemduser`](https://www.man7.org/linux/man-pages/man1/dh_installsystemduser.1.html) - install systemd unit files
+[`dh_installsysusers`](https://www.man7.org/linux/man-pages/man1/dh_installsysusers.1.html) - install and integrates systemd sysusers files
+[`dh_installtmpfiles`](https://www.man7.org/linux/man-pages/man1/dh_installtmpfiles.1.html) - install tmpfiles.d configuration files
+[`dh_installudev`](https://www.man7.org/linux/man-pages/man1/dh_installudev.1.html) - install udev rules files
+[`dh_installwm`](https://www.man7.org/linux/man-pages/man1/dh_installwm.1.html) - register a window manager
+[`dh_installxfonts`](https://www.man7.org/linux/man-pages/man1/dh_installxfonts.1.html) - register X fonts
+[`dh_link`](https://www.man7.org/linux/man-pages/man1/dh_link.1.html) - create symlinks in package build directories
+[`dh_lintian`](https://www.man7.org/linux/man-pages/man1/dh_lintian.1.html) - install lintian override files into package build directories
+[`dh_listpackages`](https://www.man7.org/linux/man-pages/man1/dh_listpackages.1.html) - list binary packages debhelper will act on
+[`dh_makeshlibs`](https://www.man7.org/linux/man-pages/man1/dh_makeshlibs.1.html) - automatically create shlibs file and call dpkg-gensymbols
+[`dh_md5sums`](https://www.man7.org/linux/man-pages/man1/dh_md5sums.1.html) - generate DEBIAN/md5sums file
+[`dh_missing`](https://www.man7.org/linux/man-pages/man1/dh_missing.1.html) - check for missing files
+[`dh_movefiles`](https://www.man7.org/linux/man-pages/man1/dh_movefiles.1.html) - move files out of debian/tmp into subpackages
+[`dh_movetousr`](https://www.man7.org/linux/man-pages/man1/dh_movetousr.1.html) - canonicalize location according to merged-/usr
+[`dh_perl`](https://www.man7.org/linux/man-pages/man1/dh_perl.1.html) - calculates Perl dependencies and cleans up after MakeMaker
+[`dh_prep`](https://www.man7.org/linux/man-pages/man1/dh_prep.1.html) - perform cleanups in preparation for building a binary package
+[`dh_shlibdeps`](https://www.man7.org/linux/man-pages/man1/dh_shlibdeps.1.html) - calculate shared library dependencies
+[`dh_strip`](https://www.man7.org/linux/man-pages/man1/dh_strip.1.html) - strip executables, shared libraries, and some static libraries
+[`dh_systemd_enable`](https://www.man7.org/linux/man-pages/man1/dh_systemd_enable.1.html) - enable/disable systemd unit files
+[`dh_systemd_start`](https://www.man7.org/linux/man-pages/man1/dh_systemd_start.1.html) - start/stop/restart systemd unit files
+[`dh_testdir`](https://www.man7.org/linux/man-pages/man1/dh_testdir.1.html) - test directory before building Debian package
+[`dh_testroot`](https://www.man7.org/linux/man-pages/man1/dh_testroot.1.html) - ensure that a package is built with necessary level of root permissions
+[`dh_ucf`](https://www.man7.org/linux/man-pages/man1/dh_ucf.1.html) - register configuration files with ucf
+[`dh_update_autotools_config`](https://www.man7.org/linux/man-pages/man1/dh_update_autotools_config.1.html) - Update autotools config files
+[`dh_usrlocal`](https://www.man7.org/linux/man-pages/man1/dh_usrlocal.1.html) - migrate usr/local directories to maintainer scripts
+[`diff`](https://www.man7.org/linux/man-pages/man1/diff.1.html) - compare files line by line
+[`diff`](https://www.man7.org/linux/man-pages/man1/diff.1p.html) - compare two files
+[`diff3`](https://www.man7.org/linux/man-pages/man1/diff3.1.html) - compare three files line by line
+[`diffman-git`](https://www.man7.org/linux/man-pages/man1/diffman-git.1.html) - compare changes to manual pages line by line
+[`difftime`](https://www.man7.org/linux/man-pages/man3/difftime.3.html) - calculate time difference
+[`difftime`](https://www.man7.org/linux/man-pages/man3/difftime.3p.html) - compute the difference between two calendar time values
+[`dir`](https://www.man7.org/linux/man-pages/man1/dir.1.html) - list directory contents
+[`dircolors`](https://www.man7.org/linux/man-pages/man1/dircolors.1.html) - color setup for ls
+[`dir_colors`](https://www.man7.org/linux/man-pages/man5/dir_colors.5.html) - configuration file for dircolors
+[`dirent.h`](https://www.man7.org/linux/man-pages/man0/dirent.h.0p.html) - format of directory entries
+[`dirfd`](https://www.man7.org/linux/man-pages/man3/dirfd.3.html) - get directory stream file descriptor
+[`dirfd`](https://www.man7.org/linux/man-pages/man3/dirfd.3p.html) - extract the file descriptor used by a DIR stream
+[`dirname`](https://www.man7.org/linux/man-pages/man1/dirname.1.html) - strip last component from file name
+[`dirname`](https://www.man7.org/linux/man-pages/man1/dirname.1p.html) - return the directory portion of a pathname
+[`dirname`](https://www.man7.org/linux/man-pages/man3/dirname.3.html) - parse pathname components
+[`dirname`](https://www.man7.org/linux/man-pages/man3/dirname.3p.html) - report the parent directory name of a file pathname
+[`ditroff` -](https://www.man7.org/linux/man-pages/man7/ditroff.7.html) - (no description)
+[`div`](https://www.man7.org/linux/man-pages/man3/div.3.html) - compute quotient and remainder of an integer division
+[`div`](https://www.man7.org/linux/man-pages/man3/div.3p.html) - compute the quotient and remainder of an integer division
+[`div_t`](https://www.man7.org/linux/man-pages/man3/div_t.3type.html) - quotient and remainder of an integer division
+[`dkvis`](https://www.man7.org/linux/man-pages/man1/dkvis.1.html) - visualize disk I/O activity and performance
+[`dladdr`](https://www.man7.org/linux/man-pages/man3/dladdr.3.html) - translate address to symbolic information
+[`dladdr1`](https://www.man7.org/linux/man-pages/man3/dladdr1.3.html) - translate address to symbolic information
+[`dlclose`](https://www.man7.org/linux/man-pages/man3/dlclose.3.html) - open and close a shared object
+[`dlclose`](https://www.man7.org/linux/man-pages/man3/dlclose.3p.html) - close a symbol table handle
+[`dlerror`](https://www.man7.org/linux/man-pages/man3/dlerror.3.html) - obtain error diagnostic for functions in the dlopen API
+[`dlerror`](https://www.man7.org/linux/man-pages/man3/dlerror.3p.html) - get diagnostic information
+[`dlfcn.h`](https://www.man7.org/linux/man-pages/man0/dlfcn.h.0p.html) - dynamic linking
+[`dlinfo`](https://www.man7.org/linux/man-pages/man3/dlinfo.3.html) - obtain information about a dynamically loaded object
+[`dl_iterate_phdr`](https://www.man7.org/linux/man-pages/man3/dl_iterate_phdr.3.html) - walk through list of shared objects
+[`dlltool`](https://www.man7.org/linux/man-pages/man1/dlltool.1.html) - create files needed to build and use DLLs
+[`dlmopen`](https://www.man7.org/linux/man-pages/man3/dlmopen.3.html) - open and close a shared object
+[`dlopen`](https://www.man7.org/linux/man-pages/man3/dlopen.3.html) - open and close a shared object
+[`dlopen`](https://www.man7.org/linux/man-pages/man3/dlopen.3p.html) - open a symbol table handle
+[`dlsym`](https://www.man7.org/linux/man-pages/man3/dlsym.3.html) - obtain address of a symbol in a shared object or executable
+[`dlsym`](https://www.man7.org/linux/man-pages/man3/dlsym.3p.html) - get the address of a symbol from a symbol table handle
+[`dlvsym`](https://www.man7.org/linux/man-pages/man3/dlvsym.3.html) - obtain address of a symbol in a shared object or executable
+[`dmesg`](https://www.man7.org/linux/man-pages/man1/dmesg.1.html) - print or control the kernel ring buffer
+[`dmeventd`](https://www.man7.org/linux/man-pages/man8/dmeventd.8.html) - mapper event daemon
+[`dmfilemapd`](https://www.man7.org/linux/man-pages/man8/dmfilemapd.8.html) - mapper filemap monitoring daemon
+[`dmsetup`](https://www.man7.org/linux/man-pages/man8/dmsetup.8.html) - low level logical volume management
+[`dmstats`](https://www.man7.org/linux/man-pages/man8/dmstats.8.html) - mapper statistics management
+[`dn_comp`](https://www.man7.org/linux/man-pages/man3/dn_comp.3.html) - resolver routines
+[`dn_expand`](https://www.man7.org/linux/man-pages/man3/dn_expand.3.html) - resolver routines
+[`dnf-automatic`](https://www.man7.org/linux/man-pages/man8/dnf-automatic.8.html) - DNF Automatic
+[`dnf4-transaction-json`](https://www.man7.org/linux/man-pages/man5/dnf4-transaction-json.5.html) - DNF Stored Transaction JSON
+[`dnf4`](https://www.man7.org/linux/man-pages/man8/dnf4.8.html) - DNF Command Reference
+[`dnf4.conf`](https://www.man7.org/linux/man-pages/man5/dnf4.conf.5.html) - DNF Configuration Reference
+[`dnf4.modularity`](https://www.man7.org/linux/man-pages/man7/dnf4.modularity.7.html) - Modularity in DNF
+[`dngettext`](https://www.man7.org/linux/man-pages/man3/dngettext.3.html) - translate message and choose plural form
+[`dnsdomainname`](https://www.man7.org/linux/man-pages/man1/dnsdomainname.1.html) - show or set the system's host name
+[`dnssec-trust-anchors.d`](https://www.man7.org/linux/man-pages/man5/dnssec-trust-anchors.d.5.html) - DNSSEC trust anchor configuration files
+[`domainname`](https://www.man7.org/linux/man-pages/man1/domainname.1.html) - show or set the system's host name
+[`dosfsck`](https://www.man7.org/linux/man-pages/man8/dosfsck.8.html) - check and repair MS-DOS FAT filesystems
+[`dosfslabel`](https://www.man7.org/linux/man-pages/man8/dosfslabel.8.html) - set or get MS-DOS filesystem label or volume ID
+[`dot`](https://www.man7.org/linux/man-pages/man1/dot.1p.html) - execute commands in the current environment
+[`do_tracepoint`](https://www.man7.org/linux/man-pages/man3/do_tracepoint.3.html) - LTTng user space tracing
+[`double_t`](https://www.man7.org/linux/man-pages/man3/double_t.3type.html) - most efficient floating types
+[`doupdate`](https://www.man7.org/linux/man-pages/man3/doupdate.3x.html) - refresh curses windows and lines
+[`dpkg-architecture`](https://www.man7.org/linux/man-pages/man1/dpkg-architecture.1.html) - set and determine the architecture for package building
+[`dpkg-build-api`](https://www.man7.org/linux/man-pages/man7/dpkg-build-api.7.html) - source package dpkg build API level
+[`dpkg-buildapi`](https://www.man7.org/linux/man-pages/man1/dpkg-buildapi.1.html) - returns the build API level to use during package build
+[`dpkg-buildflags`](https://www.man7.org/linux/man-pages/man1/dpkg-buildflags.1.html) - returns build flags to use during package build
+[`dpkg-buildpackage`](https://www.man7.org/linux/man-pages/man1/dpkg-buildpackage.1.html) - build binary or source packages from sources
+[`dpkg-buildtree`](https://www.man7.org/linux/man-pages/man1/dpkg-buildtree.1.html) - helper for build tree operations during package builds
+[`dpkg-checkbuilddeps`](https://www.man7.org/linux/man-pages/man1/dpkg-checkbuilddeps.1.html) - check build dependencies and conflicts
+[`dpkg-deb`](https://www.man7.org/linux/man-pages/man1/dpkg-deb.1.html) - Debian package archive (.deb) manipulation tool
+[`dpkg-distaddfile`](https://www.man7.org/linux/man-pages/man1/dpkg-distaddfile.1.html) - add entries to debian/files
+[`dpkg-divert`](https://www.man7.org/linux/man-pages/man1/dpkg-divert.1.html) - override a package's version of a file
+[`dpkg-fsys-usrunmess`](https://www.man7.org/linux/man-pages/man8/dpkg-fsys-usrunmess.8.html) - undoes the merged-/usr-via-aliased-dirs mess
+[`dpkg-genbuildinfo`](https://www.man7.org/linux/man-pages/man1/dpkg-genbuildinfo.1.html) - generate Debian .buildinfo files
+[`dpkg-genchanges`](https://www.man7.org/linux/man-pages/man1/dpkg-genchanges.1.html) - generate Debian .changes files
+[`dpkg-gencontrol`](https://www.man7.org/linux/man-pages/man1/dpkg-gencontrol.1.html) - generate Debian control files
+[`dpkg-gensymbols`](https://www.man7.org/linux/man-pages/man1/dpkg-gensymbols.1.html) - generate symbols files (shared library dependency information)
+[`dpkg-maintscript-helper`](https://www.man7.org/linux/man-pages/man1/dpkg-maintscript-helper.1.html) - works around known dpkg limitations in maintainer scripts
+[`dpkg-mergechangelogs`](https://www.man7.org/linux/man-pages/man1/dpkg-mergechangelogs.1.html) - 3-way merge of debian/changelog files
+[`dpkg-name`](https://www.man7.org/linux/man-pages/man1/dpkg-name.1.html) - rename Debian packages to full package names
+[`dpkg-parsechangelog`](https://www.man7.org/linux/man-pages/man1/dpkg-parsechangelog.1.html) - parse Debian changelog files
+[`dpkg-query`](https://www.man7.org/linux/man-pages/man1/dpkg-query.1.html) - a tool to query the dpkg database
+[`dpkg-realpath`](https://www.man7.org/linux/man-pages/man1/dpkg-realpath.1.html) - print the resolved pathname with DPKG_ROOT support
+[`dpkg-scanpackages`](https://www.man7.org/linux/man-pages/man1/dpkg-scanpackages.1.html) - create Packages index files
+[`dpkg-scansources`](https://www.man7.org/linux/man-pages/man1/dpkg-scansources.1.html) - create Sources index files
+[`dpkg-shlibdeps`](https://www.man7.org/linux/man-pages/man1/dpkg-shlibdeps.1.html) - generate shared library substvar dependencies
+[`dpkg-source`](https://www.man7.org/linux/man-pages/man1/dpkg-source.1.html) - Debian source package (.dsc) manipulation tool
+[`dpkg-split`](https://www.man7.org/linux/man-pages/man1/dpkg-split.1.html) - Debian package archive split/join tool
+[`dpkg-statoverride`](https://www.man7.org/linux/man-pages/man1/dpkg-statoverride.1.html) - override ownership and mode of files
+[`dpkg-trigger`](https://www.man7.org/linux/man-pages/man1/dpkg-trigger.1.html) - a package trigger utility
+[`dpkg-vendor`](https://www.man7.org/linux/man-pages/man1/dpkg-vendor.1.html) - queries information about distribution vendors
+[`dpkg`](https://www.man7.org/linux/man-pages/man1/dpkg.1.html) - package manager for Debian
+[`dpkg.cfg`](https://www.man7.org/linux/man-pages/man5/dpkg.cfg.5.html) - dpkg configuration file
+[`dprintf`](https://www.man7.org/linux/man-pages/man3/dprintf.3.html) - formatted output conversion
+[`dprintf`](https://www.man7.org/linux/man-pages/man3/dprintf.3p.html) - print formatted output
+[`dracut-catimages`](https://www.man7.org/linux/man-pages/man8/dracut-catimages.8.html) - creates initial ramdisk image by concatenating images
+[`dracut`](https://www.man7.org/linux/man-pages/man8/dracut.8.html) - low-level tool for generating an initramfs/initrd image
+[`dracut.bootup`](https://www.man7.org/linux/man-pages/man7/dracut.bootup.7.html) - boot ordering in the initramfs
+[`dracut.cmdline`](https://www.man7.org/linux/man-pages/man7/dracut.cmdline.7.html) - dracut kernel command line options
+[`dracut.conf`](https://www.man7.org/linux/man-pages/man5/dracut.conf.5.html) - configuration file(s) for dracut
+[`dracut.modules`](https://www.man7.org/linux/man-pages/man7/dracut.modules.7.html) - dracut modules
+[`drand48`](https://www.man7.org/linux/man-pages/man3/drand48.3.html) - generate uniformly distributed pseudo-random numbers
+[`drand48`](https://www.man7.org/linux/man-pages/man3/drand48.3p.html) - random numbers
+[`drand48_r`](https://www.man7.org/linux/man-pages/man3/drand48_r.3.html) - generate uniformly distributed pseudo-random numbers reentrantly
+[`drem`](https://www.man7.org/linux/man-pages/man3/drem.3.html) - floating-point remainder function
+[`dremf`](https://www.man7.org/linux/man-pages/man3/dremf.3.html) - floating-point remainder function
+[`dreml`](https://www.man7.org/linux/man-pages/man3/dreml.3.html) - floating-point remainder function
+[`drr`](https://www.man7.org/linux/man-pages/man8/drr.8.html) - deficit round robin scheduler
+[`dsc`](https://www.man7.org/linux/man-pages/man5/dsc.5.html) - Debian source package control file format
+[`dselect`](https://www.man7.org/linux/man-pages/man1/dselect.1.html) - Debian package management frontend
+[`dselect.cfg`](https://www.man7.org/linux/man-pages/man5/dselect.cfg.5.html) - dselect configuration file
+[`dsp56k`](https://www.man7.org/linux/man-pages/man4/dsp56k.4.html) - DSP56001 interface device
+[`dtrace`](https://www.man7.org/linux/man-pages/man1/dtrace.1.html) - Dtrace compatible user application static probe generation tool.
+[`du`](https://www.man7.org/linux/man-pages/man1/du.1.html) - estimate file space usage
+[`du`](https://www.man7.org/linux/man-pages/man1/du.1p.html) - estimate file space usage
+[`dump-acct`](https://www.man7.org/linux/man-pages/man8/dump-acct.8.html) - print an acct/pacct file in human-readable format
+[`dump-utmp`](https://www.man7.org/linux/man-pages/man8/dump-utmp.8.html) - print a utmp file in human-readable format
+[`dumpe2fs`](https://www.man7.org/linux/man-pages/man8/dumpe2fs.8.html) - dump ext2/ext3/ext4 file system information
+[`dumpkeys`](https://www.man7.org/linux/man-pages/man1/dumpkeys.1.html) - dump keyboard translation tables
+[`dup`](https://www.man7.org/linux/man-pages/man2/dup.2.html) - duplicate a file descriptor
+[`dup`](https://www.man7.org/linux/man-pages/man3/dup.3p.html) - duplicate an open file descriptor
+[`dup2`](https://www.man7.org/linux/man-pages/man2/dup2.2.html) - duplicate a file descriptor
+[`dup2`](https://www.man7.org/linux/man-pages/man3/dup2.3p.html) - duplicate an open file descriptor
+[`dup3`](https://www.man7.org/linux/man-pages/man2/dup3.2.html) - duplicate a file descriptor
+[`dup_field`](https://www.man7.org/linux/man-pages/man3/dup_field.3x.html) - create and destroy form fields
+[`duplocale`](https://www.man7.org/linux/man-pages/man3/duplocale.3.html) - duplicate a locale object
+[`duplocale`](https://www.man7.org/linux/man-pages/man3/duplocale.3p.html) - duplicate a locale object
+[`dupwin`](https://www.man7.org/linux/man-pages/man3/dupwin.3x.html) - create curses windows
+[`dynamic_field_info`](https://www.man7.org/linux/man-pages/man3/dynamic_field_info.3x.html) - retrieve field characteristics
+[`dysize`](https://www.man7.org/linux/man-pages/man3/dysize.3.html) - get number of days for a given year

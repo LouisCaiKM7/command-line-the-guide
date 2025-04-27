@@ -1,2 +1,2 @@
 # Start with .
-    .ldaprc - LDAP configuration file/environment variables
+.ldaprc - LDAP configuration file/environment variables

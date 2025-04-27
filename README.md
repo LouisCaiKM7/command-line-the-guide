@@ -1,5 +1,6 @@
 # command-line-the-guide
-a guide of how to use command line and shell
+So glad to introduce a guide on command line in github with all linux cmd manual inside!
+A guide of how to use command line and shell.
 
 ## Table of Contents
 

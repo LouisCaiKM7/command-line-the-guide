@@ -4,15 +4,15 @@ a guide of how to use command line and shell
 ## Table of Contents
 
 ### Step one:
-    Make sure you have a command line tool installed on your computer, such as Windows Command Prompt, PowerShell, or the Linux terminal.
+Make sure you have a command line tool installed on your computer, such as Windows Command Prompt, PowerShell, or the Linux terminal.
 
-    If you are using Windows, you can download and install the Windows Subsystem for Linux (WSL) to run Linux commands on Windows.
+If you are using Windows, you can download and install the Windows Subsystem for Linux (WSL) to run Linux commands on Windows.
 
-    All the commands in this guide are written for shell.
+All the commands in this guide are written for shell.
 
-    Therefore, `Win(Command) + R`, then type `cmd` to open command line tools.
+Therefore, `Win(Command) + R`, then type `cmd` to open command line tools.
 
-    Type `sh` to run the shell for your environment.
+Type `sh` to run the shell for your environment.
 
-    Inside, you can type commands and run them. All the commands can be seen in official documentation or [man](https://www.man7.org/linux/man-pages) pages or in this [library](./lib/lib.md).
+Inside, you can type commands and run them. All the commands can be seen in official documentation or [man](https://www.man7.org/linux/man-pages) pages or in this [library](./lib/lib.md).
 

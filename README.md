@@ -16,3 +16,4 @@ Type `sh` to run the shell for your environment.
 
 Inside, you can type commands and run them. All the commands can be seen in official documentation or [man](https://www.man7.org/linux/man-pages) pages or in this [library](./lib/lib.md).
 
+![Alt](https://repobeats.axiom.co/api/embed/3fd5c4c86bb30329cdb539b2a8bef1ad06f21043.svg "Repobeats analytics image")

@@ -6,58 +6,58 @@ All of the information in this library is available online at [linux-man](https:
 
 ## Table of Contents
 
-### [Start with .](./startWithDot.md)
+### [Start with .](./StartsWithDot.md)
 
-### [Start with numbers](./startWithNumbers.md)
+### [Start with numbers](./StartsWithNumbers.md)
 
-### [Start with A](./startWithA.md)
+### [Start with A](./StartsWithA.md)
 
-### [Start with B](./startWithB.md)
+### [Start with B](./StartsWithB.md)
 
-### [Start with C](./startWithC.md)
+### [Start with C](./StartsWithC.md)
 
-### [Start with D](./startWithD.md)
+### [Start with D](./StartsWithD.md)
 
-### [Start with E](./startWithE.md)
+### [Start with E](./StartsWithE.md)
 
-### [Start with F](./startWithF.md)
+### [Start with F](./StartsWithF.md)
 
-### [Start with G](./startWithG.md)
+### [Start with G](./StartsWithG.md)
 
-### [Start with H](./startWithH.md)
+### [Start with H](./StartsWithH.md)
 
-### [Start with I](./startWithI.md)
+### [Start with I](./StartsWithI.md)
 
-### [Start with J](./startWithJ.md)
+### [Start with J](./StartsWithJ.md)
 
-### [Start with K](./startWithK.md)
+### [Start with K](./StartsWithK.md)
 
-### [Start with L](./startWithL.md)
+### [Start with L](./StartsWithL.md)
 
-### [Start with M](./startWithM.md)
+### [Start with M](./StartsWithM.md)
 
-### [Start with N](./startWithN.md)
+### [Start with N](./StartsWithN.md)
 
-### [Start with O](./startWithO.md)
+### [Start with O](./StartsWithO.md)
 
-### [Start with P](./startWithP.md)
+### [Start with P](./StartsWithP.md)
 
-### [Start with Q](./startWithQ.md)
+### [Start with Q](./StartsWithQ.md)
 
-### [Start with R](./startWithR.md)
+### [Start with R](./StartsWithR.md)
 
-### [Start with S](./startWithS.md)
+### [Start with S](./StartsWithS.md)
 
-### [Start with T](./startWithT.md)
+### [Start with T](./StartsWithT.md)
 
-### [Start with U](./startWithU.md)
+### [Start with U](./StartsWithU.md)
 
-### [Start with V](./startWithV.md)
+### [Start with V](./StartsWithV.md)
 
-### [Start with W](./startWithW.md)
+### [Start with W](./StartsWithW.md)
 
-### [Start with X](./startWithX.md)
+### [Start with X](./StartsWithX.md)
 
-### [Start with Y](./startWithY.md)
+### [Start with Y](./StartsWithY.md)
 
-### [Start with Z](./startWithZ.md)
+### [Start with Z](./StartsWithZ.md)

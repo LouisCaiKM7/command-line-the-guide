@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # command-line---the-guide
 
 a guide of how to use command line and shell
+=======
+# command-line-the-guide
+So glad to introduce a guide on command line in github with all linux cmd manual inside!
+A guide of how to use command line and shell.
+>>>>>>> 04c23aff0db0296a9b5de1fa51c12deddb2a7637
 
 ## Table of Contents
 
@@ -184,6 +190,7 @@ If your are using [windows](https://www.microsoft.com/en-us/windows), `Win(Comma
 
 Type `sh` to run the shell for your environment.
 
+<<<<<<< HEAD
 Inside, you can type commands and run them. All the commands can be seen in official documentation or  pages or in the linux section in this [library](./lib/lib.md).
 
 try to get help in command line by typing `some-command --help`
@@ -193,4 +200,10 @@ If you are using [linux](https://www.linux.org/), you can open the terminal by p
 Inside, you can type commands and run them. All the commands can be seen in official documentation or  pages or in the windows section in this [library](./lib/lib.md).
 
 try to get help in command line by typing `man some-command`
+=======
+Type `man xxx` to search wanted command
 
+Inside, you can type commands and run them. All the commands can be seen in official documentation or [man](https://www.man7.org/linux/man-pages) pages or in this [library](./lib/lib.md).
+>>>>>>> 04c23aff0db0296a9b5de1fa51c12deddb2a7637
+
+![Alt](https://repobeats.axiom.co/api/embed/3fd5c4c86bb30329cdb539b2a8bef1ad06f21043.svg "Repobeats analytics image")

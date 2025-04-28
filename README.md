@@ -222,4 +222,15 @@ Contributions of all types are more than welcome; if you are interested in contr
   <img src="https://contrib.rocks/image?repo=LouisCaiKM7/command-line-the-guide" />
 </a>
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=973212012&limit=30" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=973212012&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Active Contributors of LouisCaiKM7/command-line-the-guide - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=973212012&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 ![Alt](https://repobeats.axiom.co/api/embed/3fd5c4c86bb30329cdb539b2a8bef1ad06f21043.svg "Repobeats analytics image")

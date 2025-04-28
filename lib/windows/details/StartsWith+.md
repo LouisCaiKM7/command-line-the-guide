@@ -1,3 +1,0 @@
-- [`+`](https://www.gnu.org/software/coreutils/manual/html_node/String-expressions.html#index-_002b) - String expressions
-- [`+`](https://www.gnu.org/software/coreutils/manual/html_node/Numeric-expressions.html#index-_002b-1) - Numeric expressions
-- [`+page_range`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002bpage_005frange) - pr invocation

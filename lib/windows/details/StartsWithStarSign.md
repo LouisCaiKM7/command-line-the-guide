@@ -1,1 +1,0 @@
-- [`*`](https://www.gnu.org/software/coreutils/manual/html_node/Numeric-expressions.html#index-_002a) - Numeric expressions

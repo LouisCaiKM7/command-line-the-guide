@@ -1,3 +1,0 @@
-- [`%`](https://www.gnu.org/software/coreutils/manual/html_node/Numeric-expressions.html#index-_0025) - Numeric expressions
-- [`%b`](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#index-_0025b) - printf invocation
-- [`%q`](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#index-_0025q) - printf invocation

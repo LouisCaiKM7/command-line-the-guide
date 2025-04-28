@@ -1,1 +1,0 @@
-- [`join`](https://www.gnu.org/software/coreutils/manual/html_node/join-invocation.html#index-join) - join invocation

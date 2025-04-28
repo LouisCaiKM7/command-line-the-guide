@@ -1,3 +1,0 @@
-- [`kill`](https://www.gnu.org/software/coreutils/manual/html_node/kill-invocation.html#index-kill-1) - kill invocation
-- [`kill`](https://www.gnu.org/software/coreutils/manual/html_node/Characters.html#index-kill) - Characters
-- [`kill`](https://www.gnu.org/software/coreutils/manual/html_node/Local.html#index-newline-echoing-after-kill) - Local

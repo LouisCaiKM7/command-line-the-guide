@@ -1,4 +1,0 @@
-- [`year in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Relative-items-in-date-strings.html#index-year-in-date-strings) - Relative items in date strings
-- [`yes`](https://www.gnu.org/software/coreutils/manual/html_node/yes-invocation.html#index-yes) - yes invocation
-- [`yesterday`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-yesterday) - Options for date
-- [`yesterday in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Relative-items-in-date-strings.html#index-yesterday-in-date-strings) - Relative items in date strings

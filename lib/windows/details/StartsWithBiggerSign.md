@@ -1,3 +1,0 @@
-- [`>`](https://www.gnu.org/software/coreutils/manual/html_node/Relations-for-expr.html#index-_003e) - Relations for expr
-- [`>`](https://www.gnu.org/software/coreutils/manual/html_node/String-tests.html#index-_003e-1) - String tests
-- [`>=`](https://www.gnu.org/software/coreutils/manual/html_node/Relations-for-expr.html#index-_003e_003d) - Relations for expr

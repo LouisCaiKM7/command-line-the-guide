@@ -1,1517 +1,760 @@
 # Start with C
 
-[`c++filt`](https://www.man7.org/linux/man-pages/man1/c++filt.1.html) - demangle C++ and Java symbols
----
-[`c99`](https://www.man7.org/linux/man-pages/man1/c99.1p.html) - compile standard C programs
----
-[`cabs`](https://www.man7.org/linux/man-pages/man3/cabs.3.html) - absolute value of a complex number
----
-[`cabs`](https://www.man7.org/linux/man-pages/man3/cabs.3p.html) - return a complex absolute value
----
-[`cabsf`](https://www.man7.org/linux/man-pages/man3/cabsf.3.html) - absolute value of a complex number
----
-[`cabsf`](https://www.man7.org/linux/man-pages/man3/cabsf.3p.html) - return a complex absolute value
----
-[`cabsl`](https://www.man7.org/linux/man-pages/man3/cabsl.3.html) - absolute value of a complex number
----
-[`cabsl`](https://www.man7.org/linux/man-pages/man3/cabsl.3p.html) - return a complex absolute value
----
-[`cacheflush`](https://www.man7.org/linux/man-pages/man2/cacheflush.2.html) - flush contents of instruction and/or data cache
----
-[`cacos`](https://www.man7.org/linux/man-pages/man3/cacos.3.html) - complex arc cosine
----
-[`cacos`](https://www.man7.org/linux/man-pages/man3/cacos.3p.html) - complex arc cosine functions
----
-[`cacosf`](https://www.man7.org/linux/man-pages/man3/cacosf.3.html) - complex arc cosine
----
-[`cacosf`](https://www.man7.org/linux/man-pages/man3/cacosf.3p.html) - complex arc cosine functions
----
-[`cacosh`](https://www.man7.org/linux/man-pages/man3/cacosh.3.html) - complex arc hyperbolic cosine
----
-[`cacosh`](https://www.man7.org/linux/man-pages/man3/cacosh.3p.html) - complex arc hyperbolic cosine functions
----
-[`cacoshf`](https://www.man7.org/linux/man-pages/man3/cacoshf.3.html) - complex arc hyperbolic cosine
----
-[`cacoshf`](https://www.man7.org/linux/man-pages/man3/cacoshf.3p.html) - complex arc hyperbolic cosine functions
----
-[`cacoshl`](https://www.man7.org/linux/man-pages/man3/cacoshl.3.html) - complex arc hyperbolic cosine
----
-[`cacoshl`](https://www.man7.org/linux/man-pages/man3/cacoshl.3p.html) - complex arc hyperbolic cosine functions
----
-[`cacosl`](https://www.man7.org/linux/man-pages/man3/cacosl.3.html) - complex arc cosine
----
-[`cacosl`](https://www.man7.org/linux/man-pages/man3/cacosl.3p.html) - complex arc cosine functions
----
-[`CAKE`](https://www.man7.org/linux/man-pages/man8/CAKE.8.html) - Common Applications Kept Enhanced (CAKE)
----
-[`cal`](https://www.man7.org/linux/man-pages/man1/cal.1.html) - display a calendar
----
-[`cal`](https://www.man7.org/linux/man-pages/man1/cal.1p.html) - print a calendar
----
-[`callgrind_annotate`](https://www.man7.org/linux/man-pages/man1/callgrind_annotate.1.html) - post-processing tool for the Callgrind
----
-[`callgrind_control`](https://www.man7.org/linux/man-pages/man1/callgrind_control.1.html) - observe and control programs being run by Callgrind
----
-[`calloc`](https://www.man7.org/linux/man-pages/man3/calloc.3.html) - allocate and free dynamic memory
----
-[`calloc`](https://www.man7.org/linux/man-pages/man3/calloc.3p.html) - a memory allocator
----
-[`callrpc`](https://www.man7.org/linux/man-pages/man3/callrpc.3.html) - library routines for remote procedure calls
----
-[`cancel`](https://www.man7.org/linux/man-pages/man1/cancel.1.html) - cancel jobs
----
-[`can_change_color`](https://www.man7.org/linux/man-pages/man3/can_change_color.3x.html) - curses color manipulation routines
----
-[`canonicalize_file_name`](https://www.man7.org/linux/man-pages/man3/canonicalize_file_name.3.html) - return the canonicalized absolute pathname
----
-[`capabilities`](https://www.man7.org/linux/man-pages/man7/capabilities.7.html) - overview of Linux capabilities
----
-[`capability.conf`](https://www.man7.org/linux/man-pages/man5/capability.conf.5.html) - pam_cap module configuration file
----
-[`cap_clear`](https://www.man7.org/linux/man-pages/man3/cap_clear.3.html) - capability data object manipulation
----
-[`cap_clear_flag`](https://www.man7.org/linux/man-pages/man3/cap_clear_flag.3.html) - capability data object manipulation
----
-[`cap_compare`](https://www.man7.org/linux/man-pages/man3/cap_compare.3.html) - capability data object manipulation
----
-[`cap_copy_ext`](https://www.man7.org/linux/man-pages/man3/cap_copy_ext.3.html) - capability state external representation translation
----
-[`cap_copy_int`](https://www.man7.org/linux/man-pages/man3/cap_copy_int.3.html) - capability state external representation translation
----
-[`cap_copy_int_check`](https://www.man7.org/linux/man-pages/man3/cap_copy_int_check.3.html) - capability state external representation translation
----
-[`cap_drop_bound`](https://www.man7.org/linux/man-pages/man3/cap_drop_bound.3.html) - capability manipulation on processes
----
-[`cap_dup`](https://www.man7.org/linux/man-pages/man3/cap_dup.3.html) - capability data object storage management
----
-[`cap_fill`](https://www.man7.org/linux/man-pages/man3/cap_fill.3.html) - capability data object manipulation
----
-[`cap_fill_flag`](https://www.man7.org/linux/man-pages/man3/cap_fill_flag.3.html) - capability data object manipulation
----
-[`cap_free`](https://www.man7.org/linux/man-pages/man3/cap_free.3.html) - capability data object storage management
----
-[`cap_from_name`](https://www.man7.org/linux/man-pages/man3/cap_from_name.3.html) - capability state textual representation translation
----
-[`cap_from_text`](https://www.man7.org/linux/man-pages/man3/cap_from_text.3.html) - capability state textual representation translation
----
-[`cap_func_launcher`](https://www.man7.org/linux/man-pages/man3/cap_func_launcher.3.html) - libcap launch functionality
----
-[`capget`](https://www.man7.org/linux/man-pages/man2/capget.2.html) - set/get capabilities of thread(s)
----
-[`cap_get_ambient`](https://www.man7.org/linux/man-pages/man3/cap_get_ambient.3.html) - capability manipulation on processes
----
-[`cap_get_bound`](https://www.man7.org/linux/man-pages/man3/cap_get_bound.3.html) - capability manipulation on processes
----
-[`cap_get_fd`](https://www.man7.org/linux/man-pages/man3/cap_get_fd.3.html) - capability manipulation on files
----
-[`cap_get_file`](https://www.man7.org/linux/man-pages/man3/cap_get_file.3.html) - capability manipulation on files
----
-[`cap_get_flag`](https://www.man7.org/linux/man-pages/man3/cap_get_flag.3.html) - capability data object manipulation
----
-[`cap_get_mode`](https://www.man7.org/linux/man-pages/man3/cap_get_mode.3.html) - capability manipulation on processes
----
-[`cap_get_nsowner`](https://www.man7.org/linux/man-pages/man3/cap_get_nsowner.3.html) - capability manipulation on files
----
-[`capgetp`](https://www.man7.org/linux/man-pages/man3/capgetp.3.html) - capability manipulation on processes
----
-[`cap_get_pid`](https://www.man7.org/linux/man-pages/man3/cap_get_pid.3.html) - capability manipulation on processes
----
-[`cap_get_proc`](https://www.man7.org/linux/man-pages/man3/cap_get_proc.3.html) - capability manipulation on processes
----
-[`cap_get_secbits`](https://www.man7.org/linux/man-pages/man3/cap_get_secbits.3.html) - capability manipulation on processes
----
-[`cap_iab`](https://www.man7.org/linux/man-pages/man3/cap_iab.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_compare`](https://www.man7.org/linux/man-pages/man3/cap_iab_compare.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_dup`](https://www.man7.org/linux/man-pages/man3/cap_iab_dup.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_fill`](https://www.man7.org/linux/man-pages/man3/cap_iab_fill.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_from_text`](https://www.man7.org/linux/man-pages/man3/cap_iab_from_text.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_get_pid`](https://www.man7.org/linux/man-pages/man3/cap_iab_get_pid.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_get_proc`](https://www.man7.org/linux/man-pages/man3/cap_iab_get_proc.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_get_vector`](https://www.man7.org/linux/man-pages/man3/cap_iab_get_vector.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_init`](https://www.man7.org/linux/man-pages/man3/cap_iab_init.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_set_proc`](https://www.man7.org/linux/man-pages/man3/cap_iab_set_proc.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_set_vector`](https://www.man7.org/linux/man-pages/man3/cap_iab_set_vector.3.html) - inheritable IAB tuple support functions
----
-[`cap_iab_to_text`](https://www.man7.org/linux/man-pages/man3/cap_iab_to_text.3.html) - inheritable IAB tuple support functions
----
-[`cap_init`](https://www.man7.org/linux/man-pages/man3/cap_init.3.html) - capability data object storage management
----
-[`cap_launch`](https://www.man7.org/linux/man-pages/man3/cap_launch.3.html) - libcap launch functionality
----
-[`cap_launcher_callback`](https://www.man7.org/linux/man-pages/man3/cap_launcher_callback.3.html) - libcap launch functionality
----
-[`cap_launcher_set_chroot`](https://www.man7.org/linux/man-pages/man3/cap_launcher_set_chroot.3.html) - libcap launch functionality
----
-[`cap_launcher_setgroups`](https://www.man7.org/linux/man-pages/man3/cap_launcher_setgroups.3.html) - libcap launch functionality
----
-[`cap_launcher_set_iab`](https://www.man7.org/linux/man-pages/man3/cap_launcher_set_iab.3.html) - libcap launch functionality
----
-[`cap_launcher_set_mode`](https://www.man7.org/linux/man-pages/man3/cap_launcher_set_mode.3.html) - libcap launch functionality
----
-[`cap_launcher_setuid`](https://www.man7.org/linux/man-pages/man3/cap_launcher_setuid.3.html) - libcap launch functionality
----
-[`cap_max_bits`](https://www.man7.org/linux/man-pages/man3/cap_max_bits.3.html) - capability data object manipulation
----
-[`cap_mode`](https://www.man7.org/linux/man-pages/man3/cap_mode.3.html) - capability manipulation on processes
----
-[`cap_mode_name`](https://www.man7.org/linux/man-pages/man3/cap_mode_name.3.html) - capability manipulation on processes
----
-[`cap_new_launcher`](https://www.man7.org/linux/man-pages/man3/cap_new_launcher.3.html) - libcap launch functionality
----
-[`capng_apply`](https://www.man7.org/linux/man-pages/man3/capng_apply.3.html) - apply the stored capabilities settings
----
-[`capng_apply_caps_fd`](https://www.man7.org/linux/man-pages/man3/capng_apply_caps_fd.3.html) - write file-based capabilities to extended attributes
----
-[`capng_capability_to_name`](https://www.man7.org/linux/man-pages/man3/capng_capability_to_name.3.html) - convert capability integer to text
----
-[`capng_change_id`](https://www.man7.org/linux/man-pages/man3/capng_change_id.3.html) - change the credentials retaining capabilities
----
-[`capng_clear`](https://www.man7.org/linux/man-pages/man3/capng_clear.3.html) - clear chosen capabilities set
----
-[`capng_fill`](https://www.man7.org/linux/man-pages/man3/capng_fill.3.html) - fill chosen capabilities set
----
-[`capng_get_caps_fd`](https://www.man7.org/linux/man-pages/man3/capng_get_caps_fd.3.html) - read file-based capabilities from extended attributes
----
-[`capng_get_caps_process`](https://www.man7.org/linux/man-pages/man3/capng_get_caps_process.3.html) - get the capabilities from a process
----
-[`capng_get_rootid`](https://www.man7.org/linux/man-pages/man3/capng_get_rootid.3.html) - get namespace root id
----
-[`capng_have_capabilities`](https://www.man7.org/linux/man-pages/man3/capng_have_capabilities.3.html) - check for capabilities
----
-[`capng_have_capability`](https://www.man7.org/linux/man-pages/man3/capng_have_capability.3.html) - check for specific capability
----
-[`capng_have_permitted_capabilities`](https://www.man7.org/linux/man-pages/man3/capng_have_permitted_capabilities.3.html) - check for capabilities
----
-[`capng_lock`](https://www.man7.org/linux/man-pages/man3/capng_lock.3.html) - lock the current process capabilities settings
----
-[`capng_name_to_capability`](https://www.man7.org/linux/man-pages/man3/capng_name_to_capability.3.html) - convert capability text to integer
----
-[`capng_print_caps_numeric`](https://www.man7.org/linux/man-pages/man3/capng_print_caps_numeric.3.html) - print numeric values for capabilities set
----
-[`capng_print_caps_text`](https://www.man7.org/linux/man-pages/man3/capng_print_caps_text.3.html) - print names of values for capabilities set
----
-[`capng_restore_state`](https://www.man7.org/linux/man-pages/man3/capng_restore_state.3.html) - set the internal library state
----
-[`capng_save_state`](https://www.man7.org/linux/man-pages/man3/capng_save_state.3.html) - get the internal library state
----
-[`capng_setpid`](https://www.man7.org/linux/man-pages/man3/capng_setpid.3.html) - set working pid
----
-[`capng_set_rootid`](https://www.man7.org/linux/man-pages/man3/capng_set_rootid.3.html) - set namespace root id
----
-[`capng_update`](https://www.man7.org/linux/man-pages/man3/capng_update.3.html) - update the stored capabilities settings
----
-[`capng_updatev`](https://www.man7.org/linux/man-pages/man3/capng_updatev.3.html) - update the stored capabilities settings
----
-[`cap_prctl`](https://www.man7.org/linux/man-pages/man3/cap_prctl.3.html) - capability manipulation on processes
----
-[`cap_prctlw`](https://www.man7.org/linux/man-pages/man3/cap_prctlw.3.html) - capability manipulation on processes
----
-[`cap_proc_root`](https://www.man7.org/linux/man-pages/man3/cap_proc_root.3.html) - inheritable IAB tuple support functions
----
-[`cap_reset_ambient`](https://www.man7.org/linux/man-pages/man3/cap_reset_ambient.3.html) - capability manipulation on processes
----
-[`capset`](https://www.man7.org/linux/man-pages/man2/capset.2.html) - set/get capabilities of thread(s)
----
-[`cap_set_ambient`](https://www.man7.org/linux/man-pages/man3/cap_set_ambient.3.html) - capability manipulation on processes
----
-[`cap_set_fd`](https://www.man7.org/linux/man-pages/man3/cap_set_fd.3.html) - capability manipulation on files
----
-[`cap_set_file`](https://www.man7.org/linux/man-pages/man3/cap_set_file.3.html) - capability manipulation on files
----
-[`cap_set_flag`](https://www.man7.org/linux/man-pages/man3/cap_set_flag.3.html) - capability data object manipulation
----
-[`cap_setgroups`](https://www.man7.org/linux/man-pages/man3/cap_setgroups.3.html) - capability manipulation on processes
----
-[`cap_set_mode`](https://www.man7.org/linux/man-pages/man3/cap_set_mode.3.html) - capability manipulation on processes
----
-[`cap_set_nsowner`](https://www.man7.org/linux/man-pages/man3/cap_set_nsowner.3.html) - capability manipulation on files
----
-[`capsetp`](https://www.man7.org/linux/man-pages/man3/capsetp.3.html) - capability manipulation on processes
----
-[`cap_set_proc`](https://www.man7.org/linux/man-pages/man3/cap_set_proc.3.html) - capability manipulation on processes
----
-[`cap_set_secbits`](https://www.man7.org/linux/man-pages/man3/cap_set_secbits.3.html) - capability manipulation on processes
----
-[`cap_set_syscall`](https://www.man7.org/linux/man-pages/man3/cap_set_syscall.3.html) - capability data object manipulation
----
-[`cap_setuid`](https://www.man7.org/linux/man-pages/man3/cap_setuid.3.html) - capability manipulation on processes
----
-[`capsh`](https://www.man7.org/linux/man-pages/man1/capsh.1.html) - capability shell wrapper
----
-[`cap_size`](https://www.man7.org/linux/man-pages/man3/cap_size.3.html) - capability state external representation translation
----
-[`capsule.service`](https://www.man7.org/linux/man-pages/man5/capsule.service.5.html) - System unit for the capsule service manager
----
-[`capsule@.service`](https://www.man7.org/linux/man-pages/man5/capsule@.service.5.html) - System unit for the capsule service manager
----
-[`captest`](https://www.man7.org/linux/man-pages/man8/captest.8.html) - a program to demonstrate capabilities
----
-[`cap_to_name`](https://www.man7.org/linux/man-pages/man3/cap_to_name.3.html) - capability state textual representation translation
----
-[`cap_to_text`](https://www.man7.org/linux/man-pages/man3/cap_to_text.3.html) - capability state textual representation translation
----
-[`captree`](https://www.man7.org/linux/man-pages/man8/captree.8.html) - display tree of process capabilities
----
-[`carg`](https://www.man7.org/linux/man-pages/man3/carg.3.html) - calculate the complex argument
----
-[`carg`](https://www.man7.org/linux/man-pages/man3/carg.3p.html) - complex argument functions
----
-[`cargf`](https://www.man7.org/linux/man-pages/man3/cargf.3.html) - calculate the complex argument
----
-[`cargf`](https://www.man7.org/linux/man-pages/man3/cargf.3p.html) - complex argument functions
----
-[`cargl`](https://www.man7.org/linux/man-pages/man3/cargl.3.html) - calculate the complex argument
----
-[`cargl`](https://www.man7.org/linux/man-pages/man3/cargl.3p.html) - complex argument functions
----
-[`casin`](https://www.man7.org/linux/man-pages/man3/casin.3.html) - complex arc sine
----
-[`casin`](https://www.man7.org/linux/man-pages/man3/casin.3p.html) - complex arc sine functions
----
-[`casinf`](https://www.man7.org/linux/man-pages/man3/casinf.3.html) - complex arc sine
----
-[`casinf`](https://www.man7.org/linux/man-pages/man3/casinf.3p.html) - complex arc sine functions
----
-[`casinh`](https://www.man7.org/linux/man-pages/man3/casinh.3.html) - complex arc sine hyperbolic
----
-[`casinh`](https://www.man7.org/linux/man-pages/man3/casinh.3p.html) - complex arc hyperbolic sine functions
----
-[`casinhf`](https://www.man7.org/linux/man-pages/man3/casinhf.3.html) - complex arc sine hyperbolic
----
-[`casinhf`](https://www.man7.org/linux/man-pages/man3/casinhf.3p.html) - complex arc hyperbolic sine functions
----
-[`casinhl`](https://www.man7.org/linux/man-pages/man3/casinhl.3.html) - complex arc sine hyperbolic
----
-[`casinhl`](https://www.man7.org/linux/man-pages/man3/casinhl.3p.html) - complex arc hyperbolic sine functions
----
-[`casinl`](https://www.man7.org/linux/man-pages/man3/casinl.3.html) - complex arc sine
----
-[`casinl`](https://www.man7.org/linux/man-pages/man3/casinl.3p.html) - complex arc sine functions
----
-[`cat`](https://www.man7.org/linux/man-pages/man1/cat.1.html) - concatenate files and print on the standard output
----
-[`cat`](https://www.man7.org/linux/man-pages/man1/cat.1p.html) - concatenate and print files
----
-[`catan`](https://www.man7.org/linux/man-pages/man3/catan.3.html) - complex arc tangents
----
-[`catan`](https://www.man7.org/linux/man-pages/man3/catan.3p.html) - complex arc tangent functions
----
-[`catanf`](https://www.man7.org/linux/man-pages/man3/catanf.3.html) - complex arc tangents
----
-[`catanf`](https://www.man7.org/linux/man-pages/man3/catanf.3p.html) - complex arc tangent functions
----
-[`catanh`](https://www.man7.org/linux/man-pages/man3/catanh.3.html) - complex arc tangents hyperbolic
----
-[`catanh`](https://www.man7.org/linux/man-pages/man3/catanh.3p.html) - complex arc hyperbolic tangent functions
----
-[`catanhf`](https://www.man7.org/linux/man-pages/man3/catanhf.3.html) - complex arc tangents hyperbolic
----
-[`catanhf`](https://www.man7.org/linux/man-pages/man3/catanhf.3p.html) - complex arc hyperbolic tangent functions
----
-[`catanhl`](https://www.man7.org/linux/man-pages/man3/catanhl.3.html) - complex arc tangents hyperbolic
----
-[`catanhl`](https://www.man7.org/linux/man-pages/man3/catanhl.3p.html) - complex arc hyperbolic tangent functions
----
-[`catanl`](https://www.man7.org/linux/man-pages/man3/catanl.3.html) - complex arc tangents
----
-[`catanl`](https://www.man7.org/linux/man-pages/man3/catanl.3p.html) - complex arc tangent functions
----
-[`catclose`](https://www.man7.org/linux/man-pages/man3/catclose.3.html) - open/close a message catalog
----
-[`catclose`](https://www.man7.org/linux/man-pages/man3/catclose.3p.html) - close a message catalog descriptor
----
-[`catgets`](https://www.man7.org/linux/man-pages/man3/catgets.3.html) - get message from a message catalog
----
-[`catgets`](https://www.man7.org/linux/man-pages/man3/catgets.3p.html) - read a program message
----
-[`catman`](https://www.man7.org/linux/man-pages/man8/catman.8.html) - create or update the pre-formatted manual pages
----
-[`catopen`](https://www.man7.org/linux/man-pages/man3/catopen.3.html) - open/close a message catalog
----
-[`catopen`](https://www.man7.org/linux/man-pages/man3/catopen.3p.html) - open a message catalog
----
-[`cbc_crypt`](https://www.man7.org/linux/man-pages/man3/cbc_crypt.3.html) - fast DES encryption
----
-[`cbreak`](https://www.man7.org/linux/man-pages/man3/cbreak.3x.html) - curses input options
----
-[`cbrt`](https://www.man7.org/linux/man-pages/man3/cbrt.3.html) - cube root function
----
-[`cbrt`](https://www.man7.org/linux/man-pages/man3/cbrt.3p.html) - cube root functions
----
-[`cbrtf`](https://www.man7.org/linux/man-pages/man3/cbrtf.3.html) - cube root function
----
-[`cbrtf`](https://www.man7.org/linux/man-pages/man3/cbrtf.3p.html) - cube root functions
----
-[`cbrtl`](https://www.man7.org/linux/man-pages/man3/cbrtl.3.html) - cube root function
----
-[`cbrtl`](https://www.man7.org/linux/man-pages/man3/cbrtl.3p.html) - cube root functions
----
-[`CBS`](https://www.man7.org/linux/man-pages/man8/CBS.8.html) - Credit Based Shaper (CBS) Qdisc
----
-[`cciss`](https://www.man7.org/linux/man-pages/man4/cciss.4.html) - HP Smart Array block driver
----
-[`ccos`](https://www.man7.org/linux/man-pages/man3/ccos.3.html) - complex cosine function
----
-[`ccos`](https://www.man7.org/linux/man-pages/man3/ccos.3p.html) - complex cosine functions
----
-[`ccosf`](https://www.man7.org/linux/man-pages/man3/ccosf.3.html) - complex cosine function
----
-[`ccosf`](https://www.man7.org/linux/man-pages/man3/ccosf.3p.html) - complex cosine functions
----
-[`ccosh`](https://www.man7.org/linux/man-pages/man3/ccosh.3.html) - complex hyperbolic cosine
----
-[`ccosh`](https://www.man7.org/linux/man-pages/man3/ccosh.3p.html) - complex hyperbolic cosine functions
----
-[`ccoshf`](https://www.man7.org/linux/man-pages/man3/ccoshf.3.html) - complex hyperbolic cosine
----
-[`ccoshf`](https://www.man7.org/linux/man-pages/man3/ccoshf.3p.html) - complex hyperbolic cosine functions
----
-[`ccoshl`](https://www.man7.org/linux/man-pages/man3/ccoshl.3.html) - complex hyperbolic cosine
----
-[`ccoshl`](https://www.man7.org/linux/man-pages/man3/ccoshl.3p.html) - complex hyperbolic cosine functions
----
-[`ccosl`](https://www.man7.org/linux/man-pages/man3/ccosl.3.html) - complex cosine function
----
-[`ccosl`](https://www.man7.org/linux/man-pages/man3/ccosl.3p.html) - complex cosine functions
----
-[`cc_t`](https://www.man7.org/linux/man-pages/man3/cc_t.3type.html) - terminal special characters, baud rates, modes
----
-[`cd`](https://www.man7.org/linux/man-pages/man1/cd.1p.html) - change the working directory
----
-[`cdrwtool`](https://www.man7.org/linux/man-pages/man1/cdrwtool.1.html) - perform various actions on a CD-R, CD-RW, and DVD-R
----
-[`ceil`](https://www.man7.org/linux/man-pages/man3/ceil.3.html) - ceiling function: smallest integral value not less than argument
----
-[`ceil`](https://www.man7.org/linux/man-pages/man3/ceil.3p.html) - ceiling value function
----
-[`ceilf`](https://www.man7.org/linux/man-pages/man3/ceilf.3.html) - ceiling function: smallest integral value not less than argument
----
-[`ceilf`](https://www.man7.org/linux/man-pages/man3/ceilf.3p.html) - ceiling value function
----
-[`ceill`](https://www.man7.org/linux/man-pages/man3/ceill.3.html) - ceiling function: smallest integral value not less than argument
----
-[`ceill`](https://www.man7.org/linux/man-pages/man3/ceill.3p.html) - ceiling value function
----
-[`certtool`](https://www.man7.org/linux/man-pages/man1/certtool.1.html) - GnuTLS certificate tool
----
-[`cexp`](https://www.man7.org/linux/man-pages/man3/cexp.3.html) - complex exponential function
----
-[`cexp`](https://www.man7.org/linux/man-pages/man3/cexp.3p.html) - complex exponential functions
----
-[`cexp2`](https://www.man7.org/linux/man-pages/man3/cexp2.3.html) - base-2 exponent of a complex number
----
-[`cexp2f`](https://www.man7.org/linux/man-pages/man3/cexp2f.3.html) - base-2 exponent of a complex number
----
-[`cexp2l`](https://www.man7.org/linux/man-pages/man3/cexp2l.3.html) - base-2 exponent of a complex number
----
-[`cexpf`](https://www.man7.org/linux/man-pages/man3/cexpf.3.html) - complex exponential function
----
-[`cexpf`](https://www.man7.org/linux/man-pages/man3/cexpf.3p.html) - complex exponential functions
----
-[`cexpl`](https://www.man7.org/linux/man-pages/man3/cexpl.3.html) - complex exponential function
----
-[`cexpl`](https://www.man7.org/linux/man-pages/man3/cexpl.3p.html) - complex exponential functions
----
-[`cfdisk`](https://www.man7.org/linux/man-pages/man8/cfdisk.8.html) - display or manipulate a disk partition table
----
-[`cfgetispeed`](https://www.man7.org/linux/man-pages/man3/cfgetispeed.3.html) - get and set terminal attributes, line control, get and set baud rate
----
-[`cfgetispeed`](https://www.man7.org/linux/man-pages/man3/cfgetispeed.3p.html) - get input baud rate
----
-[`cfgetospeed`](https://www.man7.org/linux/man-pages/man3/cfgetospeed.3.html) - get and set terminal attributes, line control, get and set baud rate
----
-[`cfgetospeed`](https://www.man7.org/linux/man-pages/man3/cfgetospeed.3p.html) - get output baud rate
----
-[`cflow`](https://www.man7.org/linux/man-pages/man1/cflow.1p.html) - language flowgraph (DEVELOPMENT)
----
-[`cfmakeraw`](https://www.man7.org/linux/man-pages/man3/cfmakeraw.3.html) - get and set terminal attributes, line control, get and set baud rate
----
-[`cfree`](https://www.man7.org/linux/man-pages/man3/cfree.3.html) - free allocated memory
----
-[`cfsetispeed`](https://www.man7.org/linux/man-pages/man3/cfsetispeed.3.html) - get and set terminal attributes, line control, get and set baud rate
----
-[`cfsetispeed`](https://www.man7.org/linux/man-pages/man3/cfsetispeed.3p.html) - set input baud rate
----
-[`cfsetospeed`](https://www.man7.org/linux/man-pages/man3/cfsetospeed.3.html) - get and set terminal attributes, line control, get and set baud rate
----
-[`cfsetospeed`](https://www.man7.org/linux/man-pages/man3/cfsetospeed.3p.html) - set output baud rate
----
-[`cfsetspeed`](https://www.man7.org/linux/man-pages/man3/cfsetspeed.3.html) - get and set terminal attributes, line control, get and set baud rate
----
-[`cg_annotate`](https://www.man7.org/linux/man-pages/man1/cg_annotate.1.html) - post-processing tool for Cachegrind
----
-[`cgcc`](https://www.man7.org/linux/man-pages/man1/cgcc.1.html) - Compiler wrapper to run Sparse after compiling
----
-[`cg_diff`](https://www.man7.org/linux/man-pages/man1/cg_diff.1.html) - (deprecated) diffs two Cachegrind output files
----
-[`cg_merge`](https://www.man7.org/linux/man-pages/man1/cg_merge.1.html) - (deprecated) merges multiple Cachegrind output files into one
----
-[`cgroup`](https://www.man7.org/linux/man-pages/man8/cgroup.8.html) - control group based traffic control filter
----
-[`cgroup_namespaces`](https://www.man7.org/linux/man-pages/man7/cgroup_namespaces.7.html) - overview of Linux cgroup namespaces
----
-[`cgroups`](https://www.man7.org/linux/man-pages/man7/cgroups.7.html) - Linux control groups
----
-[`chacl`](https://www.man7.org/linux/man-pages/man1/chacl.1.html) - change the access control list of a file or directory
----
-[`chage`](https://www.man7.org/linux/man-pages/man1/chage.1.html) - change user password expiry information
----
-[`charmap`](https://www.man7.org/linux/man-pages/man5/charmap.5.html) - character set description file
----
-[`charsets`](https://www.man7.org/linux/man-pages/man7/charsets.7.html) - character set standards and internationalization
----
-[`chat`](https://www.man7.org/linux/man-pages/man8/chat.8.html) - Automated conversational script with a modem
----
-[`chattr`](https://www.man7.org/linux/man-pages/man1/chattr.1.html) - change file attributes on a Linux file system
----
-[`chcat`](https://www.man7.org/linux/man-pages/man8/chcat.8.html) - change SELinux security categories of files/users
----
-[`chcon`](https://www.man7.org/linux/man-pages/man1/chcon.1.html) - change file security context
----
-[`chcpu`](https://www.man7.org/linux/man-pages/man8/chcpu.8.html) - configure CPUs
----
-[`chdir`](https://www.man7.org/linux/man-pages/man2/chdir.2.html) - change working directory
----
-[`chdir`](https://www.man7.org/linux/man-pages/man3/chdir.3p.html) - change working directory
----
-[`checkmodule`](https://www.man7.org/linux/man-pages/man8/checkmodule.8.html) - SELinux policy module compiler
----
-[`checkPasswdAccess`](https://www.man7.org/linux/man-pages/man3/checkPasswdAccess.3.html) - query the SELinux policy database in the kernel
----
-[`checkpasswdaccess`](https://www.man7.org/linux/man-pages/man3/checkpasswdaccess.3.html) - query the SELinux policy database in the kernel
----
-[`checkpolicy`](https://www.man7.org/linux/man-pages/man8/checkpolicy.8.html) - SELinux policy compiler
----
-[`chem` -](https://www.man7.org/linux/man-pages/man1/chem.1.html) - (no description)
----
-[`chfn`](https://www.man7.org/linux/man-pages/man1/chfn.1.html) - change your finger information
----
-[`chgat`](https://www.man7.org/linux/man-pages/man3/chgat.3x.html) - curses character and window attribute control routines
----
-[`chgpasswd`](https://www.man7.org/linux/man-pages/man8/chgpasswd.8.html) - update group passwords in batch mode
----
-[`chgrp`](https://www.man7.org/linux/man-pages/man1/chgrp.1.html) - change group ownership
----
-[`chgrp`](https://www.man7.org/linux/man-pages/man1/chgrp.1p.html) - change the file group ownership
----
-[`chkcon`](https://www.man7.org/linux/man-pages/man8/chkcon.8.html) - determine if a security context is valid for a given binary policy
----
-[`chkhelp`](https://www.man7.org/linux/man-pages/man1/chkhelp.1.html) - check performance metrics help text files
----
-[`chmem`](https://www.man7.org/linux/man-pages/man8/chmem.8.html) - configure memory
----
-[`chmod`](https://www.man7.org/linux/man-pages/man1/chmod.1.html) - change file mode bits
----
-[`chmod`](https://www.man7.org/linux/man-pages/man1/chmod.1p.html) - change the file modes
----
-[`chmod`](https://www.man7.org/linux/man-pages/man2/chmod.2.html) - change permissions of a file
----
-[`chmod`](https://www.man7.org/linux/man-pages/man3/chmod.3p.html) - change mode of a file
----
-[`choke`](https://www.man7.org/linux/man-pages/man8/choke.8.html) - choose and keep scheduler
----
-[`choom`](https://www.man7.org/linux/man-pages/man1/choom.1.html) - display and adjust OOM-killer score.
----
-[`chown`](https://www.man7.org/linux/man-pages/man1/chown.1.html) - change file owner and group
----
-[`chown`](https://www.man7.org/linux/man-pages/man1/chown.1p.html) - change the file ownership
----
-[`chown`](https://www.man7.org/linux/man-pages/man2/chown.2.html) - change ownership of a file
----
-[`chown`](https://www.man7.org/linux/man-pages/man3/chown.3p.html) - change owner and group of a file
----
-[`chown32`](https://www.man7.org/linux/man-pages/man2/chown32.2.html) - change ownership of a file
----
-[`chpasswd`](https://www.man7.org/linux/man-pages/man8/chpasswd.8.html) - update passwords in batch mode
----
-[`chroot`](https://www.man7.org/linux/man-pages/man1/chroot.1.html) - run command or interactive shell with special root directory
----
-[`chroot`](https://www.man7.org/linux/man-pages/man2/chroot.2.html) - change root directory
----
-[`chrt`](https://www.man7.org/linux/man-pages/man1/chrt.1.html) - manipulate the real-time attributes of a process
----
-[`chsh`](https://www.man7.org/linux/man-pages/man1/chsh.1.html) - change your login shell
----
-[`chvt`](https://www.man7.org/linux/man-pages/man1/chvt.1.html) - change foreground virtual terminal
----
-[`cifsiostat`](https://www.man7.org/linux/man-pages/man1/cifsiostat.1.html) - Report CIFS statistics.
----
-[`cimag`](https://www.man7.org/linux/man-pages/man3/cimag.3.html) - get imaginary part of a complex number
----
-[`cimag`](https://www.man7.org/linux/man-pages/man3/cimag.3p.html) - complex imaginary functions
----
-[`cimagf`](https://www.man7.org/linux/man-pages/man3/cimagf.3.html) - get imaginary part of a complex number
----
-[`cimagf`](https://www.man7.org/linux/man-pages/man3/cimagf.3p.html) - complex imaginary functions
----
-[`cimagl`](https://www.man7.org/linux/man-pages/man3/cimagl.3.html) - get imaginary part of a complex number
----
-[`cimagl`](https://www.man7.org/linux/man-pages/man3/cimagl.3p.html) - complex imaginary functions
----
-[`circleq`](https://www.man7.org/linux/man-pages/man3/circleq.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_EMPTY`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_EMPTY.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_empty`](https://www.man7.org/linux/man-pages/man3/circleq_empty.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_ENTRY`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_ENTRY.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_entry`](https://www.man7.org/linux/man-pages/man3/circleq_entry.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_FIRST`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_FIRST.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_first`](https://www.man7.org/linux/man-pages/man3/circleq_first.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_FOREACH`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_FOREACH.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_foreach`](https://www.man7.org/linux/man-pages/man3/circleq_foreach.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_FOREACH_REVERSE`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_FOREACH_REVERSE.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_foreach_reverse`](https://www.man7.org/linux/man-pages/man3/circleq_foreach_reverse.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_HEAD`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_HEAD.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_head`](https://www.man7.org/linux/man-pages/man3/circleq_head.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_HEAD_INITIALIZER`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_HEAD_INITIALIZER.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_head_initializer`](https://www.man7.org/linux/man-pages/man3/circleq_head_initializer.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_INIT`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_INIT.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_init`](https://www.man7.org/linux/man-pages/man3/circleq_init.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_INSERT_AFTER`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_INSERT_AFTER.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_insert_after`](https://www.man7.org/linux/man-pages/man3/circleq_insert_after.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_INSERT_BEFORE`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_INSERT_BEFORE.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_insert_before`](https://www.man7.org/linux/man-pages/man3/circleq_insert_before.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_INSERT_HEAD`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_INSERT_HEAD.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_insert_head`](https://www.man7.org/linux/man-pages/man3/circleq_insert_head.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_INSERT_TAIL`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_INSERT_TAIL.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_insert_tail`](https://www.man7.org/linux/man-pages/man3/circleq_insert_tail.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_LAST`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_LAST.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_last`](https://www.man7.org/linux/man-pages/man3/circleq_last.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_LOOP_NEXT`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_LOOP_NEXT.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_loop_next`](https://www.man7.org/linux/man-pages/man3/circleq_loop_next.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_LOOP_PREV`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_LOOP_PREV.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_loop_prev`](https://www.man7.org/linux/man-pages/man3/circleq_loop_prev.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_NEXT`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_NEXT.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_next`](https://www.man7.org/linux/man-pages/man3/circleq_next.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_PREV`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_PREV.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_prev`](https://www.man7.org/linux/man-pages/man3/circleq_prev.3.html) - implementation of a doubly linked circular queue
----
-[`CIRCLEQ_REMOVE`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_REMOVE.3.html) - implementation of a doubly linked circular queue
----
-[`circleq_remove`](https://www.man7.org/linux/man-pages/man3/circleq_remove.3.html) - implementation of a doubly linked circular queue
----
-[`cksum`](https://www.man7.org/linux/man-pages/man1/cksum.1.html) - compute and verify file checksums
----
-[`cksum`](https://www.man7.org/linux/man-pages/man1/cksum.1p.html) - write file checksums and sizes
----
-[`classes.conf`](https://www.man7.org/linux/man-pages/man5/classes.conf.5.html) - class configuration file for cups
----
-[`CLEAR`](https://www.man7.org/linux/man-pages/man1/CLEAR.1.html) - clear the terminal screen
----
-[`clear`](https://www.man7.org/linux/man-pages/man1/clear.1.html) - clear the terminal screen
----
-[`clear`](https://www.man7.org/linux/man-pages/man3/clear.3x.html) - clear all or part of a curses window
----
-[`clearenv`](https://www.man7.org/linux/man-pages/man3/clearenv.3.html) - clear the environment
----
-[`clearerr`](https://www.man7.org/linux/man-pages/man3/clearerr.3.html) - check and reset stream status
----
-[`clearerr`](https://www.man7.org/linux/man-pages/man3/clearerr.3p.html) - clear indicators on a stream
----
-[`clearerr_unlocked`](https://www.man7.org/linux/man-pages/man3/clearerr_unlocked.3.html) - nonlocking stdio functions
----
-[`clearok`](https://www.man7.org/linux/man-pages/man3/clearok.3x.html) - curses output options
----
-[`client.conf`](https://www.man7.org/linux/man-pages/man5/client.conf.5.html) - client configuration file for cups (deprecated on macos)
----
-[`clnt_broadcast`](https://www.man7.org/linux/man-pages/man3/clnt_broadcast.3.html) - library routines for remote procedure calls
----
-[`clnt_call`](https://www.man7.org/linux/man-pages/man3/clnt_call.3.html) - library routines for remote procedure calls
----
-[`clnt_control`](https://www.man7.org/linux/man-pages/man3/clnt_control.3.html) - library routines for remote procedure calls
----
-[`clnt_create`](https://www.man7.org/linux/man-pages/man3/clnt_create.3.html) - library routines for remote procedure calls
----
-[`clnt_destroy`](https://www.man7.org/linux/man-pages/man3/clnt_destroy.3.html) - library routines for remote procedure calls
----
-[`clnt_freeres`](https://www.man7.org/linux/man-pages/man3/clnt_freeres.3.html) - library routines for remote procedure calls
----
-[`clnt_geterr`](https://www.man7.org/linux/man-pages/man3/clnt_geterr.3.html) - library routines for remote procedure calls
----
-[`clnt_pcreateerror`](https://www.man7.org/linux/man-pages/man3/clnt_pcreateerror.3.html) - library routines for remote procedure calls
----
-[`clnt_perrno`](https://www.man7.org/linux/man-pages/man3/clnt_perrno.3.html) - library routines for remote procedure calls
----
-[`clnt_perror`](https://www.man7.org/linux/man-pages/man3/clnt_perror.3.html) - library routines for remote procedure calls
----
-[`clntraw_create`](https://www.man7.org/linux/man-pages/man3/clntraw_create.3.html) - library routines for remote procedure calls
----
-[`clnt_spcreateerror`](https://www.man7.org/linux/man-pages/man3/clnt_spcreateerror.3.html) - library routines for remote procedure calls
----
-[`clnt_sperrno`](https://www.man7.org/linux/man-pages/man3/clnt_sperrno.3.html) - library routines for remote procedure calls
----
-[`clnt_sperror`](https://www.man7.org/linux/man-pages/man3/clnt_sperror.3.html) - library routines for remote procedure calls
----
-[`clnttcp_create`](https://www.man7.org/linux/man-pages/man3/clnttcp_create.3.html) - library routines for remote procedure calls
----
-[`clntudp_bufcreate`](https://www.man7.org/linux/man-pages/man3/clntudp_bufcreate.3.html) - library routines for remote procedure calls
----
-[`clntudp_create`](https://www.man7.org/linux/man-pages/man3/clntudp_create.3.html) - library routines for remote procedure calls
----
-[`clock`](https://www.man7.org/linux/man-pages/man3/clock.3.html) - determine processor time
----
-[`clock`](https://www.man7.org/linux/man-pages/man3/clock.3p.html) - report CPU time used
----
-[`clock_adjtime`](https://www.man7.org/linux/man-pages/man2/clock_adjtime.2.html) - tune kernel clock
----
-[`clockdiff`](https://www.man7.org/linux/man-pages/man8/clockdiff.8.html) - measure clock difference between hosts
----
-[`clock_getcpuclockid`](https://www.man7.org/linux/man-pages/man3/clock_getcpuclockid.3.html) - obtain ID of a process CPU-time clock
----
-[`clock_getcpuclockid`](https://www.man7.org/linux/man-pages/man3/clock_getcpuclockid.3p.html) - time clock (ADVANCED REALTIME)
----
-[`clock_getres`](https://www.man7.org/linux/man-pages/man2/clock_getres.2.html) - clock and time functions
----
-[`clock_getres`](https://www.man7.org/linux/man-pages/man3/clock_getres.3p.html) - clock and timer functions
----
-[`clock_gettime`](https://www.man7.org/linux/man-pages/man2/clock_gettime.2.html) - clock and time functions
----
-[`clock_gettime`](https://www.man7.org/linux/man-pages/man3/clock_gettime.3p.html) - clock and timer functions
----
-[`clockid_t`](https://www.man7.org/linux/man-pages/man3/clockid_t.3type.html) - clock ID for the clock and timer functions
----
-[`clock_nanosleep`](https://www.man7.org/linux/man-pages/man2/clock_nanosleep.2.html) - high-resolution sleep with specifiable clock
----
-[`clock_nanosleep`](https://www.man7.org/linux/man-pages/man3/clock_nanosleep.3p.html) - high resolution sleep with specifiable clock
----
-[`clock_settime`](https://www.man7.org/linux/man-pages/man2/clock_settime.2.html) - clock and time functions
----
-[`clock_settime`](https://www.man7.org/linux/man-pages/man3/clock_settime.3p.html) - clock and timer functions
----
-[`clock_t`](https://www.man7.org/linux/man-pages/man3/clock_t.3type.html) - system time
----
-[`clog`](https://www.man7.org/linux/man-pages/man3/clog.3.html) - natural logarithm of a complex number
----
-[`clog`](https://www.man7.org/linux/man-pages/man3/clog.3p.html) - complex natural logarithm functions
----
-[`clog10`](https://www.man7.org/linux/man-pages/man3/clog10.3.html) - base-10 logarithm of a complex number
----
-[`clog10f`](https://www.man7.org/linux/man-pages/man3/clog10f.3.html) - base-10 logarithm of a complex number
----
-[`clog10l`](https://www.man7.org/linux/man-pages/man3/clog10l.3.html) - base-10 logarithm of a complex number
----
-[`clog2`](https://www.man7.org/linux/man-pages/man3/clog2.3.html) - base-2 logarithm of a complex number
----
-[`clog2f`](https://www.man7.org/linux/man-pages/man3/clog2f.3.html) - base-2 logarithm of a complex number
----
-[`clog2l`](https://www.man7.org/linux/man-pages/man3/clog2l.3.html) - base-2 logarithm of a complex number
----
-[`clogf`](https://www.man7.org/linux/man-pages/man3/clogf.3.html) - natural logarithm of a complex number
----
-[`clogf`](https://www.man7.org/linux/man-pages/man3/clogf.3p.html) - complex natural logarithm functions
----
-[`clogl`](https://www.man7.org/linux/man-pages/man3/clogl.3.html) - natural logarithm of a complex number
----
-[`clogl`](https://www.man7.org/linux/man-pages/man3/clogl.3p.html) - complex natural logarithm functions
----
-[`clone`](https://www.man7.org/linux/man-pages/man2/clone.2.html) - create a child process
----
-[`clone2`](https://www.man7.org/linux/man-pages/man2/clone2.2.html) - create a child process
----
-[`__clone2`](https://www.man7.org/linux/man-pages/man2/__clone2.2.html) - create a child process
----
-[`clone3`](https://www.man7.org/linux/man-pages/man2/clone3.2.html) - create a child process
----
-[`close`](https://www.man7.org/linux/man-pages/man2/close.2.html) - close a file descriptor
----
-[`close`](https://www.man7.org/linux/man-pages/man3/close.3p.html) - close a file descriptor
----
-[`closedir`](https://www.man7.org/linux/man-pages/man3/closedir.3.html) - close a directory
----
-[`closedir`](https://www.man7.org/linux/man-pages/man3/closedir.3p.html) - close a directory stream
----
-[`closelog`](https://www.man7.org/linux/man-pages/man3/closelog.3.html) - send messages to the system logger
----
-[`closelog`](https://www.man7.org/linux/man-pages/man3/closelog.3p.html) - control system log
----
-[`close_range`](https://www.man7.org/linux/man-pages/man2/close_range.2.html) - close all file descriptors in a given range
----
-[`clrtobot`](https://www.man7.org/linux/man-pages/man3/clrtobot.3x.html) - clear all or part of a curses window
----
-[`clrtoeol`](https://www.man7.org/linux/man-pages/man3/clrtoeol.3x.html) - clear all or part of a curses window
----
-[`clustervis`](https://www.man7.org/linux/man-pages/man1/clustervis.1.html) - visualize cpu and network performance on a cluster
----
-[`cmirrord`](https://www.man7.org/linux/man-pages/man8/cmirrord.8.html) - cluster mirror log daemon
----
-[`cmp`](https://www.man7.org/linux/man-pages/man1/cmp.1.html) - compare two files byte by byte
----
-[`cmp`](https://www.man7.org/linux/man-pages/man1/cmp.1p.html) - compare two files
----
-[`cmsg`](https://www.man7.org/linux/man-pages/man3/cmsg.3.html) - access ancillary data
----
-[`CMSG_ALIGN`](https://www.man7.org/linux/man-pages/man3/CMSG_ALIGN.3.html) - access ancillary data
----
-[`cmsg_align`](https://www.man7.org/linux/man-pages/man3/cmsg_align.3.html) - access ancillary data
----
-[`CMSG_DATA`](https://www.man7.org/linux/man-pages/man3/CMSG_DATA.3.html) - access ancillary data
----
-[`cmsg_data`](https://www.man7.org/linux/man-pages/man3/cmsg_data.3.html) - access ancillary data
----
-[`CMSG_FIRSTHDR`](https://www.man7.org/linux/man-pages/man3/CMSG_FIRSTHDR.3.html) - access ancillary data
----
-[`cmsg_firsthdr`](https://www.man7.org/linux/man-pages/man3/cmsg_firsthdr.3.html) - access ancillary data
----
-[`CMSG_LEN`](https://www.man7.org/linux/man-pages/man3/CMSG_LEN.3.html) - access ancillary data
----
-[`cmsg_len`](https://www.man7.org/linux/man-pages/man3/cmsg_len.3.html) - access ancillary data
----
-[`CMSG_NXTHDR`](https://www.man7.org/linux/man-pages/man3/CMSG_NXTHDR.3.html) - access ancillary data
----
-[`cmsg_nxthdr`](https://www.man7.org/linux/man-pages/man3/cmsg_nxthdr.3.html) - access ancillary data
----
-[`CMSG_SPACE`](https://www.man7.org/linux/man-pages/man3/CMSG_SPACE.3.html) - access ancillary data
----
-[`cmsg_space`](https://www.man7.org/linux/man-pages/man3/cmsg_space.3.html) - access ancillary data
----
-[`cmtime`](https://www.man7.org/linux/man-pages/man1/cmtime.1.html) - RDMA CM connection steps timing test.
----
-[`CoDel`](https://www.man7.org/linux/man-pages/man8/CoDel.8.html) - Controlled-Delay Active Queue Management algorithm
----
-[`col`](https://www.man7.org/linux/man-pages/man1/col.1.html) - filter reverse line feeds from input
----
-[`colcrt`](https://www.man7.org/linux/man-pages/man1/colcrt.1.html) - filter nroff output for CRT previewing
----
-[`collectl2pcp`](https://www.man7.org/linux/man-pages/man1/collectl2pcp.1.html) - import collectl data to a PCP archive
----
-[`colon`](https://www.man7.org/linux/man-pages/man1/colon.1p.html) - null utility
----
-[`color_content`](https://www.man7.org/linux/man-pages/man3/color_content.3x.html) - curses color manipulation routines
----
-[`COLOR_PAIR`](https://www.man7.org/linux/man-pages/man3/COLOR_PAIR.3x.html) - curses color manipulation routines
----
-[`COLOR_PAIRS`](https://www.man7.org/linux/man-pages/man3/COLOR_PAIRS.3x.html) - curses global variables
----
-[`COLORS`](https://www.man7.org/linux/man-pages/man3/COLORS.3x.html) - curses global variables
----
-[`color_set`](https://www.man7.org/linux/man-pages/man3/color_set.3x.html) - curses character and window attribute control routines
----
-[`colrm`](https://www.man7.org/linux/man-pages/man1/colrm.1.html) - remove columns from a file
----
-[`COLS`](https://www.man7.org/linux/man-pages/man3/COLS.3x.html) - curses global variables
----
-[`column`](https://www.man7.org/linux/man-pages/man1/column.1.html) - columnate lists
----
-[`comm`](https://www.man7.org/linux/man-pages/man1/comm.1.html) - compare two sorted files line by line
----
-[`comm`](https://www.man7.org/linux/man-pages/man1/comm.1p.html) - select or reject lines common to two files
----
-[`command`](https://www.man7.org/linux/man-pages/man1/command.1p.html) - execute a simple command
----
-[`comp_err`](https://www.man7.org/linux/man-pages/man1/comp_err.1.html) - compile MariaDB error message file
----
-[`complex`](https://www.man7.org/linux/man-pages/man7/complex.7.html) - basics of complex mathematics
----
-[`complex.h`](https://www.man7.org/linux/man-pages/man0/complex.h.0p.html) - complex arithmetic
----
-[`compress`](https://www.man7.org/linux/man-pages/man1/compress.1p.html) - compress data
----
-[`config`](https://www.man7.org/linux/man-pages/man5/config.5.html) - The SELinux sub-system configuration file.
----
-[`confstr`](https://www.man7.org/linux/man-pages/man3/confstr.3.html) - get configuration dependent string variables
----
-[`confstr`](https://www.man7.org/linux/man-pages/man3/confstr.3p.html) - get configurable variables
----
-[`conj`](https://www.man7.org/linux/man-pages/man3/conj.3.html) - calculate the complex conjugate
----
-[`conj`](https://www.man7.org/linux/man-pages/man3/conj.3p.html) - complex conjugate functions
----
-[`conjf`](https://www.man7.org/linux/man-pages/man3/conjf.3.html) - calculate the complex conjugate
----
-[`conjf`](https://www.man7.org/linux/man-pages/man3/conjf.3p.html) - complex conjugate functions
----
-[`conjl`](https://www.man7.org/linux/man-pages/man3/conjl.3.html) - calculate the complex conjugate
----
-[`conjl`](https://www.man7.org/linux/man-pages/man3/conjl.3p.html) - complex conjugate functions
----
-[`connect`](https://www.man7.org/linux/man-pages/man2/connect.2.html) - initiate a connection on a socket
----
-[`connect`](https://www.man7.org/linux/man-pages/man3/connect.3p.html) - connect a socket
----
-[`connmark`](https://www.man7.org/linux/man-pages/man8/connmark.8.html) - netfilter connmark retriever action
----
-[`console_codes`](https://www.man7.org/linux/man-pages/man4/console_codes.4.html) - Linux console escape and control sequences
----
-[`console_ioctl`](https://www.man7.org/linux/man-pages/man4/console_ioctl.4.html) - ioctls for console terminal and virtual consoles
----
-[`context_free`](https://www.man7.org/linux/man-pages/man3/context_free.3.html) - Routines to manipulate SELinux security contexts
----
-[`context_new`](https://www.man7.org/linux/man-pages/man3/context_new.3.html) - Routines to manipulate SELinux security contexts
----
-[`context_range_get`](https://www.man7.org/linux/man-pages/man3/context_range_get.3.html) - Routines to manipulate SELinux security contexts
----
-[`context_range_set`](https://www.man7.org/linux/man-pages/man3/context_range_set.3.html) - Routines to manipulate SELinux security contexts
----
-[`context_role_get`](https://www.man7.org/linux/man-pages/man3/context_role_get.3.html) - Routines to manipulate SELinux security contexts
----
-[`context_role_set`](https://www.man7.org/linux/man-pages/man3/context_role_set.3.html) - Routines to manipulate SELinux security contexts
----
-[`context_str`](https://www.man7.org/linux/man-pages/man3/context_str.3.html) - Routines to manipulate SELinux security contexts
----
-[`context_type_get`](https://www.man7.org/linux/man-pages/man3/context_type_get.3.html) - Routines to manipulate SELinux security contexts
----
-[`context_type_set`](https://www.man7.org/linux/man-pages/man3/context_type_set.3.html) - Routines to manipulate SELinux security contexts
----
-[`context_user_get`](https://www.man7.org/linux/man-pages/man3/context_user_get.3.html) - Routines to manipulate SELinux security contexts
----
-[`context_user_set`](https://www.man7.org/linux/man-pages/man3/context_user_set.3.html) - Routines to manipulate SELinux security contexts
----
-[`continue`](https://www.man7.org/linux/man-pages/man1/continue.1p.html) - continue for, while, or until loop
----
-[`convertquota`](https://www.man7.org/linux/man-pages/man8/convertquota.8.html) - convert quota from old file format to new one
----
-[`copy_file_range`](https://www.man7.org/linux/man-pages/man2/copy_file_range.2.html) - Copy a range of data from one file to another
----
-[`copysign`](https://www.man7.org/linux/man-pages/man3/copysign.3.html) - copy sign of a number
----
-[`copysign`](https://www.man7.org/linux/man-pages/man3/copysign.3p.html) - number manipulation function
----
-[`copysignf`](https://www.man7.org/linux/man-pages/man3/copysignf.3.html) - copy sign of a number
----
-[`copysignf`](https://www.man7.org/linux/man-pages/man3/copysignf.3p.html) - number manipulation function
----
-[`copysignl`](https://www.man7.org/linux/man-pages/man3/copysignl.3.html) - copy sign of a number
----
-[`copysignl`](https://www.man7.org/linux/man-pages/man3/copysignl.3p.html) - number manipulation function
----
-[`copywin`](https://www.man7.org/linux/man-pages/man3/copywin.3x.html) - overlay and manipulate overlapped curses windows
----
-[`core`](https://www.man7.org/linux/man-pages/man5/core.5.html) - core dump file
----
-[`coredump.conf`](https://www.man7.org/linux/man-pages/man5/coredump.conf.5.html) - Core dump storage configuration files
----
-[`coredump.conf.d`](https://www.man7.org/linux/man-pages/man5/coredump.conf.d.5.html) - Core dump storage configuration files
----
-[`coredumpctl`](https://www.man7.org/linux/man-pages/man1/coredumpctl.1.html) - Retrieve and process saved core dumps and metadata
----
-[`coresched`](https://www.man7.org/linux/man-pages/man1/coresched.1.html) - manage core scheduling cookies for tasks
----
-[`coreutils`](https://www.man7.org/linux/man-pages/man1/coreutils.1.html) - single binary for coreutils programs
----
-[`cos`](https://www.man7.org/linux/man-pages/man3/cos.3.html) - cosine function
----
-[`cos`](https://www.man7.org/linux/man-pages/man3/cos.3p.html) - cosine function
----
-[`cosf`](https://www.man7.org/linux/man-pages/man3/cosf.3.html) - cosine function
----
-[`cosf`](https://www.man7.org/linux/man-pages/man3/cosf.3p.html) - cosine function
----
-[`cosh`](https://www.man7.org/linux/man-pages/man3/cosh.3.html) - hyperbolic cosine function
----
-[`cosh`](https://www.man7.org/linux/man-pages/man3/cosh.3p.html) - hyperbolic cosine functions
----
-[`coshf`](https://www.man7.org/linux/man-pages/man3/coshf.3.html) - hyperbolic cosine function
----
-[`coshf`](https://www.man7.org/linux/man-pages/man3/coshf.3p.html) - hyperbolic cosine functions
----
-[`coshl`](https://www.man7.org/linux/man-pages/man3/coshl.3.html) - hyperbolic cosine function
----
-[`coshl`](https://www.man7.org/linux/man-pages/man3/coshl.3p.html) - hyperbolic cosine functions
----
-[`cosl`](https://www.man7.org/linux/man-pages/man3/cosl.3.html) - cosine function
----
-[`cosl`](https://www.man7.org/linux/man-pages/man3/cosl.3p.html) - cosine function
----
-[`cp`](https://www.man7.org/linux/man-pages/man1/cp.1.html) - copy files and directories
----
-[`cp`](https://www.man7.org/linux/man-pages/man1/cp.1p.html) - copy files
----
-[`cp1251`](https://www.man7.org/linux/man-pages/man7/cp1251.7.html) - CP 1251 character set encoded in octal, decimal, and hexadecimal
----
-[`cp1252`](https://www.man7.org/linux/man-pages/man7/cp1252.7.html) - CP 1252 character set encoded in octal, decimal, and hexadecimal
----
-[`cpio.h`](https://www.man7.org/linux/man-pages/man0/cpio.h.0p.html) - cpio archive values
----
-[`cpow`](https://www.man7.org/linux/man-pages/man3/cpow.3.html) - complex power function
----
-[`cpow`](https://www.man7.org/linux/man-pages/man3/cpow.3p.html) - complex power functions
----
-[`cpowf`](https://www.man7.org/linux/man-pages/man3/cpowf.3.html) - complex power function
----
-[`cpowf`](https://www.man7.org/linux/man-pages/man3/cpowf.3p.html) - complex power functions
----
-[`cpowl`](https://www.man7.org/linux/man-pages/man3/cpowl.3.html) - complex power function
----
-[`cpowl`](https://www.man7.org/linux/man-pages/man3/cpowl.3p.html) - complex power functions
----
-[`cpp`](https://www.man7.org/linux/man-pages/man1/cpp.1.html) - The C Preprocessor
----
-[`cproj`](https://www.man7.org/linux/man-pages/man3/cproj.3.html) - project into Riemann Sphere
----
-[`cproj`](https://www.man7.org/linux/man-pages/man3/cproj.3p.html) - complex projection functions
----
-[`cprojf`](https://www.man7.org/linux/man-pages/man3/cprojf.3.html) - project into Riemann Sphere
----
-[`cprojf`](https://www.man7.org/linux/man-pages/man3/cprojf.3p.html) - complex projection functions
----
-[`cprojl`](https://www.man7.org/linux/man-pages/man3/cprojl.3.html) - project into Riemann Sphere
----
-[`cprojl`](https://www.man7.org/linux/man-pages/man3/cprojl.3p.html) - complex projection functions
----
-[`CPU_ALLOC`](https://www.man7.org/linux/man-pages/man3/CPU_ALLOC.3.html) - macros for manipulating CPU sets
----
-[`cpu_alloc`](https://www.man7.org/linux/man-pages/man3/cpu_alloc.3.html) - macros for manipulating CPU sets
----
-[`CPU_ALLOC_SIZE`](https://www.man7.org/linux/man-pages/man3/CPU_ALLOC_SIZE.3.html) - macros for manipulating CPU sets
----
-[`cpu_alloc_size`](https://www.man7.org/linux/man-pages/man3/cpu_alloc_size.3.html) - macros for manipulating CPU sets
----
-[`CPU_AND`](https://www.man7.org/linux/man-pages/man3/CPU_AND.3.html) - macros for manipulating CPU sets
----
-[`cpu_and`](https://www.man7.org/linux/man-pages/man3/cpu_and.3.html) - macros for manipulating CPU sets
----
-[`CPU_AND_S`](https://www.man7.org/linux/man-pages/man3/CPU_AND_S.3.html) - macros for manipulating CPU sets
----
-[`cpu_and_s`](https://www.man7.org/linux/man-pages/man3/cpu_and_s.3.html) - macros for manipulating CPU sets
----
-[`CPU_CLR`](https://www.man7.org/linux/man-pages/man3/CPU_CLR.3.html) - macros for manipulating CPU sets
----
-[`cpu_clr`](https://www.man7.org/linux/man-pages/man3/cpu_clr.3.html) - macros for manipulating CPU sets
----
-[`CPU_CLR_S`](https://www.man7.org/linux/man-pages/man3/CPU_CLR_S.3.html) - macros for manipulating CPU sets
----
-[`cpu_clr_s`](https://www.man7.org/linux/man-pages/man3/cpu_clr_s.3.html) - macros for manipulating CPU sets
----
-[`CPU_COUNT`](https://www.man7.org/linux/man-pages/man3/CPU_COUNT.3.html) - macros for manipulating CPU sets
----
-[`cpu_count`](https://www.man7.org/linux/man-pages/man3/cpu_count.3.html) - macros for manipulating CPU sets
----
-[`CPU_COUNT_S`](https://www.man7.org/linux/man-pages/man3/CPU_COUNT_S.3.html) - macros for manipulating CPU sets
----
-[`cpu_count_s`](https://www.man7.org/linux/man-pages/man3/cpu_count_s.3.html) - macros for manipulating CPU sets
----
-[`CPU_EQUAL`](https://www.man7.org/linux/man-pages/man3/CPU_EQUAL.3.html) - macros for manipulating CPU sets
----
-[`cpu_equal`](https://www.man7.org/linux/man-pages/man3/cpu_equal.3.html) - macros for manipulating CPU sets
----
-[`CPU_EQUAL_S`](https://www.man7.org/linux/man-pages/man3/CPU_EQUAL_S.3.html) - macros for manipulating CPU sets
----
-[`cpu_equal_s`](https://www.man7.org/linux/man-pages/man3/cpu_equal_s.3.html) - macros for manipulating CPU sets
----
-[`CPU_FREE`](https://www.man7.org/linux/man-pages/man3/CPU_FREE.3.html) - macros for manipulating CPU sets
----
-[`cpu_free`](https://www.man7.org/linux/man-pages/man3/cpu_free.3.html) - macros for manipulating CPU sets
----
-[`cpuid`](https://www.man7.org/linux/man-pages/man4/cpuid.4.html) - x86 CPUID access device
----
-[`CPU_ISSET`](https://www.man7.org/linux/man-pages/man3/CPU_ISSET.3.html) - macros for manipulating CPU sets
----
-[`cpu_isset`](https://www.man7.org/linux/man-pages/man3/cpu_isset.3.html) - macros for manipulating CPU sets
----
-[`CPU_ISSET_S`](https://www.man7.org/linux/man-pages/man3/CPU_ISSET_S.3.html) - macros for manipulating CPU sets
----
-[`cpu_isset_s`](https://www.man7.org/linux/man-pages/man3/cpu_isset_s.3.html) - macros for manipulating CPU sets
----
-[`CPU_OR`](https://www.man7.org/linux/man-pages/man3/CPU_OR.3.html) - macros for manipulating CPU sets
----
-[`cpu_or`](https://www.man7.org/linux/man-pages/man3/cpu_or.3.html) - macros for manipulating CPU sets
----
-[`CPU_OR_S`](https://www.man7.org/linux/man-pages/man3/CPU_OR_S.3.html) - macros for manipulating CPU sets
----
-[`cpu_or_s`](https://www.man7.org/linux/man-pages/man3/cpu_or_s.3.html) - macros for manipulating CPU sets
----
-[`CPU_SET`](https://www.man7.org/linux/man-pages/man3/CPU_SET.3.html) - macros for manipulating CPU sets
----
-[`cpu_set`](https://www.man7.org/linux/man-pages/man3/cpu_set.3.html) - macros for manipulating CPU sets
----
-[`cpuset`](https://www.man7.org/linux/man-pages/man7/cpuset.7.html) - confine processes to processor and memory node subsets
----
-[`CPU_SET_S`](https://www.man7.org/linux/man-pages/man3/CPU_SET_S.3.html) - macros for manipulating CPU sets
----
-[`cpu_set_s`](https://www.man7.org/linux/man-pages/man3/cpu_set_s.3.html) - macros for manipulating CPU sets
----
-[`CPU_XOR`](https://www.man7.org/linux/man-pages/man3/CPU_XOR.3.html) - macros for manipulating CPU sets
----
-[`cpu_xor`](https://www.man7.org/linux/man-pages/man3/cpu_xor.3.html) - macros for manipulating CPU sets
----
-[`CPU_XOR_S`](https://www.man7.org/linux/man-pages/man3/CPU_XOR_S.3.html) - macros for manipulating CPU sets
----
-[`cpu_xor_s`](https://www.man7.org/linux/man-pages/man3/cpu_xor_s.3.html) - macros for manipulating CPU sets
----
-[`CPU_ZERO`](https://www.man7.org/linux/man-pages/man3/CPU_ZERO.3.html) - macros for manipulating CPU sets
----
-[`cpu_zero`](https://www.man7.org/linux/man-pages/man3/cpu_zero.3.html) - macros for manipulating CPU sets
----
-[`CPU_ZERO_S`](https://www.man7.org/linux/man-pages/man3/CPU_ZERO_S.3.html) - macros for manipulating CPU sets
----
-[`cpu_zero_s`](https://www.man7.org/linux/man-pages/man3/cpu_zero_s.3.html) - macros for manipulating CPU sets
----
-[`crash`](https://www.man7.org/linux/man-pages/man8/crash.8.html) - Analyze Linux crash dump data or a live system
----
-[`creal`](https://www.man7.org/linux/man-pages/man3/creal.3.html) - get real part of a complex number
----
-[`creal`](https://www.man7.org/linux/man-pages/man3/creal.3p.html) - complex real functions
----
-[`crealf`](https://www.man7.org/linux/man-pages/man3/crealf.3.html) - get real part of a complex number
----
-[`crealf`](https://www.man7.org/linux/man-pages/man3/crealf.3p.html) - complex real functions
----
-[`creall`](https://www.man7.org/linux/man-pages/man3/creall.3.html) - get real part of a complex number
----
-[`creall`](https://www.man7.org/linux/man-pages/man3/creall.3p.html) - complex real functions
----
-[`creat`](https://www.man7.org/linux/man-pages/man2/creat.2.html) - open and possibly create a file
----
-[`creat`](https://www.man7.org/linux/man-pages/man3/creat.3p.html) - create a new file or rewrite an existing one
----
-[`create_module`](https://www.man7.org/linux/man-pages/man2/create_module.2.html) - create a loadable module entry
----
-[`credentials`](https://www.man7.org/linux/man-pages/man7/credentials.7.html) - process identifiers
----
-[`cron`](https://www.man7.org/linux/man-pages/man8/cron.8.html) - daemon to execute scheduled commands
----
-[`crond`](https://www.man7.org/linux/man-pages/man8/crond.8.html) - daemon to execute scheduled commands
----
-[`cronnext`](https://www.man7.org/linux/man-pages/man1/cronnext.1.html) - time of next job cron will execute
----
-[`crontab`](https://www.man7.org/linux/man-pages/man1/crontab.1.html) - maintains crontab files for individual users
----
-[`crontab`](https://www.man7.org/linux/man-pages/man1/crontab.1p.html) - schedule periodic background work
----
-[`crontab`](https://www.man7.org/linux/man-pages/man5/crontab.5.html) - files used to schedule the execution of programs
----
-[`crypt`](https://www.man7.org/linux/man-pages/man3/crypt.3.html) - password hashing
----
-[`crypt`](https://www.man7.org/linux/man-pages/man3/crypt.3p.html) - string encoding function (CRYPT)
----
-[`crypt_r`](https://www.man7.org/linux/man-pages/man3/crypt_r.3.html) - password hashing
----
-[`cryptsetup-benchmark`](https://www.man7.org/linux/man-pages/man8/cryptsetup-benchmark.8.html) - benchmarks ciphers and KDF
----
-[`cryptsetup-bitlkDump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-bitlkDump.8.html) - dump the header information of a BITLK (BitLocker compatible) device
----
-[`cryptsetup-bitlkdump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-bitlkdump.8.html) - dump the header information of a BITLK (BitLocker compatible) device
----
-[`cryptsetup-bitlkOpen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-bitlkOpen.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-bitlkopen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-bitlkopen.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-close`](https://www.man7.org/linux/man-pages/man8/cryptsetup-close.8.html) - removes the existing mapping <name> (and the associated key)
----
-[`cryptsetup-config`](https://www.man7.org/linux/man-pages/man8/cryptsetup-config.8.html) - set permanent configuration options (store to LUKS header)
----
-[`cryptsetup-convert`](https://www.man7.org/linux/man-pages/man8/cryptsetup-convert.8.html) - converts the device between LUKS1 and LUKS2 format
----
-[`cryptsetup-create`](https://www.man7.org/linux/man-pages/man8/cryptsetup-create.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-erase`](https://www.man7.org/linux/man-pages/man8/cryptsetup-erase.8.html) - erase all keyslots
----
-[`cryptsetup-fvault2Dump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-fvault2Dump.8.html) - dump the header information of a FVAULT2 (FileVault2 compatible) device
----
-[`cryptsetup-fvault2dump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-fvault2dump.8.html) - dump the header information of a FVAULT2 (FileVault2 compatible) device
----
-[`cryptsetup-fvault2Open`](https://www.man7.org/linux/man-pages/man8/cryptsetup-fvault2Open.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-fvault2open`](https://www.man7.org/linux/man-pages/man8/cryptsetup-fvault2open.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-isLuks`](https://www.man7.org/linux/man-pages/man8/cryptsetup-isLuks.8.html) - check if a device is a LUKS device
----
-[`cryptsetup-isluks`](https://www.man7.org/linux/man-pages/man8/cryptsetup-isluks.8.html) - check if a device is a LUKS device
----
-[`cryptsetup-loopaesOpen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-loopaesOpen.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-loopaesopen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-loopaesopen.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-luksAddKey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksAddKey.8.html) - add a new passphrase
----
-[`cryptsetup-luksaddkey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksaddkey.8.html) - add a new passphrase
----
-[`cryptsetup-luksChangeKey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksChangeKey.8.html) - change an existing passphrase
----
-[`cryptsetup-lukschangekey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-lukschangekey.8.html) - change an existing passphrase
----
-[`cryptsetup-luksConvertKey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksConvertKey.8.html) - converts an existing LUKS2 keyslot to new PBKDF parameters
----
-[`cryptsetup-luksconvertkey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksconvertkey.8.html) - converts an existing LUKS2 keyslot to new PBKDF parameters
----
-[`cryptsetup-luksDump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksDump.8.html) - dump the header information of a LUKS device
----
-[`cryptsetup-luksdump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksdump.8.html) - dump the header information of a LUKS device
----
-[`cryptsetup-luksErase`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksErase.8.html) - erase all keyslots
----
-[`cryptsetup-lukserase`](https://www.man7.org/linux/man-pages/man8/cryptsetup-lukserase.8.html) - erase all keyslots
----
-[`cryptsetup-luksFormat`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksFormat.8.html) - initialize a LUKS partition and set the initial passphrase
----
-[`cryptsetup-luksformat`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksformat.8.html) - initialize a LUKS partition and set the initial passphrase
----
-[`cryptsetup-luksHeaderBackup`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksHeaderBackup.8.html) - store a binary backup of the LUKS header and keyslot area
----
-[`cryptsetup-luksheaderbackup`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksheaderbackup.8.html) - store a binary backup of the LUKS header and keyslot area
----
-[`cryptsetup-luksHeaderRestore`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksHeaderRestore.8.html) - restore a binary backup of the LUKS header and keyslot area
----
-[`cryptsetup-luksheaderrestore`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksheaderrestore.8.html) - restore a binary backup of the LUKS header and keyslot area
----
-[`cryptsetup-luksKillSlot`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksKillSlot.8.html) - wipe a key-slot from the LUKS device
----
-[`cryptsetup-lukskillslot`](https://www.man7.org/linux/man-pages/man8/cryptsetup-lukskillslot.8.html) - wipe a key-slot from the LUKS device
----
-[`cryptsetup-luksOpen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksOpen.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-luksopen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksopen.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-luksRemoveKey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksRemoveKey.8.html) - remove the supplied passphrase from the LUKS device
----
-[`cryptsetup-luksremovekey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksremovekey.8.html) - remove the supplied passphrase from the LUKS device
----
-[`cryptsetup-luksResume`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksResume.8.html) - resume a suspended device and reinstate the key
----
-[`cryptsetup-luksresume`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksresume.8.html) - resume a suspended device and reinstate the key
----
-[`cryptsetup-luksSuspend`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksSuspend.8.html) - suspends an active device and wipes the key
----
-[`cryptsetup-lukssuspend`](https://www.man7.org/linux/man-pages/man8/cryptsetup-lukssuspend.8.html) - suspends an active device and wipes the key
----
-[`cryptsetup-luksUUID`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksUUID.8.html) - print or set the UUID of a LUKS device
----
-[`cryptsetup-luksuuid`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksuuid.8.html) - print or set the UUID of a LUKS device
----
-[`cryptsetup-open`](https://www.man7.org/linux/man-pages/man8/cryptsetup-open.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-plainOpen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-plainOpen.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-plainopen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-plainopen.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-reencrypt`](https://www.man7.org/linux/man-pages/man8/cryptsetup-reencrypt.8.html) - reencrypt LUKS encrypted volumes in-place
----
-[`cryptsetup-refresh`](https://www.man7.org/linux/man-pages/man8/cryptsetup-refresh.8.html) - refresh parameters of an active mapping
----
-[`cryptsetup-repair`](https://www.man7.org/linux/man-pages/man8/cryptsetup-repair.8.html) - repair the device metadata
----
-[`cryptsetup-resize`](https://www.man7.org/linux/man-pages/man8/cryptsetup-resize.8.html) - resize an active mapping
----
-[`cryptsetup-ssh`](https://www.man7.org/linux/man-pages/man8/cryptsetup-ssh.8.html) - manage LUKS2 SSH token
----
-[`cryptsetup-status`](https://www.man7.org/linux/man-pages/man8/cryptsetup-status.8.html) - report the status for a mapping
----
-[`cryptsetup-tcryptDump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-tcryptDump.8.html) - dump the header information of a TCRYPT (TrueCrypt or VeraCrypt compatible) device
----
-[`cryptsetup-tcryptdump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-tcryptdump.8.html) - dump the header information of a TCRYPT (TrueCrypt or VeraCrypt compatible) device
----
-[`cryptsetup-tcryptOpen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-tcryptOpen.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-tcryptopen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-tcryptopen.8.html) - open an encrypted device and create a mapping with a specified name
----
-[`cryptsetup-token`](https://www.man7.org/linux/man-pages/man8/cryptsetup-token.8.html) - manage LUKS2 tokens
----
-[`cryptsetup`](https://www.man7.org/linux/man-pages/man8/cryptsetup.8.html) - manage plain dm-crypt, LUKS, and other encrypted volumes
----
-[`crypttab`](https://www.man7.org/linux/man-pages/man5/crypttab.5.html) - Configuration for encrypted block devices
----
-[`csin`](https://www.man7.org/linux/man-pages/man3/csin.3.html) - complex sine function
----
-[`csin`](https://www.man7.org/linux/man-pages/man3/csin.3p.html) - complex sine functions
----
-[`csinf`](https://www.man7.org/linux/man-pages/man3/csinf.3.html) - complex sine function
----
-[`csinf`](https://www.man7.org/linux/man-pages/man3/csinf.3p.html) - complex sine functions
----
-[`csinh`](https://www.man7.org/linux/man-pages/man3/csinh.3.html) - complex hyperbolic sine
----
-[`csinh`](https://www.man7.org/linux/man-pages/man3/csinh.3p.html) - complex hyperbolic sine functions
----
-[`csinhf`](https://www.man7.org/linux/man-pages/man3/csinhf.3.html) - complex hyperbolic sine
----
-[`csinhf`](https://www.man7.org/linux/man-pages/man3/csinhf.3p.html) - complex hyperbolic sine functions
----
-[`csinhl`](https://www.man7.org/linux/man-pages/man3/csinhl.3.html) - complex hyperbolic sine
----
-[`csinhl`](https://www.man7.org/linux/man-pages/man3/csinhl.3p.html) - complex hyperbolic sine functions
----
-[`csinl`](https://www.man7.org/linux/man-pages/man3/csinl.3.html) - complex sine function
----
-[`csinl`](https://www.man7.org/linux/man-pages/man3/csinl.3p.html) - complex sine functions
----
-[`csplit`](https://www.man7.org/linux/man-pages/man1/csplit.1.html) - split a file into sections determined by context lines
----
-[`csplit`](https://www.man7.org/linux/man-pages/man1/csplit.1p.html) - split files based on context
----
-[`csqrt`](https://www.man7.org/linux/man-pages/man3/csqrt.3.html) - complex square root
----
-[`csqrt`](https://www.man7.org/linux/man-pages/man3/csqrt.3p.html) - complex square root functions
----
-[`csqrtf`](https://www.man7.org/linux/man-pages/man3/csqrtf.3.html) - complex square root
----
-[`csqrtf`](https://www.man7.org/linux/man-pages/man3/csqrtf.3p.html) - complex square root functions
----
-[`csqrtl`](https://www.man7.org/linux/man-pages/man3/csqrtl.3.html) - complex square root
----
-[`csqrtl`](https://www.man7.org/linux/man-pages/man3/csqrtl.3p.html) - complex square root functions
----
-[`csum`](https://www.man7.org/linux/man-pages/man8/csum.8.html) - checksum update action
----
-[`csysdig` -](https://www.man7.org/linux/man-pages/man8/csysdig.8.html) - (no description)
----
-[`ct`](https://www.man7.org/linux/man-pages/man8/ct.8.html) - tc connection tracking action
----
-[`ctags`](https://www.man7.org/linux/man-pages/man1/ctags.1p.html) - create a tags file (DEVELOPMENT, FORTRAN)
----
-[`ctan`](https://www.man7.org/linux/man-pages/man3/ctan.3.html) - complex tangent function
----
-[`ctan`](https://www.man7.org/linux/man-pages/man3/ctan.3p.html) - complex tangent functions
----
-[`ctanf`](https://www.man7.org/linux/man-pages/man3/ctanf.3.html) - complex tangent function
----
-[`ctanf`](https://www.man7.org/linux/man-pages/man3/ctanf.3p.html) - complex tangent functions
----
-[`ctanh`](https://www.man7.org/linux/man-pages/man3/ctanh.3.html) - complex hyperbolic tangent
----
-[`ctanh`](https://www.man7.org/linux/man-pages/man3/ctanh.3p.html) - complex hyperbolic tangent functions
----
-[`ctanhf`](https://www.man7.org/linux/man-pages/man3/ctanhf.3.html) - complex hyperbolic tangent
----
-[`ctanhf`](https://www.man7.org/linux/man-pages/man3/ctanhf.3p.html) - complex hyperbolic tangent functions
----
-[`ctanhl`](https://www.man7.org/linux/man-pages/man3/ctanhl.3.html) - complex hyperbolic tangent
----
-[`ctanhl`](https://www.man7.org/linux/man-pages/man3/ctanhl.3p.html) - complex hyperbolic tangent functions
----
-[`ctanl`](https://www.man7.org/linux/man-pages/man3/ctanl.3.html) - complex tangent function
----
-[`ctanl`](https://www.man7.org/linux/man-pages/man3/ctanl.3p.html) - complex tangent functions
----
-[`ctermid`](https://www.man7.org/linux/man-pages/man3/ctermid.3.html) - get controlling terminal name
----
-[`ctermid`](https://www.man7.org/linux/man-pages/man3/ctermid.3p.html) - generate a pathname for the controlling terminal
----
-[`ctime`](https://www.man7.org/linux/man-pages/man3/ctime.3.html) - transform date and time to broken-down time or ASCII
----
-[`ctime`](https://www.man7.org/linux/man-pages/man3/ctime.3p.html) - convert a time value to a date and time string
----
-[`ctime_r`](https://www.man7.org/linux/man-pages/man3/ctime_r.3.html) - transform date and time to broken-down time or ASCII
----
-[`ctime_r`](https://www.man7.org/linux/man-pages/man3/ctime_r.3p.html) - convert a time value to a date and time string
----
-[`ctinfo`](https://www.man7.org/linux/man-pages/man8/ctinfo.8.html) - tc connmark processing action
----
-[`ctrlaltdel`](https://www.man7.org/linux/man-pages/man8/ctrlaltdel.8.html) - set the function of the Ctrl-Alt-Del combination
----
-[`ctstat`](https://www.man7.org/linux/man-pages/man8/ctstat.8.html) - unified linux network statistics
----
-[`ctype.h`](https://www.man7.org/linux/man-pages/man0/ctype.h.0p.html) - character types
----
-[`cups-config`](https://www.man7.org/linux/man-pages/man1/cups-config.1.html) - get cups api, compiler, directory, and link information (deprecated).
----
-[`cups-files.conf`](https://www.man7.org/linux/man-pages/man5/cups-files.conf.5.html) - file and directory configuration file for cups
----
-[`cups-lpd`](https://www.man7.org/linux/man-pages/man8/cups-lpd.8.html) - receive print jobs and report printer status to lpd clients (deprecated)
----
-[`cups-snmp`](https://www.man7.org/linux/man-pages/man8/cups-snmp.8.html) - cups snmp backend (deprecated)
----
-[`cups-snmp.conf`](https://www.man7.org/linux/man-pages/man5/cups-snmp.conf.5.html) - snmp configuration file for cups (deprecated)
----
-[`cups`](https://www.man7.org/linux/man-pages/man1/cups.1.html) - a standards-based, open source printing system
----
-[`cupsaccept`](https://www.man7.org/linux/man-pages/man8/cupsaccept.8.html) - accept/reject jobs sent to a destination
----
-[`cupsctl`](https://www.man7.org/linux/man-pages/man8/cupsctl.8.html) - configure cupsd.conf options
----
-[`cupsd-helper`](https://www.man7.org/linux/man-pages/man8/cupsd-helper.8.html) - cupsd helper programs (deprecated)
----
-[`cupsd-logs`](https://www.man7.org/linux/man-pages/man5/cupsd-logs.5.html) - cupsd log files (access_log, error_log, and page_log)
----
-[`cupsd`](https://www.man7.org/linux/man-pages/man8/cupsd.8.html) - cups scheduler
----
-[`cupsd.conf`](https://www.man7.org/linux/man-pages/man5/cupsd.conf.5.html) - server configuration file for cups
----
-[`cupsdisable`](https://www.man7.org/linux/man-pages/man8/cupsdisable.8.html) - stop/start printers and classes
----
-[`cupsenable`](https://www.man7.org/linux/man-pages/man8/cupsenable.8.html) - stop/start printers and classes
----
-[`cupsfilter`](https://www.man7.org/linux/man-pages/man8/cupsfilter.8.html) - convert a file to another format using cups filters (deprecated)
----
-[`cupstestppd`](https://www.man7.org/linux/man-pages/man1/cupstestppd.1.html) - test conformance of ppd files (deprecated)
----
-[`curl-config`](https://www.man7.org/linux/man-pages/man1/curl-config.1.html) - Get information about a libcurl installation
----
-[`curl`](https://www.man7.org/linux/man-pages/man1/curl.1.html) - transfer a URL
----
-[`curs_addch`](https://www.man7.org/linux/man-pages/man3/curs_addch.3x.html) - add a character (with attributes) to a curses window, then advance the cursor
----
-[`curs_addchstr`](https://www.man7.org/linux/man-pages/man3/curs_addchstr.3x.html) - add a string of characters (and attributes) to a curses window
----
-[`curs_addstr`](https://www.man7.org/linux/man-pages/man3/curs_addstr.3x.html) - add a string of characters to a curses window and advance cursor
----
-[`curs_add_wch`](https://www.man7.org/linux/man-pages/man3/curs_add_wch.3x.html) - add a complex character and rendition to a curses window, then advance the cursor
----
-[`curs_add_wchstr`](https://www.man7.org/linux/man-pages/man3/curs_add_wchstr.3x.html) - add an array of complex characters (and attributes) to a curses window
----
-[`curs_addwstr`](https://www.man7.org/linux/man-pages/man3/curs_addwstr.3x.html) - add a string of wide characters to a curses window and advance cursor
----
-[`curs_attr`](https://www.man7.org/linux/man-pages/man3/curs_attr.3x.html) - curses character and window attribute control routines
----
-[`curs_beep`](https://www.man7.org/linux/man-pages/man3/curs_beep.3x.html) - curses bell and screen flash routines
----
-[`curs_bkgd`](https://www.man7.org/linux/man-pages/man3/curs_bkgd.3x.html) - curses window background manipulation routines
----
-[`curs_bkgrnd`](https://www.man7.org/linux/man-pages/man3/curs_bkgrnd.3x.html) - curses window complex background manipulation routines
----
-[`curs_border`](https://www.man7.org/linux/man-pages/man3/curs_border.3x.html) - create curses borders, horizontal and vertical lines
----
-[`curs_border_set`](https://www.man7.org/linux/man-pages/man3/curs_border_set.3x.html) - create curses borders or lines using complex characters and renditions
----
-[`curs_clear`](https://www.man7.org/linux/man-pages/man3/curs_clear.3x.html) - clear all or part of a curses window
----
-[`curs_color`](https://www.man7.org/linux/man-pages/man3/curs_color.3x.html) - curses color manipulation routines
----
-[`curscr`](https://www.man7.org/linux/man-pages/man3/curscr.3x.html) - curses global variables
----
-[`curs_delch`](https://www.man7.org/linux/man-pages/man3/curs_delch.3x.html) - delete character under the cursor in a curses window
----
-[`curs_deleteln`](https://www.man7.org/linux/man-pages/man3/curs_deleteln.3x.html) - delete and insert lines in a curses window
----
-[`curses_trace`](https://www.man7.org/linux/man-pages/man3/curses_trace.3x.html) - curses debugging routines
----
-[`curses_version`](https://www.man7.org/linux/man-pages/man3/curses_version.3x.html) - miscellaneous curses extensions
----
-[`curs_extend`](https://www.man7.org/linux/man-pages/man3/curs_extend.3x.html) - miscellaneous curses extensions
----
-[`curs_getcchar`](https://www.man7.org/linux/man-pages/man3/curs_getcchar.3x.html) - Get a wide character string and rendition from a cchar_t or set a cchar_t from a wide-character string
----
-[`curs_getch`](https://www.man7.org/linux/man-pages/man3/curs_getch.3x.html) - get (or push back) characters from curses terminal keyboard
----
-[`curs_getstr`](https://www.man7.org/linux/man-pages/man3/curs_getstr.3x.html) - accept character strings from curses terminal keyboard
----
-[`curs_get_wch`](https://www.man7.org/linux/man-pages/man3/curs_get_wch.3x.html) - get (or push back) a wide character from curses terminal keyboard
----
-[`curs_get_wstr`](https://www.man7.org/linux/man-pages/man3/curs_get_wstr.3x.html) - get an array of wide characters from a curses terminal keyboard
----
-[`curs_getyx`](https://www.man7.org/linux/man-pages/man3/curs_getyx.3x.html) - get curses cursor and window coordinates
----
-[`curs_inch`](https://www.man7.org/linux/man-pages/man3/curs_inch.3x.html) - get a character and attributes from a curses window
----
-[`curs_inchstr`](https://www.man7.org/linux/man-pages/man3/curs_inchstr.3x.html) - get a string of characters (and attributes) from a curses window
----
-[`curs_initscr`](https://www.man7.org/linux/man-pages/man3/curs_initscr.3x.html) - curses screen initialization and manipulation routines
----
-[`curs_inopts`](https://www.man7.org/linux/man-pages/man3/curs_inopts.3x.html) - curses input options
----
-[`curs_insch`](https://www.man7.org/linux/man-pages/man3/curs_insch.3x.html) - insert a character before cursor in a curses window
----
-[`curs_insstr`](https://www.man7.org/linux/man-pages/man3/curs_insstr.3x.html) - insert string before cursor in a curses window
----
-[`curs_instr`](https://www.man7.org/linux/man-pages/man3/curs_instr.3x.html) - get a string of characters from a curses window
----
-[`curs_ins_wch`](https://www.man7.org/linux/man-pages/man3/curs_ins_wch.3x.html) - insert a complex character and rendition into a window
----
-[`curs_ins_wstr`](https://www.man7.org/linux/man-pages/man3/curs_ins_wstr.3x.html) - insert a wide-character string into a curses window
----
-[`curs_in_wch`](https://www.man7.org/linux/man-pages/man3/curs_in_wch.3x.html) - extract a complex character and rendition from a window
----
-[`curs_in_wchstr`](https://www.man7.org/linux/man-pages/man3/curs_in_wchstr.3x.html) - get an array of complex characters and renditions from a curses window
----
-[`curs_inwstr`](https://www.man7.org/linux/man-pages/man3/curs_inwstr.3x.html) - get a string of wchar_t characters from a curses window
----
-[`curs_kernel`](https://www.man7.org/linux/man-pages/man3/curs_kernel.3x.html) - low-level curses routines
----
-[`curs_legacy`](https://www.man7.org/linux/man-pages/man3/curs_legacy.3x.html) - get curses cursor and window coordinates, attributes
----
-[`curs_memleaks`](https://www.man7.org/linux/man-pages/man3/curs_memleaks.3x.html) - curses memory-leak checking
----
-[`curs_mouse`](https://www.man7.org/linux/man-pages/man3/curs_mouse.3x.html) - mouse interface through curses
----
-[`curs_move`](https://www.man7.org/linux/man-pages/man3/curs_move.3x.html) - move curses window cursor
----
-[`curs_opaque`](https://www.man7.org/linux/man-pages/man3/curs_opaque.3x.html) - curses window properties
----
-[`curs_outopts`](https://www.man7.org/linux/man-pages/man3/curs_outopts.3x.html) - curses output options
----
-[`curs_overlay`](https://www.man7.org/linux/man-pages/man3/curs_overlay.3x.html) - overlay and manipulate overlapped curses windows
----
-[`curs_pad`](https://www.man7.org/linux/man-pages/man3/curs_pad.3x.html) - create and display curses pads
----
-[`curs_print`](https://www.man7.org/linux/man-pages/man3/curs_print.3x.html) - ship binary data to printer
----
-[`curs_printw`](https://www.man7.org/linux/man-pages/man3/curs_printw.3x.html) - print formatted output in curses windows
----
-[`curs_refresh`](https://www.man7.org/linux/man-pages/man3/curs_refresh.3x.html) - refresh curses windows and lines
----
-[`curs_scanw`](https://www.man7.org/linux/man-pages/man3/curs_scanw.3x.html) - convert formatted input from a curses window
----
-[`curs_scr_dump`](https://www.man7.org/linux/man-pages/man3/curs_scr_dump.3x.html) - read (write) a curses screen from (to) a file
----
-[`curs_scroll`](https://www.man7.org/linux/man-pages/man3/curs_scroll.3x.html) - scroll a curses window
----
-[`curs_set`](https://www.man7.org/linux/man-pages/man3/curs_set.3x.html) - low-level curses routines
----
-[`curs_slk`](https://www.man7.org/linux/man-pages/man3/curs_slk.3x.html) - curses soft label routines
----
-[`curs_sp_funcs`](https://www.man7.org/linux/man-pages/man3/curs_sp_funcs.3x.html) - curses screen-pointer extension
----
-[`curs_termattrs`](https://www.man7.org/linux/man-pages/man3/curs_termattrs.3x.html) - curses environment query routines
----
-[`curs_termcap`](https://www.man7.org/linux/man-pages/man3/curs_termcap.3x.html) - curses emulation of termcap
----
-[`curs_terminfo`](https://www.man7.org/linux/man-pages/man3/curs_terminfo.3x.html) - curses interfaces to terminfo database
----
-[`curs_threads`](https://www.man7.org/linux/man-pages/man3/curs_threads.3x.html) - curses thread support
----
-[`curs_touch`](https://www.man7.org/linux/man-pages/man3/curs_touch.3x.html) - curses refresh control routines
----
-[`curs_trace`](https://www.man7.org/linux/man-pages/man3/curs_trace.3x.html) - curses debugging routines
----
-[`curs_util`](https://www.man7.org/linux/man-pages/man3/curs_util.3x.html) - miscellaneous curses utility routines
----
-[`curs_variables`](https://www.man7.org/linux/man-pages/man3/curs_variables.3x.html) - curses global variables
----
-[`curs_window`](https://www.man7.org/linux/man-pages/man3/curs_window.3x.html) - create curses windows
----
-[`cur_term`](https://www.man7.org/linux/man-pages/man3/cur_term.3x.html) - curses terminfo global variables
----
-[`curvetun`](https://www.man7.org/linux/man-pages/man8/curvetun.8.html) - a lightweight curve25519 ip4/6 tunnel
----
-[`cuserid`](https://www.man7.org/linux/man-pages/man3/cuserid.3.html) - get username
----
-[`customizable_types`](https://www.man7.org/linux/man-pages/man5/customizable_types.5.html) - The SELinux customizable types configuration file
----
-[`cut`](https://www.man7.org/linux/man-pages/man1/cut.1.html) - remove sections from each line of files
----
-[`cut`](https://www.man7.org/linux/man-pages/man1/cut.1p.html) - cut out selected fields of each line of a file
----
-[`cvtsudoers`](https://www.man7.org/linux/man-pages/man1/cvtsudoers.1.html) - convert between sudoers file formats
----
-[`cxref`](https://www.man7.org/linux/man-pages/man1/cxref.1p.html) - language program cross-reference table (DEVELOPMENT)
+- [`c++filt`](https://www.man7.org/linux/man-pages/man1/c++filt.1.html) - demangle C++ and Java symbols
+- [`c99`](https://www.man7.org/linux/man-pages/man1/c99.1p.html) - compile standard C programs
+- [`cabs`](https://www.man7.org/linux/man-pages/man3/cabs.3.html) - absolute value of a complex number
+- [`cabs`](https://www.man7.org/linux/man-pages/man3/cabs.3p.html) - return a complex absolute value
+- [`cabsf`](https://www.man7.org/linux/man-pages/man3/cabsf.3.html) - absolute value of a complex number
+- [`cabsf`](https://www.man7.org/linux/man-pages/man3/cabsf.3p.html) - return a complex absolute value
+- [`cabsl`](https://www.man7.org/linux/man-pages/man3/cabsl.3.html) - absolute value of a complex number
+- [`cabsl`](https://www.man7.org/linux/man-pages/man3/cabsl.3p.html) - return a complex absolute value
+- [`cacheflush`](https://www.man7.org/linux/man-pages/man2/cacheflush.2.html) - flush contents of instruction and/or data cache
+- [`cacos`](https://www.man7.org/linux/man-pages/man3/cacos.3.html) - complex arc cosine
+- [`cacos`](https://www.man7.org/linux/man-pages/man3/cacos.3p.html) - complex arc cosine functions
+- [`cacosf`](https://www.man7.org/linux/man-pages/man3/cacosf.3.html) - complex arc cosine
+- [`cacosf`](https://www.man7.org/linux/man-pages/man3/cacosf.3p.html) - complex arc cosine functions
+- [`cacosh`](https://www.man7.org/linux/man-pages/man3/cacosh.3.html) - complex arc hyperbolic cosine
+- [`cacosh`](https://www.man7.org/linux/man-pages/man3/cacosh.3p.html) - complex arc hyperbolic cosine functions
+- [`cacoshf`](https://www.man7.org/linux/man-pages/man3/cacoshf.3.html) - complex arc hyperbolic cosine
+- [`cacoshf`](https://www.man7.org/linux/man-pages/man3/cacoshf.3p.html) - complex arc hyperbolic cosine functions
+- [`cacoshl`](https://www.man7.org/linux/man-pages/man3/cacoshl.3.html) - complex arc hyperbolic cosine
+- [`cacoshl`](https://www.man7.org/linux/man-pages/man3/cacoshl.3p.html) - complex arc hyperbolic cosine functions
+- [`cacosl`](https://www.man7.org/linux/man-pages/man3/cacosl.3.html) - complex arc cosine
+- [`cacosl`](https://www.man7.org/linux/man-pages/man3/cacosl.3p.html) - complex arc cosine functions
+- [`CAKE`](https://www.man7.org/linux/man-pages/man8/CAKE.8.html) - Common Applications Kept Enhanced (CAKE)
+- [`cal`](https://www.man7.org/linux/man-pages/man1/cal.1.html) - display a calendar
+- [`cal`](https://www.man7.org/linux/man-pages/man1/cal.1p.html) - print a calendar
+- [`callgrind_annotate`](https://www.man7.org/linux/man-pages/man1/callgrind_annotate.1.html) - post-processing tool for the Callgrind
+- [`callgrind_control`](https://www.man7.org/linux/man-pages/man1/callgrind_control.1.html) - observe and control programs being run by Callgrind
+- [`calloc`](https://www.man7.org/linux/man-pages/man3/calloc.3.html) - allocate and free dynamic memory
+- [`calloc`](https://www.man7.org/linux/man-pages/man3/calloc.3p.html) - a memory allocator
+- [`callrpc`](https://www.man7.org/linux/man-pages/man3/callrpc.3.html) - library routines for remote procedure calls
+- [`cancel`](https://www.man7.org/linux/man-pages/man1/cancel.1.html) - cancel jobs
+- [`can_change_color`](https://www.man7.org/linux/man-pages/man3/can_change_color.3x.html) - curses color manipulation routines
+- [`canonicalize_file_name`](https://www.man7.org/linux/man-pages/man3/canonicalize_file_name.3.html) - return the canonicalized absolute pathname
+- [`capabilities`](https://www.man7.org/linux/man-pages/man7/capabilities.7.html) - overview of Linux capabilities
+- [`capability.conf`](https://www.man7.org/linux/man-pages/man5/capability.conf.5.html) - pam_cap module configuration file
+- [`cap_clear`](https://www.man7.org/linux/man-pages/man3/cap_clear.3.html) - capability data object manipulation
+- [`cap_clear_flag`](https://www.man7.org/linux/man-pages/man3/cap_clear_flag.3.html) - capability data object manipulation
+- [`cap_compare`](https://www.man7.org/linux/man-pages/man3/cap_compare.3.html) - capability data object manipulation
+- [`cap_copy_ext`](https://www.man7.org/linux/man-pages/man3/cap_copy_ext.3.html) - capability state external representation translation
+- [`cap_copy_int`](https://www.man7.org/linux/man-pages/man3/cap_copy_int.3.html) - capability state external representation translation
+- [`cap_copy_int_check`](https://www.man7.org/linux/man-pages/man3/cap_copy_int_check.3.html) - capability state external representation translation
+- [`cap_drop_bound`](https://www.man7.org/linux/man-pages/man3/cap_drop_bound.3.html) - capability manipulation on processes
+- [`cap_dup`](https://www.man7.org/linux/man-pages/man3/cap_dup.3.html) - capability data object storage management
+- [`cap_fill`](https://www.man7.org/linux/man-pages/man3/cap_fill.3.html) - capability data object manipulation
+- [`cap_fill_flag`](https://www.man7.org/linux/man-pages/man3/cap_fill_flag.3.html) - capability data object manipulation
+- [`cap_free`](https://www.man7.org/linux/man-pages/man3/cap_free.3.html) - capability data object storage management
+- [`cap_from_name`](https://www.man7.org/linux/man-pages/man3/cap_from_name.3.html) - capability state textual representation translation
+- [`cap_from_text`](https://www.man7.org/linux/man-pages/man3/cap_from_text.3.html) - capability state textual representation translation
+- [`cap_func_launcher`](https://www.man7.org/linux/man-pages/man3/cap_func_launcher.3.html) - libcap launch functionality
+- [`capget`](https://www.man7.org/linux/man-pages/man2/capget.2.html) - set/get capabilities of thread(s)
+- [`cap_get_ambient`](https://www.man7.org/linux/man-pages/man3/cap_get_ambient.3.html) - capability manipulation on processes
+- [`cap_get_bound`](https://www.man7.org/linux/man-pages/man3/cap_get_bound.3.html) - capability manipulation on processes
+- [`cap_get_fd`](https://www.man7.org/linux/man-pages/man3/cap_get_fd.3.html) - capability manipulation on files
+- [`cap_get_file`](https://www.man7.org/linux/man-pages/man3/cap_get_file.3.html) - capability manipulation on files
+- [`cap_get_flag`](https://www.man7.org/linux/man-pages/man3/cap_get_flag.3.html) - capability data object manipulation
+- [`cap_get_mode`](https://www.man7.org/linux/man-pages/man3/cap_get_mode.3.html) - capability manipulation on processes
+- [`cap_get_nsowner`](https://www.man7.org/linux/man-pages/man3/cap_get_nsowner.3.html) - capability manipulation on files
+- [`capgetp`](https://www.man7.org/linux/man-pages/man3/capgetp.3.html) - capability manipulation on processes
+- [`cap_get_pid`](https://www.man7.org/linux/man-pages/man3/cap_get_pid.3.html) - capability manipulation on processes
+- [`cap_get_proc`](https://www.man7.org/linux/man-pages/man3/cap_get_proc.3.html) - capability manipulation on processes
+- [`cap_get_secbits`](https://www.man7.org/linux/man-pages/man3/cap_get_secbits.3.html) - capability manipulation on processes
+- [`cap_iab`](https://www.man7.org/linux/man-pages/man3/cap_iab.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_compare`](https://www.man7.org/linux/man-pages/man3/cap_iab_compare.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_dup`](https://www.man7.org/linux/man-pages/man3/cap_iab_dup.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_fill`](https://www.man7.org/linux/man-pages/man3/cap_iab_fill.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_from_text`](https://www.man7.org/linux/man-pages/man3/cap_iab_from_text.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_get_pid`](https://www.man7.org/linux/man-pages/man3/cap_iab_get_pid.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_get_proc`](https://www.man7.org/linux/man-pages/man3/cap_iab_get_proc.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_get_vector`](https://www.man7.org/linux/man-pages/man3/cap_iab_get_vector.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_init`](https://www.man7.org/linux/man-pages/man3/cap_iab_init.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_set_proc`](https://www.man7.org/linux/man-pages/man3/cap_iab_set_proc.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_set_vector`](https://www.man7.org/linux/man-pages/man3/cap_iab_set_vector.3.html) - inheritable IAB tuple support functions
+- [`cap_iab_to_text`](https://www.man7.org/linux/man-pages/man3/cap_iab_to_text.3.html) - inheritable IAB tuple support functions
+- [`cap_init`](https://www.man7.org/linux/man-pages/man3/cap_init.3.html) - capability data object storage management
+- [`cap_launch`](https://www.man7.org/linux/man-pages/man3/cap_launch.3.html) - libcap launch functionality
+- [`cap_launcher_callback`](https://www.man7.org/linux/man-pages/man3/cap_launcher_callback.3.html) - libcap launch functionality
+- [`cap_launcher_set_chroot`](https://www.man7.org/linux/man-pages/man3/cap_launcher_set_chroot.3.html) - libcap launch functionality
+- [`cap_launcher_setgroups`](https://www.man7.org/linux/man-pages/man3/cap_launcher_setgroups.3.html) - libcap launch functionality
+- [`cap_launcher_set_iab`](https://www.man7.org/linux/man-pages/man3/cap_launcher_set_iab.3.html) - libcap launch functionality
+- [`cap_launcher_set_mode`](https://www.man7.org/linux/man-pages/man3/cap_launcher_set_mode.3.html) - libcap launch functionality
+- [`cap_launcher_setuid`](https://www.man7.org/linux/man-pages/man3/cap_launcher_setuid.3.html) - libcap launch functionality
+- [`cap_max_bits`](https://www.man7.org/linux/man-pages/man3/cap_max_bits.3.html) - capability data object manipulation
+- [`cap_mode`](https://www.man7.org/linux/man-pages/man3/cap_mode.3.html) - capability manipulation on processes
+- [`cap_mode_name`](https://www.man7.org/linux/man-pages/man3/cap_mode_name.3.html) - capability manipulation on processes
+- [`cap_new_launcher`](https://www.man7.org/linux/man-pages/man3/cap_new_launcher.3.html) - libcap launch functionality
+- [`capng_apply`](https://www.man7.org/linux/man-pages/man3/capng_apply.3.html) - apply the stored capabilities settings
+- [`capng_apply_caps_fd`](https://www.man7.org/linux/man-pages/man3/capng_apply_caps_fd.3.html) - write file-based capabilities to extended attributes
+- [`capng_capability_to_name`](https://www.man7.org/linux/man-pages/man3/capng_capability_to_name.3.html) - convert capability integer to text
+- [`capng_change_id`](https://www.man7.org/linux/man-pages/man3/capng_change_id.3.html) - change the credentials retaining capabilities
+- [`capng_clear`](https://www.man7.org/linux/man-pages/man3/capng_clear.3.html) - clear chosen capabilities set
+- [`capng_fill`](https://www.man7.org/linux/man-pages/man3/capng_fill.3.html) - fill chosen capabilities set
+- [`capng_get_caps_fd`](https://www.man7.org/linux/man-pages/man3/capng_get_caps_fd.3.html) - read file-based capabilities from extended attributes
+- [`capng_get_caps_process`](https://www.man7.org/linux/man-pages/man3/capng_get_caps_process.3.html) - get the capabilities from a process
+- [`capng_get_rootid`](https://www.man7.org/linux/man-pages/man3/capng_get_rootid.3.html) - get namespace root id
+- [`capng_have_capabilities`](https://www.man7.org/linux/man-pages/man3/capng_have_capabilities.3.html) - check for capabilities
+- [`capng_have_capability`](https://www.man7.org/linux/man-pages/man3/capng_have_capability.3.html) - check for specific capability
+- [`capng_have_permitted_capabilities`](https://www.man7.org/linux/man-pages/man3/capng_have_permitted_capabilities.3.html) - check for capabilities
+- [`capng_lock`](https://www.man7.org/linux/man-pages/man3/capng_lock.3.html) - lock the current process capabilities settings
+- [`capng_name_to_capability`](https://www.man7.org/linux/man-pages/man3/capng_name_to_capability.3.html) - convert capability text to integer
+- [`capng_print_caps_numeric`](https://www.man7.org/linux/man-pages/man3/capng_print_caps_numeric.3.html) - print numeric values for capabilities set
+- [`capng_print_caps_text`](https://www.man7.org/linux/man-pages/man3/capng_print_caps_text.3.html) - print names of values for capabilities set
+- [`capng_restore_state`](https://www.man7.org/linux/man-pages/man3/capng_restore_state.3.html) - set the internal library state
+- [`capng_save_state`](https://www.man7.org/linux/man-pages/man3/capng_save_state.3.html) - get the internal library state
+- [`capng_setpid`](https://www.man7.org/linux/man-pages/man3/capng_setpid.3.html) - set working pid
+- [`capng_set_rootid`](https://www.man7.org/linux/man-pages/man3/capng_set_rootid.3.html) - set namespace root id
+- [`capng_update`](https://www.man7.org/linux/man-pages/man3/capng_update.3.html) - update the stored capabilities settings
+- [`capng_updatev`](https://www.man7.org/linux/man-pages/man3/capng_updatev.3.html) - update the stored capabilities settings
+- [`cap_prctl`](https://www.man7.org/linux/man-pages/man3/cap_prctl.3.html) - capability manipulation on processes
+- [`cap_prctlw`](https://www.man7.org/linux/man-pages/man3/cap_prctlw.3.html) - capability manipulation on processes
+- [`cap_proc_root`](https://www.man7.org/linux/man-pages/man3/cap_proc_root.3.html) - inheritable IAB tuple support functions
+- [`cap_reset_ambient`](https://www.man7.org/linux/man-pages/man3/cap_reset_ambient.3.html) - capability manipulation on processes
+- [`capset`](https://www.man7.org/linux/man-pages/man2/capset.2.html) - set/get capabilities of thread(s)
+- [`cap_set_ambient`](https://www.man7.org/linux/man-pages/man3/cap_set_ambient.3.html) - capability manipulation on processes
+- [`cap_set_fd`](https://www.man7.org/linux/man-pages/man3/cap_set_fd.3.html) - capability manipulation on files
+- [`cap_set_file`](https://www.man7.org/linux/man-pages/man3/cap_set_file.3.html) - capability manipulation on files
+- [`cap_set_flag`](https://www.man7.org/linux/man-pages/man3/cap_set_flag.3.html) - capability data object manipulation
+- [`cap_setgroups`](https://www.man7.org/linux/man-pages/man3/cap_setgroups.3.html) - capability manipulation on processes
+- [`cap_set_mode`](https://www.man7.org/linux/man-pages/man3/cap_set_mode.3.html) - capability manipulation on processes
+- [`cap_set_nsowner`](https://www.man7.org/linux/man-pages/man3/cap_set_nsowner.3.html) - capability manipulation on files
+- [`capsetp`](https://www.man7.org/linux/man-pages/man3/capsetp.3.html) - capability manipulation on processes
+- [`cap_set_proc`](https://www.man7.org/linux/man-pages/man3/cap_set_proc.3.html) - capability manipulation on processes
+- [`cap_set_secbits`](https://www.man7.org/linux/man-pages/man3/cap_set_secbits.3.html) - capability manipulation on processes
+- [`cap_set_syscall`](https://www.man7.org/linux/man-pages/man3/cap_set_syscall.3.html) - capability data object manipulation
+- [`cap_setuid`](https://www.man7.org/linux/man-pages/man3/cap_setuid.3.html) - capability manipulation on processes
+- [`capsh`](https://www.man7.org/linux/man-pages/man1/capsh.1.html) - capability shell wrapper
+- [`cap_size`](https://www.man7.org/linux/man-pages/man3/cap_size.3.html) - capability state external representation translation
+- [`capsule.service`](https://www.man7.org/linux/man-pages/man5/capsule.service.5.html) - System unit for the capsule service manager
+- [`capsule@.service`](https://www.man7.org/linux/man-pages/man5/capsule@.service.5.html) - System unit for the capsule service manager
+- [`captest`](https://www.man7.org/linux/man-pages/man8/captest.8.html) - a program to demonstrate capabilities
+- [`cap_to_name`](https://www.man7.org/linux/man-pages/man3/cap_to_name.3.html) - capability state textual representation translation
+- [`cap_to_text`](https://www.man7.org/linux/man-pages/man3/cap_to_text.3.html) - capability state textual representation translation
+- [`captree`](https://www.man7.org/linux/man-pages/man8/captree.8.html) - display tree of process capabilities
+- [`carg`](https://www.man7.org/linux/man-pages/man3/carg.3.html) - calculate the complex argument
+- [`carg`](https://www.man7.org/linux/man-pages/man3/carg.3p.html) - complex argument functions
+- [`cargf`](https://www.man7.org/linux/man-pages/man3/cargf.3.html) - calculate the complex argument
+- [`cargf`](https://www.man7.org/linux/man-pages/man3/cargf.3p.html) - complex argument functions
+- [`cargl`](https://www.man7.org/linux/man-pages/man3/cargl.3.html) - calculate the complex argument
+- [`cargl`](https://www.man7.org/linux/man-pages/man3/cargl.3p.html) - complex argument functions
+- [`casin`](https://www.man7.org/linux/man-pages/man3/casin.3.html) - complex arc sine
+- [`casin`](https://www.man7.org/linux/man-pages/man3/casin.3p.html) - complex arc sine functions
+- [`casinf`](https://www.man7.org/linux/man-pages/man3/casinf.3.html) - complex arc sine
+- [`casinf`](https://www.man7.org/linux/man-pages/man3/casinf.3p.html) - complex arc sine functions
+- [`casinh`](https://www.man7.org/linux/man-pages/man3/casinh.3.html) - complex arc sine hyperbolic
+- [`casinh`](https://www.man7.org/linux/man-pages/man3/casinh.3p.html) - complex arc hyperbolic sine functions
+- [`casinhf`](https://www.man7.org/linux/man-pages/man3/casinhf.3.html) - complex arc sine hyperbolic
+- [`casinhf`](https://www.man7.org/linux/man-pages/man3/casinhf.3p.html) - complex arc hyperbolic sine functions
+- [`casinhl`](https://www.man7.org/linux/man-pages/man3/casinhl.3.html) - complex arc sine hyperbolic
+- [`casinhl`](https://www.man7.org/linux/man-pages/man3/casinhl.3p.html) - complex arc hyperbolic sine functions
+- [`casinl`](https://www.man7.org/linux/man-pages/man3/casinl.3.html) - complex arc sine
+- [`casinl`](https://www.man7.org/linux/man-pages/man3/casinl.3p.html) - complex arc sine functions
+- [`cat`](https://www.man7.org/linux/man-pages/man1/cat.1.html) - concatenate files and print on the standard output
+- [`cat`](https://www.man7.org/linux/man-pages/man1/cat.1p.html) - concatenate and print files
+- [`catan`](https://www.man7.org/linux/man-pages/man3/catan.3.html) - complex arc tangents
+- [`catan`](https://www.man7.org/linux/man-pages/man3/catan.3p.html) - complex arc tangent functions
+- [`catanf`](https://www.man7.org/linux/man-pages/man3/catanf.3.html) - complex arc tangents
+- [`catanf`](https://www.man7.org/linux/man-pages/man3/catanf.3p.html) - complex arc tangent functions
+- [`catanh`](https://www.man7.org/linux/man-pages/man3/catanh.3.html) - complex arc tangents hyperbolic
+- [`catanh`](https://www.man7.org/linux/man-pages/man3/catanh.3p.html) - complex arc hyperbolic tangent functions
+- [`catanhf`](https://www.man7.org/linux/man-pages/man3/catanhf.3.html) - complex arc tangents hyperbolic
+- [`catanhf`](https://www.man7.org/linux/man-pages/man3/catanhf.3p.html) - complex arc hyperbolic tangent functions
+- [`catanhl`](https://www.man7.org/linux/man-pages/man3/catanhl.3.html) - complex arc tangents hyperbolic
+- [`catanhl`](https://www.man7.org/linux/man-pages/man3/catanhl.3p.html) - complex arc hyperbolic tangent functions
+- [`catanl`](https://www.man7.org/linux/man-pages/man3/catanl.3.html) - complex arc tangents
+- [`catanl`](https://www.man7.org/linux/man-pages/man3/catanl.3p.html) - complex arc tangent functions
+- [`catclose`](https://www.man7.org/linux/man-pages/man3/catclose.3.html) - open/close a message catalog
+- [`catclose`](https://www.man7.org/linux/man-pages/man3/catclose.3p.html) - close a message catalog descriptor
+- [`catgets`](https://www.man7.org/linux/man-pages/man3/catgets.3.html) - get message from a message catalog
+- [`catgets`](https://www.man7.org/linux/man-pages/man3/catgets.3p.html) - read a program message
+- [`catman`](https://www.man7.org/linux/man-pages/man8/catman.8.html) - create or update the pre-formatted manual pages
+- [`catopen`](https://www.man7.org/linux/man-pages/man3/catopen.3.html) - open/close a message catalog
+- [`catopen`](https://www.man7.org/linux/man-pages/man3/catopen.3p.html) - open a message catalog
+- [`cbc_crypt`](https://www.man7.org/linux/man-pages/man3/cbc_crypt.3.html) - fast DES encryption
+- [`cbreak`](https://www.man7.org/linux/man-pages/man3/cbreak.3x.html) - curses input options
+- [`cbrt`](https://www.man7.org/linux/man-pages/man3/cbrt.3.html) - cube root function
+- [`cbrt`](https://www.man7.org/linux/man-pages/man3/cbrt.3p.html) - cube root functions
+- [`cbrtf`](https://www.man7.org/linux/man-pages/man3/cbrtf.3.html) - cube root function
+- [`cbrtf`](https://www.man7.org/linux/man-pages/man3/cbrtf.3p.html) - cube root functions
+- [`cbrtl`](https://www.man7.org/linux/man-pages/man3/cbrtl.3.html) - cube root function
+- [`cbrtl`](https://www.man7.org/linux/man-pages/man3/cbrtl.3p.html) - cube root functions
+- [`CBS`](https://www.man7.org/linux/man-pages/man8/CBS.8.html) - Credit Based Shaper (CBS) Qdisc
+- [`cciss`](https://www.man7.org/linux/man-pages/man4/cciss.4.html) - HP Smart Array block driver
+- [`ccos`](https://www.man7.org/linux/man-pages/man3/ccos.3.html) - complex cosine function
+- [`ccos`](https://www.man7.org/linux/man-pages/man3/ccos.3p.html) - complex cosine functions
+- [`ccosf`](https://www.man7.org/linux/man-pages/man3/ccosf.3.html) - complex cosine function
+- [`ccosf`](https://www.man7.org/linux/man-pages/man3/ccosf.3p.html) - complex cosine functions
+- [`ccosh`](https://www.man7.org/linux/man-pages/man3/ccosh.3.html) - complex hyperbolic cosine
+- [`ccosh`](https://www.man7.org/linux/man-pages/man3/ccosh.3p.html) - complex hyperbolic cosine functions
+- [`ccoshf`](https://www.man7.org/linux/man-pages/man3/ccoshf.3.html) - complex hyperbolic cosine
+- [`ccoshf`](https://www.man7.org/linux/man-pages/man3/ccoshf.3p.html) - complex hyperbolic cosine functions
+- [`ccoshl`](https://www.man7.org/linux/man-pages/man3/ccoshl.3.html) - complex hyperbolic cosine
+- [`ccoshl`](https://www.man7.org/linux/man-pages/man3/ccoshl.3p.html) - complex hyperbolic cosine functions
+- [`ccosl`](https://www.man7.org/linux/man-pages/man3/ccosl.3.html) - complex cosine function
+- [`ccosl`](https://www.man7.org/linux/man-pages/man3/ccosl.3p.html) - complex cosine functions
+- [`cc_t`](https://www.man7.org/linux/man-pages/man3/cc_t.3type.html) - terminal special characters, baud rates, modes
+- [`cd`](https://www.man7.org/linux/man-pages/man1/cd.1p.html) - change the working directory
+- [`cdrwtool`](https://www.man7.org/linux/man-pages/man1/cdrwtool.1.html) - perform various actions on a CD-R, CD-RW, and DVD-R
+- [`ceil`](https://www.man7.org/linux/man-pages/man3/ceil.3.html) - ceiling function: smallest integral value not less than argument
+- [`ceil`](https://www.man7.org/linux/man-pages/man3/ceil.3p.html) - ceiling value function
+- [`ceilf`](https://www.man7.org/linux/man-pages/man3/ceilf.3.html) - ceiling function: smallest integral value not less than argument
+- [`ceilf`](https://www.man7.org/linux/man-pages/man3/ceilf.3p.html) - ceiling value function
+- [`ceill`](https://www.man7.org/linux/man-pages/man3/ceill.3.html) - ceiling function: smallest integral value not less than argument
+- [`ceill`](https://www.man7.org/linux/man-pages/man3/ceill.3p.html) - ceiling value function
+- [`certtool`](https://www.man7.org/linux/man-pages/man1/certtool.1.html) - GnuTLS certificate tool
+- [`cexp`](https://www.man7.org/linux/man-pages/man3/cexp.3.html) - complex exponential function
+- [`cexp`](https://www.man7.org/linux/man-pages/man3/cexp.3p.html) - complex exponential functions
+- [`cexp2`](https://www.man7.org/linux/man-pages/man3/cexp2.3.html) - base-2 exponent of a complex number
+- [`cexp2f`](https://www.man7.org/linux/man-pages/man3/cexp2f.3.html) - base-2 exponent of a complex number
+- [`cexp2l`](https://www.man7.org/linux/man-pages/man3/cexp2l.3.html) - base-2 exponent of a complex number
+- [`cexpf`](https://www.man7.org/linux/man-pages/man3/cexpf.3.html) - complex exponential function
+- [`cexpf`](https://www.man7.org/linux/man-pages/man3/cexpf.3p.html) - complex exponential functions
+- [`cexpl`](https://www.man7.org/linux/man-pages/man3/cexpl.3.html) - complex exponential function
+- [`cexpl`](https://www.man7.org/linux/man-pages/man3/cexpl.3p.html) - complex exponential functions
+- [`cfdisk`](https://www.man7.org/linux/man-pages/man8/cfdisk.8.html) - display or manipulate a disk partition table
+- [`cfgetispeed`](https://www.man7.org/linux/man-pages/man3/cfgetispeed.3.html) - get and set terminal attributes, line control, get and set baud rate
+- [`cfgetispeed`](https://www.man7.org/linux/man-pages/man3/cfgetispeed.3p.html) - get input baud rate
+- [`cfgetospeed`](https://www.man7.org/linux/man-pages/man3/cfgetospeed.3.html) - get and set terminal attributes, line control, get and set baud rate
+- [`cfgetospeed`](https://www.man7.org/linux/man-pages/man3/cfgetospeed.3p.html) - get output baud rate
+- [`cflow`](https://www.man7.org/linux/man-pages/man1/cflow.1p.html) - language flowgraph (DEVELOPMENT)
+- [`cfmakeraw`](https://www.man7.org/linux/man-pages/man3/cfmakeraw.3.html) - get and set terminal attributes, line control, get and set baud rate
+- [`cfree`](https://www.man7.org/linux/man-pages/man3/cfree.3.html) - free allocated memory
+- [`cfsetispeed`](https://www.man7.org/linux/man-pages/man3/cfsetispeed.3.html) - get and set terminal attributes, line control, get and set baud rate
+- [`cfsetispeed`](https://www.man7.org/linux/man-pages/man3/cfsetispeed.3p.html) - set input baud rate
+- [`cfsetospeed`](https://www.man7.org/linux/man-pages/man3/cfsetospeed.3.html) - get and set terminal attributes, line control, get and set baud rate
+- [`cfsetospeed`](https://www.man7.org/linux/man-pages/man3/cfsetospeed.3p.html) - set output baud rate
+- [`cfsetspeed`](https://www.man7.org/linux/man-pages/man3/cfsetspeed.3.html) - get and set terminal attributes, line control, get and set baud rate
+- [`cg_annotate`](https://www.man7.org/linux/man-pages/man1/cg_annotate.1.html) - post-processing tool for Cachegrind
+- [`cgcc`](https://www.man7.org/linux/man-pages/man1/cgcc.1.html) - Compiler wrapper to run Sparse after compiling
+- [`cg_diff`](https://www.man7.org/linux/man-pages/man1/cg_diff.1.html) - (deprecated) diffs two Cachegrind output files
+- [`cg_merge`](https://www.man7.org/linux/man-pages/man1/cg_merge.1.html) - (deprecated) merges multiple Cachegrind output files into one
+- [`cgroup`](https://www.man7.org/linux/man-pages/man8/cgroup.8.html) - control group based traffic control filter
+- [`cgroup_namespaces`](https://www.man7.org/linux/man-pages/man7/cgroup_namespaces.7.html) - overview of Linux cgroup namespaces
+- [`cgroups`](https://www.man7.org/linux/man-pages/man7/cgroups.7.html) - Linux control groups
+- [`chacl`](https://www.man7.org/linux/man-pages/man1/chacl.1.html) - change the access control list of a file or directory
+- [`chage`](https://www.man7.org/linux/man-pages/man1/chage.1.html) - change user password expiry information
+- [`charmap`](https://www.man7.org/linux/man-pages/man5/charmap.5.html) - character set description file
+- [`charsets`](https://www.man7.org/linux/man-pages/man7/charsets.7.html) - character set standards and internationalization
+- [`chat`](https://www.man7.org/linux/man-pages/man8/chat.8.html) - Automated conversational script with a modem
+- [`chattr`](https://www.man7.org/linux/man-pages/man1/chattr.1.html) - change file attributes on a Linux file system
+- [`chcat`](https://www.man7.org/linux/man-pages/man8/chcat.8.html) - change SELinux security categories of files/users
+- [`chcon`](https://www.man7.org/linux/man-pages/man1/chcon.1.html) - change file security context
+- [`chcpu`](https://www.man7.org/linux/man-pages/man8/chcpu.8.html) - configure CPUs
+- [`chdir`](https://www.man7.org/linux/man-pages/man2/chdir.2.html) - change working directory
+- [`chdir`](https://www.man7.org/linux/man-pages/man3/chdir.3p.html) - change working directory
+- [`checkmodule`](https://www.man7.org/linux/man-pages/man8/checkmodule.8.html) - SELinux policy module compiler
+- [`checkPasswdAccess`](https://www.man7.org/linux/man-pages/man3/checkPasswdAccess.3.html) - query the SELinux policy database in the kernel
+- [`checkpasswdaccess`](https://www.man7.org/linux/man-pages/man3/checkpasswdaccess.3.html) - query the SELinux policy database in the kernel
+- [`checkpolicy`](https://www.man7.org/linux/man-pages/man8/checkpolicy.8.html) - SELinux policy compiler
+- [`chem` -](https://www.man7.org/linux/man-pages/man1/chem.1.html) - (no description)
+- [`chfn`](https://www.man7.org/linux/man-pages/man1/chfn.1.html) - change your finger information
+- [`chgat`](https://www.man7.org/linux/man-pages/man3/chgat.3x.html) - curses character and window attribute control routines
+- [`chgpasswd`](https://www.man7.org/linux/man-pages/man8/chgpasswd.8.html) - update group passwords in batch mode
+- [`chgrp`](https://www.man7.org/linux/man-pages/man1/chgrp.1.html) - change group ownership
+- [`chgrp`](https://www.man7.org/linux/man-pages/man1/chgrp.1p.html) - change the file group ownership
+- [`chkcon`](https://www.man7.org/linux/man-pages/man8/chkcon.8.html) - determine if a security context is valid for a given binary policy
+- [`chkhelp`](https://www.man7.org/linux/man-pages/man1/chkhelp.1.html) - check performance metrics help text files
+- [`chmem`](https://www.man7.org/linux/man-pages/man8/chmem.8.html) - configure memory
+- [`chmod`](https://www.man7.org/linux/man-pages/man1/chmod.1.html) - change file mode bits
+- [`chmod`](https://www.man7.org/linux/man-pages/man1/chmod.1p.html) - change the file modes
+- [`chmod`](https://www.man7.org/linux/man-pages/man2/chmod.2.html) - change permissions of a file
+- [`chmod`](https://www.man7.org/linux/man-pages/man3/chmod.3p.html) - change mode of a file
+- [`choke`](https://www.man7.org/linux/man-pages/man8/choke.8.html) - choose and keep scheduler
+- [`choom`](https://www.man7.org/linux/man-pages/man1/choom.1.html) - display and adjust OOM-killer score.
+- [`chown`](https://www.man7.org/linux/man-pages/man1/chown.1.html) - change file owner and group
+- [`chown`](https://www.man7.org/linux/man-pages/man1/chown.1p.html) - change the file ownership
+- [`chown`](https://www.man7.org/linux/man-pages/man2/chown.2.html) - change ownership of a file
+- [`chown`](https://www.man7.org/linux/man-pages/man3/chown.3p.html) - change owner and group of a file
+- [`chown32`](https://www.man7.org/linux/man-pages/man2/chown32.2.html) - change ownership of a file
+- [`chpasswd`](https://www.man7.org/linux/man-pages/man8/chpasswd.8.html) - update passwords in batch mode
+- [`chroot`](https://www.man7.org/linux/man-pages/man1/chroot.1.html) - run command or interactive shell with special root directory
+- [`chroot`](https://www.man7.org/linux/man-pages/man2/chroot.2.html) - change root directory
+- [`chrt`](https://www.man7.org/linux/man-pages/man1/chrt.1.html) - manipulate the real-time attributes of a process
+- [`chsh`](https://www.man7.org/linux/man-pages/man1/chsh.1.html) - change your login shell
+- [`chvt`](https://www.man7.org/linux/man-pages/man1/chvt.1.html) - change foreground virtual terminal
+- [`cifsiostat`](https://www.man7.org/linux/man-pages/man1/cifsiostat.1.html) - Report CIFS statistics.
+- [`cimag`](https://www.man7.org/linux/man-pages/man3/cimag.3.html) - get imaginary part of a complex number
+- [`cimag`](https://www.man7.org/linux/man-pages/man3/cimag.3p.html) - complex imaginary functions
+- [`cimagf`](https://www.man7.org/linux/man-pages/man3/cimagf.3.html) - get imaginary part of a complex number
+- [`cimagf`](https://www.man7.org/linux/man-pages/man3/cimagf.3p.html) - complex imaginary functions
+- [`cimagl`](https://www.man7.org/linux/man-pages/man3/cimagl.3.html) - get imaginary part of a complex number
+- [`cimagl`](https://www.man7.org/linux/man-pages/man3/cimagl.3p.html) - complex imaginary functions
+- [`circleq`](https://www.man7.org/linux/man-pages/man3/circleq.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_EMPTY`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_EMPTY.3.html) - implementation of a doubly linked circular queue
+- [`circleq_empty`](https://www.man7.org/linux/man-pages/man3/circleq_empty.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_ENTRY`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_ENTRY.3.html) - implementation of a doubly linked circular queue
+- [`circleq_entry`](https://www.man7.org/linux/man-pages/man3/circleq_entry.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_FIRST`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_FIRST.3.html) - implementation of a doubly linked circular queue
+- [`circleq_first`](https://www.man7.org/linux/man-pages/man3/circleq_first.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_FOREACH`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_FOREACH.3.html) - implementation of a doubly linked circular queue
+- [`circleq_foreach`](https://www.man7.org/linux/man-pages/man3/circleq_foreach.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_FOREACH_REVERSE`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_FOREACH_REVERSE.3.html) - implementation of a doubly linked circular queue
+- [`circleq_foreach_reverse`](https://www.man7.org/linux/man-pages/man3/circleq_foreach_reverse.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_HEAD`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_HEAD.3.html) - implementation of a doubly linked circular queue
+- [`circleq_head`](https://www.man7.org/linux/man-pages/man3/circleq_head.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_HEAD_INITIALIZER`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_HEAD_INITIALIZER.3.html) - implementation of a doubly linked circular queue
+- [`circleq_head_initializer`](https://www.man7.org/linux/man-pages/man3/circleq_head_initializer.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_INIT`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_INIT.3.html) - implementation of a doubly linked circular queue
+- [`circleq_init`](https://www.man7.org/linux/man-pages/man3/circleq_init.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_INSERT_AFTER`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_INSERT_AFTER.3.html) - implementation of a doubly linked circular queue
+- [`circleq_insert_after`](https://www.man7.org/linux/man-pages/man3/circleq_insert_after.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_INSERT_BEFORE`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_INSERT_BEFORE.3.html) - implementation of a doubly linked circular queue
+- [`circleq_insert_before`](https://www.man7.org/linux/man-pages/man3/circleq_insert_before.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_INSERT_HEAD`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_INSERT_HEAD.3.html) - implementation of a doubly linked circular queue
+- [`circleq_insert_head`](https://www.man7.org/linux/man-pages/man3/circleq_insert_head.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_INSERT_TAIL`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_INSERT_TAIL.3.html) - implementation of a doubly linked circular queue
+- [`circleq_insert_tail`](https://www.man7.org/linux/man-pages/man3/circleq_insert_tail.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_LAST`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_LAST.3.html) - implementation of a doubly linked circular queue
+- [`circleq_last`](https://www.man7.org/linux/man-pages/man3/circleq_last.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_LOOP_NEXT`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_LOOP_NEXT.3.html) - implementation of a doubly linked circular queue
+- [`circleq_loop_next`](https://www.man7.org/linux/man-pages/man3/circleq_loop_next.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_LOOP_PREV`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_LOOP_PREV.3.html) - implementation of a doubly linked circular queue
+- [`circleq_loop_prev`](https://www.man7.org/linux/man-pages/man3/circleq_loop_prev.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_NEXT`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_NEXT.3.html) - implementation of a doubly linked circular queue
+- [`circleq_next`](https://www.man7.org/linux/man-pages/man3/circleq_next.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_PREV`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_PREV.3.html) - implementation of a doubly linked circular queue
+- [`circleq_prev`](https://www.man7.org/linux/man-pages/man3/circleq_prev.3.html) - implementation of a doubly linked circular queue
+- [`CIRCLEQ_REMOVE`](https://www.man7.org/linux/man-pages/man3/CIRCLEQ_REMOVE.3.html) - implementation of a doubly linked circular queue
+- [`circleq_remove`](https://www.man7.org/linux/man-pages/man3/circleq_remove.3.html) - implementation of a doubly linked circular queue
+- [`cksum`](https://www.man7.org/linux/man-pages/man1/cksum.1.html) - compute and verify file checksums
+- [`cksum`](https://www.man7.org/linux/man-pages/man1/cksum.1p.html) - write file checksums and sizes
+- [`classes.conf`](https://www.man7.org/linux/man-pages/man5/classes.conf.5.html) - class configuration file for cups
+- [`CLEAR`](https://www.man7.org/linux/man-pages/man1/CLEAR.1.html) - clear the terminal screen
+- [`clear`](https://www.man7.org/linux/man-pages/man1/clear.1.html) - clear the terminal screen
+- [`clear`](https://www.man7.org/linux/man-pages/man3/clear.3x.html) - clear all or part of a curses window
+- [`clearenv`](https://www.man7.org/linux/man-pages/man3/clearenv.3.html) - clear the environment
+- [`clearerr`](https://www.man7.org/linux/man-pages/man3/clearerr.3.html) - check and reset stream status
+- [`clearerr`](https://www.man7.org/linux/man-pages/man3/clearerr.3p.html) - clear indicators on a stream
+- [`clearerr_unlocked`](https://www.man7.org/linux/man-pages/man3/clearerr_unlocked.3.html) - nonlocking stdio functions
+- [`clearok`](https://www.man7.org/linux/man-pages/man3/clearok.3x.html) - curses output options
+- [`client.conf`](https://www.man7.org/linux/man-pages/man5/client.conf.5.html) - client configuration file for cups (deprecated on macos)
+- [`clnt_broadcast`](https://www.man7.org/linux/man-pages/man3/clnt_broadcast.3.html) - library routines for remote procedure calls
+- [`clnt_call`](https://www.man7.org/linux/man-pages/man3/clnt_call.3.html) - library routines for remote procedure calls
+- [`clnt_control`](https://www.man7.org/linux/man-pages/man3/clnt_control.3.html) - library routines for remote procedure calls
+- [`clnt_create`](https://www.man7.org/linux/man-pages/man3/clnt_create.3.html) - library routines for remote procedure calls
+- [`clnt_destroy`](https://www.man7.org/linux/man-pages/man3/clnt_destroy.3.html) - library routines for remote procedure calls
+- [`clnt_freeres`](https://www.man7.org/linux/man-pages/man3/clnt_freeres.3.html) - library routines for remote procedure calls
+- [`clnt_geterr`](https://www.man7.org/linux/man-pages/man3/clnt_geterr.3.html) - library routines for remote procedure calls
+- [`clnt_pcreateerror`](https://www.man7.org/linux/man-pages/man3/clnt_pcreateerror.3.html) - library routines for remote procedure calls
+- [`clnt_perrno`](https://www.man7.org/linux/man-pages/man3/clnt_perrno.3.html) - library routines for remote procedure calls
+- [`clnt_perror`](https://www.man7.org/linux/man-pages/man3/clnt_perror.3.html) - library routines for remote procedure calls
+- [`clntraw_create`](https://www.man7.org/linux/man-pages/man3/clntraw_create.3.html) - library routines for remote procedure calls
+- [`clnt_spcreateerror`](https://www.man7.org/linux/man-pages/man3/clnt_spcreateerror.3.html) - library routines for remote procedure calls
+- [`clnt_sperrno`](https://www.man7.org/linux/man-pages/man3/clnt_sperrno.3.html) - library routines for remote procedure calls
+- [`clnt_sperror`](https://www.man7.org/linux/man-pages/man3/clnt_sperror.3.html) - library routines for remote procedure calls
+- [`clnttcp_create`](https://www.man7.org/linux/man-pages/man3/clnttcp_create.3.html) - library routines for remote procedure calls
+- [`clntudp_bufcreate`](https://www.man7.org/linux/man-pages/man3/clntudp_bufcreate.3.html) - library routines for remote procedure calls
+- [`clntudp_create`](https://www.man7.org/linux/man-pages/man3/clntudp_create.3.html) - library routines for remote procedure calls
+- [`clock`](https://www.man7.org/linux/man-pages/man3/clock.3.html) - determine processor time
+- [`clock`](https://www.man7.org/linux/man-pages/man3/clock.3p.html) - report CPU time used
+- [`clock_adjtime`](https://www.man7.org/linux/man-pages/man2/clock_adjtime.2.html) - tune kernel clock
+- [`clockdiff`](https://www.man7.org/linux/man-pages/man8/clockdiff.8.html) - measure clock difference between hosts
+- [`clock_getcpuclockid`](https://www.man7.org/linux/man-pages/man3/clock_getcpuclockid.3.html) - obtain ID of a process CPU-time clock
+- [`clock_getcpuclockid`](https://www.man7.org/linux/man-pages/man3/clock_getcpuclockid.3p.html) - time clock (ADVANCED REALTIME)
+- [`clock_getres`](https://www.man7.org/linux/man-pages/man2/clock_getres.2.html) - clock and time functions
+- [`clock_getres`](https://www.man7.org/linux/man-pages/man3/clock_getres.3p.html) - clock and timer functions
+- [`clock_gettime`](https://www.man7.org/linux/man-pages/man2/clock_gettime.2.html) - clock and time functions
+- [`clock_gettime`](https://www.man7.org/linux/man-pages/man3/clock_gettime.3p.html) - clock and timer functions
+- [`clockid_t`](https://www.man7.org/linux/man-pages/man3/clockid_t.3type.html) - clock ID for the clock and timer functions
+- [`clock_nanosleep`](https://www.man7.org/linux/man-pages/man2/clock_nanosleep.2.html) - high-resolution sleep with specifiable clock
+- [`clock_nanosleep`](https://www.man7.org/linux/man-pages/man3/clock_nanosleep.3p.html) - high resolution sleep with specifiable clock
+- [`clock_settime`](https://www.man7.org/linux/man-pages/man2/clock_settime.2.html) - clock and time functions
+- [`clock_settime`](https://www.man7.org/linux/man-pages/man3/clock_settime.3p.html) - clock and timer functions
+- [`clock_t`](https://www.man7.org/linux/man-pages/man3/clock_t.3type.html) - system time
+- [`clog`](https://www.man7.org/linux/man-pages/man3/clog.3.html) - natural logarithm of a complex number
+- [`clog`](https://www.man7.org/linux/man-pages/man3/clog.3p.html) - complex natural logarithm functions
+- [`clog10`](https://www.man7.org/linux/man-pages/man3/clog10.3.html) - base-10 logarithm of a complex number
+- [`clog10f`](https://www.man7.org/linux/man-pages/man3/clog10f.3.html) - base-10 logarithm of a complex number
+- [`clog10l`](https://www.man7.org/linux/man-pages/man3/clog10l.3.html) - base-10 logarithm of a complex number
+- [`clog2`](https://www.man7.org/linux/man-pages/man3/clog2.3.html) - base-2 logarithm of a complex number
+- [`clog2f`](https://www.man7.org/linux/man-pages/man3/clog2f.3.html) - base-2 logarithm of a complex number
+- [`clog2l`](https://www.man7.org/linux/man-pages/man3/clog2l.3.html) - base-2 logarithm of a complex number
+- [`clogf`](https://www.man7.org/linux/man-pages/man3/clogf.3.html) - natural logarithm of a complex number
+- [`clogf`](https://www.man7.org/linux/man-pages/man3/clogf.3p.html) - complex natural logarithm functions
+- [`clogl`](https://www.man7.org/linux/man-pages/man3/clogl.3.html) - natural logarithm of a complex number
+- [`clogl`](https://www.man7.org/linux/man-pages/man3/clogl.3p.html) - complex natural logarithm functions
+- [`clone`](https://www.man7.org/linux/man-pages/man2/clone.2.html) - create a child process
+- [`clone2`](https://www.man7.org/linux/man-pages/man2/clone2.2.html) - create a child process
+- [`__clone2`](https://www.man7.org/linux/man-pages/man2/__clone2.2.html) - create a child process
+- [`clone3`](https://www.man7.org/linux/man-pages/man2/clone3.2.html) - create a child process
+- [`close`](https://www.man7.org/linux/man-pages/man2/close.2.html) - close a file descriptor
+- [`close`](https://www.man7.org/linux/man-pages/man3/close.3p.html) - close a file descriptor
+- [`closedir`](https://www.man7.org/linux/man-pages/man3/closedir.3.html) - close a directory
+- [`closedir`](https://www.man7.org/linux/man-pages/man3/closedir.3p.html) - close a directory stream
+- [`closelog`](https://www.man7.org/linux/man-pages/man3/closelog.3.html) - send messages to the system logger
+- [`closelog`](https://www.man7.org/linux/man-pages/man3/closelog.3p.html) - control system log
+- [`close_range`](https://www.man7.org/linux/man-pages/man2/close_range.2.html) - close all file descriptors in a given range
+- [`clrtobot`](https://www.man7.org/linux/man-pages/man3/clrtobot.3x.html) - clear all or part of a curses window
+- [`clrtoeol`](https://www.man7.org/linux/man-pages/man3/clrtoeol.3x.html) - clear all or part of a curses window
+- [`clustervis`](https://www.man7.org/linux/man-pages/man1/clustervis.1.html) - visualize cpu and network performance on a cluster
+- [`cmirrord`](https://www.man7.org/linux/man-pages/man8/cmirrord.8.html) - cluster mirror log daemon
+- [`cmp`](https://www.man7.org/linux/man-pages/man1/cmp.1.html) - compare two files byte by byte
+- [`cmp`](https://www.man7.org/linux/man-pages/man1/cmp.1p.html) - compare two files
+- [`cmsg`](https://www.man7.org/linux/man-pages/man3/cmsg.3.html) - access ancillary data
+- [`CMSG_ALIGN`](https://www.man7.org/linux/man-pages/man3/CMSG_ALIGN.3.html) - access ancillary data
+- [`cmsg_align`](https://www.man7.org/linux/man-pages/man3/cmsg_align.3.html) - access ancillary data
+- [`CMSG_DATA`](https://www.man7.org/linux/man-pages/man3/CMSG_DATA.3.html) - access ancillary data
+- [`cmsg_data`](https://www.man7.org/linux/man-pages/man3/cmsg_data.3.html) - access ancillary data
+- [`CMSG_FIRSTHDR`](https://www.man7.org/linux/man-pages/man3/CMSG_FIRSTHDR.3.html) - access ancillary data
+- [`cmsg_firsthdr`](https://www.man7.org/linux/man-pages/man3/cmsg_firsthdr.3.html) - access ancillary data
+- [`CMSG_LEN`](https://www.man7.org/linux/man-pages/man3/CMSG_LEN.3.html) - access ancillary data
+- [`cmsg_len`](https://www.man7.org/linux/man-pages/man3/cmsg_len.3.html) - access ancillary data
+- [`CMSG_NXTHDR`](https://www.man7.org/linux/man-pages/man3/CMSG_NXTHDR.3.html) - access ancillary data
+- [`cmsg_nxthdr`](https://www.man7.org/linux/man-pages/man3/cmsg_nxthdr.3.html) - access ancillary data
+- [`CMSG_SPACE`](https://www.man7.org/linux/man-pages/man3/CMSG_SPACE.3.html) - access ancillary data
+- [`cmsg_space`](https://www.man7.org/linux/man-pages/man3/cmsg_space.3.html) - access ancillary data
+- [`cmtime`](https://www.man7.org/linux/man-pages/man1/cmtime.1.html) - RDMA CM connection steps timing test.
+- [`CoDel`](https://www.man7.org/linux/man-pages/man8/CoDel.8.html) - Controlled-Delay Active Queue Management algorithm
+- [`col`](https://www.man7.org/linux/man-pages/man1/col.1.html) - filter reverse line feeds from input
+- [`colcrt`](https://www.man7.org/linux/man-pages/man1/colcrt.1.html) - filter nroff output for CRT previewing
+- [`collectl2pcp`](https://www.man7.org/linux/man-pages/man1/collectl2pcp.1.html) - import collectl data to a PCP archive
+- [`colon`](https://www.man7.org/linux/man-pages/man1/colon.1p.html) - null utility
+- [`color_content`](https://www.man7.org/linux/man-pages/man3/color_content.3x.html) - curses color manipulation routines
+- [`COLOR_PAIR`](https://www.man7.org/linux/man-pages/man3/COLOR_PAIR.3x.html) - curses color manipulation routines
+- [`COLOR_PAIRS`](https://www.man7.org/linux/man-pages/man3/COLOR_PAIRS.3x.html) - curses global variables
+- [`COLORS`](https://www.man7.org/linux/man-pages/man3/COLORS.3x.html) - curses global variables
+- [`color_set`](https://www.man7.org/linux/man-pages/man3/color_set.3x.html) - curses character and window attribute control routines
+- [`colrm`](https://www.man7.org/linux/man-pages/man1/colrm.1.html) - remove columns from a file
+- [`COLS`](https://www.man7.org/linux/man-pages/man3/COLS.3x.html) - curses global variables
+- [`column`](https://www.man7.org/linux/man-pages/man1/column.1.html) - columnate lists
+- [`comm`](https://www.man7.org/linux/man-pages/man1/comm.1.html) - compare two sorted files line by line
+- [`comm`](https://www.man7.org/linux/man-pages/man1/comm.1p.html) - select or reject lines common to two files
+- [`command`](https://www.man7.org/linux/man-pages/man1/command.1p.html) - execute a simple command
+- [`comp_err`](https://www.man7.org/linux/man-pages/man1/comp_err.1.html) - compile MariaDB error message file
+- [`complex`](https://www.man7.org/linux/man-pages/man7/complex.7.html) - basics of complex mathematics
+- [`complex.h`](https://www.man7.org/linux/man-pages/man0/complex.h.0p.html) - complex arithmetic
+- [`compress`](https://www.man7.org/linux/man-pages/man1/compress.1p.html) - compress data
+- [`config`](https://www.man7.org/linux/man-pages/man5/config.5.html) - The SELinux sub-system configuration file.
+- [`confstr`](https://www.man7.org/linux/man-pages/man3/confstr.3.html) - get configuration dependent string variables
+- [`confstr`](https://www.man7.org/linux/man-pages/man3/confstr.3p.html) - get configurable variables
+- [`conj`](https://www.man7.org/linux/man-pages/man3/conj.3.html) - calculate the complex conjugate
+- [`conj`](https://www.man7.org/linux/man-pages/man3/conj.3p.html) - complex conjugate functions
+- [`conjf`](https://www.man7.org/linux/man-pages/man3/conjf.3.html) - calculate the complex conjugate
+- [`conjf`](https://www.man7.org/linux/man-pages/man3/conjf.3p.html) - complex conjugate functions
+- [`conjl`](https://www.man7.org/linux/man-pages/man3/conjl.3.html) - calculate the complex conjugate
+- [`conjl`](https://www.man7.org/linux/man-pages/man3/conjl.3p.html) - complex conjugate functions
+- [`connect`](https://www.man7.org/linux/man-pages/man2/connect.2.html) - initiate a connection on a socket
+- [`connect`](https://www.man7.org/linux/man-pages/man3/connect.3p.html) - connect a socket
+- [`connmark`](https://www.man7.org/linux/man-pages/man8/connmark.8.html) - netfilter connmark retriever action
+- [`console_codes`](https://www.man7.org/linux/man-pages/man4/console_codes.4.html) - Linux console escape and control sequences
+- [`console_ioctl`](https://www.man7.org/linux/man-pages/man4/console_ioctl.4.html) - ioctls for console terminal and virtual consoles
+- [`context_free`](https://www.man7.org/linux/man-pages/man3/context_free.3.html) - Routines to manipulate SELinux security contexts
+- [`context_new`](https://www.man7.org/linux/man-pages/man3/context_new.3.html) - Routines to manipulate SELinux security contexts
+- [`context_range_get`](https://www.man7.org/linux/man-pages/man3/context_range_get.3.html) - Routines to manipulate SELinux security contexts
+- [`context_range_set`](https://www.man7.org/linux/man-pages/man3/context_range_set.3.html) - Routines to manipulate SELinux security contexts
+- [`context_role_get`](https://www.man7.org/linux/man-pages/man3/context_role_get.3.html) - Routines to manipulate SELinux security contexts
+- [`context_role_set`](https://www.man7.org/linux/man-pages/man3/context_role_set.3.html) - Routines to manipulate SELinux security contexts
+- [`context_str`](https://www.man7.org/linux/man-pages/man3/context_str.3.html) - Routines to manipulate SELinux security contexts
+- [`context_type_get`](https://www.man7.org/linux/man-pages/man3/context_type_get.3.html) - Routines to manipulate SELinux security contexts
+- [`context_type_set`](https://www.man7.org/linux/man-pages/man3/context_type_set.3.html) - Routines to manipulate SELinux security contexts
+- [`context_user_get`](https://www.man7.org/linux/man-pages/man3/context_user_get.3.html) - Routines to manipulate SELinux security contexts
+- [`context_user_set`](https://www.man7.org/linux/man-pages/man3/context_user_set.3.html) - Routines to manipulate SELinux security contexts
+- [`continue`](https://www.man7.org/linux/man-pages/man1/continue.1p.html) - continue for, while, or until loop
+- [`convertquota`](https://www.man7.org/linux/man-pages/man8/convertquota.8.html) - convert quota from old file format to new one
+- [`copy_file_range`](https://www.man7.org/linux/man-pages/man2/copy_file_range.2.html) - Copy a range of data from one file to another
+- [`copysign`](https://www.man7.org/linux/man-pages/man3/copysign.3.html) - copy sign of a number
+- [`copysign`](https://www.man7.org/linux/man-pages/man3/copysign.3p.html) - number manipulation function
+- [`copysignf`](https://www.man7.org/linux/man-pages/man3/copysignf.3.html) - copy sign of a number
+- [`copysignf`](https://www.man7.org/linux/man-pages/man3/copysignf.3p.html) - number manipulation function
+- [`copysignl`](https://www.man7.org/linux/man-pages/man3/copysignl.3.html) - copy sign of a number
+- [`copysignl`](https://www.man7.org/linux/man-pages/man3/copysignl.3p.html) - number manipulation function
+- [`copywin`](https://www.man7.org/linux/man-pages/man3/copywin.3x.html) - overlay and manipulate overlapped curses windows
+- [`core`](https://www.man7.org/linux/man-pages/man5/core.5.html) - core dump file
+- [`coredump.conf`](https://www.man7.org/linux/man-pages/man5/coredump.conf.5.html) - Core dump storage configuration files
+- [`coredump.conf.d`](https://www.man7.org/linux/man-pages/man5/coredump.conf.d.5.html) - Core dump storage configuration files
+- [`coredumpctl`](https://www.man7.org/linux/man-pages/man1/coredumpctl.1.html) - Retrieve and process saved core dumps and metadata
+- [`coresched`](https://www.man7.org/linux/man-pages/man1/coresched.1.html) - manage core scheduling cookies for tasks
+- [`coreutils`](https://www.man7.org/linux/man-pages/man1/coreutils.1.html) - single binary for coreutils programs
+- [`cos`](https://www.man7.org/linux/man-pages/man3/cos.3.html) - cosine function
+- [`cos`](https://www.man7.org/linux/man-pages/man3/cos.3p.html) - cosine function
+- [`cosf`](https://www.man7.org/linux/man-pages/man3/cosf.3.html) - cosine function
+- [`cosf`](https://www.man7.org/linux/man-pages/man3/cosf.3p.html) - cosine function
+- [`cosh`](https://www.man7.org/linux/man-pages/man3/cosh.3.html) - hyperbolic cosine function
+- [`cosh`](https://www.man7.org/linux/man-pages/man3/cosh.3p.html) - hyperbolic cosine functions
+- [`coshf`](https://www.man7.org/linux/man-pages/man3/coshf.3.html) - hyperbolic cosine function
+- [`coshf`](https://www.man7.org/linux/man-pages/man3/coshf.3p.html) - hyperbolic cosine functions
+- [`coshl`](https://www.man7.org/linux/man-pages/man3/coshl.3.html) - hyperbolic cosine function
+- [`coshl`](https://www.man7.org/linux/man-pages/man3/coshl.3p.html) - hyperbolic cosine functions
+- [`cosl`](https://www.man7.org/linux/man-pages/man3/cosl.3.html) - cosine function
+- [`cosl`](https://www.man7.org/linux/man-pages/man3/cosl.3p.html) - cosine function
+- [`cp`](https://www.man7.org/linux/man-pages/man1/cp.1.html) - copy files and directories
+- [`cp`](https://www.man7.org/linux/man-pages/man1/cp.1p.html) - copy files
+- [`cp1251`](https://www.man7.org/linux/man-pages/man7/cp1251.7.html) - CP 1251 character set encoded in octal, decimal, and hexadecimal
+- [`cp1252`](https://www.man7.org/linux/man-pages/man7/cp1252.7.html) - CP 1252 character set encoded in octal, decimal, and hexadecimal
+- [`cpio.h`](https://www.man7.org/linux/man-pages/man0/cpio.h.0p.html) - cpio archive values
+- [`cpow`](https://www.man7.org/linux/man-pages/man3/cpow.3.html) - complex power function
+- [`cpow`](https://www.man7.org/linux/man-pages/man3/cpow.3p.html) - complex power functions
+- [`cpowf`](https://www.man7.org/linux/man-pages/man3/cpowf.3.html) - complex power function
+- [`cpowf`](https://www.man7.org/linux/man-pages/man3/cpowf.3p.html) - complex power functions
+- [`cpowl`](https://www.man7.org/linux/man-pages/man3/cpowl.3.html) - complex power function
+- [`cpowl`](https://www.man7.org/linux/man-pages/man3/cpowl.3p.html) - complex power functions
+- [`cpp`](https://www.man7.org/linux/man-pages/man1/cpp.1.html) - The C Preprocessor
+- [`cproj`](https://www.man7.org/linux/man-pages/man3/cproj.3.html) - project into Riemann Sphere
+- [`cproj`](https://www.man7.org/linux/man-pages/man3/cproj.3p.html) - complex projection functions
+- [`cprojf`](https://www.man7.org/linux/man-pages/man3/cprojf.3.html) - project into Riemann Sphere
+- [`cprojf`](https://www.man7.org/linux/man-pages/man3/cprojf.3p.html) - complex projection functions
+- [`cprojl`](https://www.man7.org/linux/man-pages/man3/cprojl.3.html) - project into Riemann Sphere
+- [`cprojl`](https://www.man7.org/linux/man-pages/man3/cprojl.3p.html) - complex projection functions
+- [`CPU_ALLOC`](https://www.man7.org/linux/man-pages/man3/CPU_ALLOC.3.html) - macros for manipulating CPU sets
+- [`cpu_alloc`](https://www.man7.org/linux/man-pages/man3/cpu_alloc.3.html) - macros for manipulating CPU sets
+- [`CPU_ALLOC_SIZE`](https://www.man7.org/linux/man-pages/man3/CPU_ALLOC_SIZE.3.html) - macros for manipulating CPU sets
+- [`cpu_alloc_size`](https://www.man7.org/linux/man-pages/man3/cpu_alloc_size.3.html) - macros for manipulating CPU sets
+- [`CPU_AND`](https://www.man7.org/linux/man-pages/man3/CPU_AND.3.html) - macros for manipulating CPU sets
+- [`cpu_and`](https://www.man7.org/linux/man-pages/man3/cpu_and.3.html) - macros for manipulating CPU sets
+- [`CPU_AND_S`](https://www.man7.org/linux/man-pages/man3/CPU_AND_S.3.html) - macros for manipulating CPU sets
+- [`cpu_and_s`](https://www.man7.org/linux/man-pages/man3/cpu_and_s.3.html) - macros for manipulating CPU sets
+- [`CPU_CLR`](https://www.man7.org/linux/man-pages/man3/CPU_CLR.3.html) - macros for manipulating CPU sets
+- [`cpu_clr`](https://www.man7.org/linux/man-pages/man3/cpu_clr.3.html) - macros for manipulating CPU sets
+- [`CPU_CLR_S`](https://www.man7.org/linux/man-pages/man3/CPU_CLR_S.3.html) - macros for manipulating CPU sets
+- [`cpu_clr_s`](https://www.man7.org/linux/man-pages/man3/cpu_clr_s.3.html) - macros for manipulating CPU sets
+- [`CPU_COUNT`](https://www.man7.org/linux/man-pages/man3/CPU_COUNT.3.html) - macros for manipulating CPU sets
+- [`cpu_count`](https://www.man7.org/linux/man-pages/man3/cpu_count.3.html) - macros for manipulating CPU sets
+- [`CPU_COUNT_S`](https://www.man7.org/linux/man-pages/man3/CPU_COUNT_S.3.html) - macros for manipulating CPU sets
+- [`cpu_count_s`](https://www.man7.org/linux/man-pages/man3/cpu_count_s.3.html) - macros for manipulating CPU sets
+- [`CPU_EQUAL`](https://www.man7.org/linux/man-pages/man3/CPU_EQUAL.3.html) - macros for manipulating CPU sets
+- [`cpu_equal`](https://www.man7.org/linux/man-pages/man3/cpu_equal.3.html) - macros for manipulating CPU sets
+- [`CPU_EQUAL_S`](https://www.man7.org/linux/man-pages/man3/CPU_EQUAL_S.3.html) - macros for manipulating CPU sets
+- [`cpu_equal_s`](https://www.man7.org/linux/man-pages/man3/cpu_equal_s.3.html) - macros for manipulating CPU sets
+- [`CPU_FREE`](https://www.man7.org/linux/man-pages/man3/CPU_FREE.3.html) - macros for manipulating CPU sets
+- [`cpu_free`](https://www.man7.org/linux/man-pages/man3/cpu_free.3.html) - macros for manipulating CPU sets
+- [`cpuid`](https://www.man7.org/linux/man-pages/man4/cpuid.4.html) - x86 CPUID access device
+- [`CPU_ISSET`](https://www.man7.org/linux/man-pages/man3/CPU_ISSET.3.html) - macros for manipulating CPU sets
+- [`cpu_isset`](https://www.man7.org/linux/man-pages/man3/cpu_isset.3.html) - macros for manipulating CPU sets
+- [`CPU_ISSET_S`](https://www.man7.org/linux/man-pages/man3/CPU_ISSET_S.3.html) - macros for manipulating CPU sets
+- [`cpu_isset_s`](https://www.man7.org/linux/man-pages/man3/cpu_isset_s.3.html) - macros for manipulating CPU sets
+- [`CPU_OR`](https://www.man7.org/linux/man-pages/man3/CPU_OR.3.html) - macros for manipulating CPU sets
+- [`cpu_or`](https://www.man7.org/linux/man-pages/man3/cpu_or.3.html) - macros for manipulating CPU sets
+- [`CPU_OR_S`](https://www.man7.org/linux/man-pages/man3/CPU_OR_S.3.html) - macros for manipulating CPU sets
+- [`cpu_or_s`](https://www.man7.org/linux/man-pages/man3/cpu_or_s.3.html) - macros for manipulating CPU sets
+- [`CPU_SET`](https://www.man7.org/linux/man-pages/man3/CPU_SET.3.html) - macros for manipulating CPU sets
+- [`cpu_set`](https://www.man7.org/linux/man-pages/man3/cpu_set.3.html) - macros for manipulating CPU sets
+- [`cpuset`](https://www.man7.org/linux/man-pages/man7/cpuset.7.html) - confine processes to processor and memory node subsets
+- [`CPU_SET_S`](https://www.man7.org/linux/man-pages/man3/CPU_SET_S.3.html) - macros for manipulating CPU sets
+- [`cpu_set_s`](https://www.man7.org/linux/man-pages/man3/cpu_set_s.3.html) - macros for manipulating CPU sets
+- [`CPU_XOR`](https://www.man7.org/linux/man-pages/man3/CPU_XOR.3.html) - macros for manipulating CPU sets
+- [`cpu_xor`](https://www.man7.org/linux/man-pages/man3/cpu_xor.3.html) - macros for manipulating CPU sets
+- [`CPU_XOR_S`](https://www.man7.org/linux/man-pages/man3/CPU_XOR_S.3.html) - macros for manipulating CPU sets
+- [`cpu_xor_s`](https://www.man7.org/linux/man-pages/man3/cpu_xor_s.3.html) - macros for manipulating CPU sets
+- [`CPU_ZERO`](https://www.man7.org/linux/man-pages/man3/CPU_ZERO.3.html) - macros for manipulating CPU sets
+- [`cpu_zero`](https://www.man7.org/linux/man-pages/man3/cpu_zero.3.html) - macros for manipulating CPU sets
+- [`CPU_ZERO_S`](https://www.man7.org/linux/man-pages/man3/CPU_ZERO_S.3.html) - macros for manipulating CPU sets
+- [`cpu_zero_s`](https://www.man7.org/linux/man-pages/man3/cpu_zero_s.3.html) - macros for manipulating CPU sets
+- [`crash`](https://www.man7.org/linux/man-pages/man8/crash.8.html) - Analyze Linux crash dump data or a live system
+- [`creal`](https://www.man7.org/linux/man-pages/man3/creal.3.html) - get real part of a complex number
+- [`creal`](https://www.man7.org/linux/man-pages/man3/creal.3p.html) - complex real functions
+- [`crealf`](https://www.man7.org/linux/man-pages/man3/crealf.3.html) - get real part of a complex number
+- [`crealf`](https://www.man7.org/linux/man-pages/man3/crealf.3p.html) - complex real functions
+- [`creall`](https://www.man7.org/linux/man-pages/man3/creall.3.html) - get real part of a complex number
+- [`creall`](https://www.man7.org/linux/man-pages/man3/creall.3p.html) - complex real functions
+- [`creat`](https://www.man7.org/linux/man-pages/man2/creat.2.html) - open and possibly create a file
+- [`creat`](https://www.man7.org/linux/man-pages/man3/creat.3p.html) - create a new file or rewrite an existing one
+- [`create_module`](https://www.man7.org/linux/man-pages/man2/create_module.2.html) - create a loadable module entry
+- [`credentials`](https://www.man7.org/linux/man-pages/man7/credentials.7.html) - process identifiers
+- [`cron`](https://www.man7.org/linux/man-pages/man8/cron.8.html) - daemon to execute scheduled commands
+- [`crond`](https://www.man7.org/linux/man-pages/man8/crond.8.html) - daemon to execute scheduled commands
+- [`cronnext`](https://www.man7.org/linux/man-pages/man1/cronnext.1.html) - time of next job cron will execute
+- [`crontab`](https://www.man7.org/linux/man-pages/man1/crontab.1.html) - maintains crontab files for individual users
+- [`crontab`](https://www.man7.org/linux/man-pages/man1/crontab.1p.html) - schedule periodic background work
+- [`crontab`](https://www.man7.org/linux/man-pages/man5/crontab.5.html) - files used to schedule the execution of programs
+- [`crypt`](https://www.man7.org/linux/man-pages/man3/crypt.3.html) - password hashing
+- [`crypt`](https://www.man7.org/linux/man-pages/man3/crypt.3p.html) - string encoding function (CRYPT)
+- [`crypt_r`](https://www.man7.org/linux/man-pages/man3/crypt_r.3.html) - password hashing
+- [`cryptsetup-benchmark`](https://www.man7.org/linux/man-pages/man8/cryptsetup-benchmark.8.html) - benchmarks ciphers and KDF
+- [`cryptsetup-bitlkDump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-bitlkDump.8.html) - dump the header information of a BITLK (BitLocker compatible) device
+- [`cryptsetup-bitlkdump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-bitlkdump.8.html) - dump the header information of a BITLK (BitLocker compatible) device
+- [`cryptsetup-bitlkOpen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-bitlkOpen.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-bitlkopen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-bitlkopen.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-close`](https://www.man7.org/linux/man-pages/man8/cryptsetup-close.8.html) - removes the existing mapping <name> (and the associated key)
+- [`cryptsetup-config`](https://www.man7.org/linux/man-pages/man8/cryptsetup-config.8.html) - set permanent configuration options (store to LUKS header)
+- [`cryptsetup-convert`](https://www.man7.org/linux/man-pages/man8/cryptsetup-convert.8.html) - converts the device between LUKS1 and LUKS2 format
+- [`cryptsetup-create`](https://www.man7.org/linux/man-pages/man8/cryptsetup-create.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-erase`](https://www.man7.org/linux/man-pages/man8/cryptsetup-erase.8.html) - erase all keyslots
+- [`cryptsetup-fvault2Dump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-fvault2Dump.8.html) - dump the header information of a FVAULT2 (FileVault2 compatible) device
+- [`cryptsetup-fvault2dump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-fvault2dump.8.html) - dump the header information of a FVAULT2 (FileVault2 compatible) device
+- [`cryptsetup-fvault2Open`](https://www.man7.org/linux/man-pages/man8/cryptsetup-fvault2Open.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-fvault2open`](https://www.man7.org/linux/man-pages/man8/cryptsetup-fvault2open.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-isLuks`](https://www.man7.org/linux/man-pages/man8/cryptsetup-isLuks.8.html) - check if a device is a LUKS device
+- [`cryptsetup-isluks`](https://www.man7.org/linux/man-pages/man8/cryptsetup-isluks.8.html) - check if a device is a LUKS device
+- [`cryptsetup-loopaesOpen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-loopaesOpen.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-loopaesopen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-loopaesopen.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-luksAddKey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksAddKey.8.html) - add a new passphrase
+- [`cryptsetup-luksaddkey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksaddkey.8.html) - add a new passphrase
+- [`cryptsetup-luksChangeKey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksChangeKey.8.html) - change an existing passphrase
+- [`cryptsetup-lukschangekey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-lukschangekey.8.html) - change an existing passphrase
+- [`cryptsetup-luksConvertKey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksConvertKey.8.html) - converts an existing LUKS2 keyslot to new PBKDF parameters
+- [`cryptsetup-luksconvertkey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksconvertkey.8.html) - converts an existing LUKS2 keyslot to new PBKDF parameters
+- [`cryptsetup-luksDump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksDump.8.html) - dump the header information of a LUKS device
+- [`cryptsetup-luksdump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksdump.8.html) - dump the header information of a LUKS device
+- [`cryptsetup-luksErase`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksErase.8.html) - erase all keyslots
+- [`cryptsetup-lukserase`](https://www.man7.org/linux/man-pages/man8/cryptsetup-lukserase.8.html) - erase all keyslots
+- [`cryptsetup-luksFormat`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksFormat.8.html) - initialize a LUKS partition and set the initial passphrase
+- [`cryptsetup-luksformat`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksformat.8.html) - initialize a LUKS partition and set the initial passphrase
+- [`cryptsetup-luksHeaderBackup`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksHeaderBackup.8.html) - store a binary backup of the LUKS header and keyslot area
+- [`cryptsetup-luksheaderbackup`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksheaderbackup.8.html) - store a binary backup of the LUKS header and keyslot area
+- [`cryptsetup-luksHeaderRestore`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksHeaderRestore.8.html) - restore a binary backup of the LUKS header and keyslot area
+- [`cryptsetup-luksheaderrestore`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksheaderrestore.8.html) - restore a binary backup of the LUKS header and keyslot area
+- [`cryptsetup-luksKillSlot`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksKillSlot.8.html) - wipe a key-slot from the LUKS device
+- [`cryptsetup-lukskillslot`](https://www.man7.org/linux/man-pages/man8/cryptsetup-lukskillslot.8.html) - wipe a key-slot from the LUKS device
+- [`cryptsetup-luksOpen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksOpen.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-luksopen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksopen.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-luksRemoveKey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksRemoveKey.8.html) - remove the supplied passphrase from the LUKS device
+- [`cryptsetup-luksremovekey`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksremovekey.8.html) - remove the supplied passphrase from the LUKS device
+- [`cryptsetup-luksResume`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksResume.8.html) - resume a suspended device and reinstate the key
+- [`cryptsetup-luksresume`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksresume.8.html) - resume a suspended device and reinstate the key
+- [`cryptsetup-luksSuspend`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksSuspend.8.html) - suspends an active device and wipes the key
+- [`cryptsetup-lukssuspend`](https://www.man7.org/linux/man-pages/man8/cryptsetup-lukssuspend.8.html) - suspends an active device and wipes the key
+- [`cryptsetup-luksUUID`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksUUID.8.html) - print or set the UUID of a LUKS device
+- [`cryptsetup-luksuuid`](https://www.man7.org/linux/man-pages/man8/cryptsetup-luksuuid.8.html) - print or set the UUID of a LUKS device
+- [`cryptsetup-open`](https://www.man7.org/linux/man-pages/man8/cryptsetup-open.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-plainOpen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-plainOpen.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-plainopen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-plainopen.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-reencrypt`](https://www.man7.org/linux/man-pages/man8/cryptsetup-reencrypt.8.html) - reencrypt LUKS encrypted volumes in-place
+- [`cryptsetup-refresh`](https://www.man7.org/linux/man-pages/man8/cryptsetup-refresh.8.html) - refresh parameters of an active mapping
+- [`cryptsetup-repair`](https://www.man7.org/linux/man-pages/man8/cryptsetup-repair.8.html) - repair the device metadata
+- [`cryptsetup-resize`](https://www.man7.org/linux/man-pages/man8/cryptsetup-resize.8.html) - resize an active mapping
+- [`cryptsetup-ssh`](https://www.man7.org/linux/man-pages/man8/cryptsetup-ssh.8.html) - manage LUKS2 SSH token
+- [`cryptsetup-status`](https://www.man7.org/linux/man-pages/man8/cryptsetup-status.8.html) - report the status for a mapping
+- [`cryptsetup-tcryptDump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-tcryptDump.8.html) - dump the header information of a TCRYPT (TrueCrypt or VeraCrypt compatible) device
+- [`cryptsetup-tcryptdump`](https://www.man7.org/linux/man-pages/man8/cryptsetup-tcryptdump.8.html) - dump the header information of a TCRYPT (TrueCrypt or VeraCrypt compatible) device
+- [`cryptsetup-tcryptOpen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-tcryptOpen.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-tcryptopen`](https://www.man7.org/linux/man-pages/man8/cryptsetup-tcryptopen.8.html) - open an encrypted device and create a mapping with a specified name
+- [`cryptsetup-token`](https://www.man7.org/linux/man-pages/man8/cryptsetup-token.8.html) - manage LUKS2 tokens
+- [`cryptsetup`](https://www.man7.org/linux/man-pages/man8/cryptsetup.8.html) - manage plain dm-crypt, LUKS, and other encrypted volumes
+- [`crypttab`](https://www.man7.org/linux/man-pages/man5/crypttab.5.html) - Configuration for encrypted block devices
+- [`csin`](https://www.man7.org/linux/man-pages/man3/csin.3.html) - complex sine function
+- [`csin`](https://www.man7.org/linux/man-pages/man3/csin.3p.html) - complex sine functions
+- [`csinf`](https://www.man7.org/linux/man-pages/man3/csinf.3.html) - complex sine function
+- [`csinf`](https://www.man7.org/linux/man-pages/man3/csinf.3p.html) - complex sine functions
+- [`csinh`](https://www.man7.org/linux/man-pages/man3/csinh.3.html) - complex hyperbolic sine
+- [`csinh`](https://www.man7.org/linux/man-pages/man3/csinh.3p.html) - complex hyperbolic sine functions
+- [`csinhf`](https://www.man7.org/linux/man-pages/man3/csinhf.3.html) - complex hyperbolic sine
+- [`csinhf`](https://www.man7.org/linux/man-pages/man3/csinhf.3p.html) - complex hyperbolic sine functions
+- [`csinhl`](https://www.man7.org/linux/man-pages/man3/csinhl.3.html) - complex hyperbolic sine
+- [`csinhl`](https://www.man7.org/linux/man-pages/man3/csinhl.3p.html) - complex hyperbolic sine functions
+- [`csinl`](https://www.man7.org/linux/man-pages/man3/csinl.3.html) - complex sine function
+- [`csinl`](https://www.man7.org/linux/man-pages/man3/csinl.3p.html) - complex sine functions
+- [`csplit`](https://www.man7.org/linux/man-pages/man1/csplit.1.html) - split a file into sections determined by context lines
+- [`csplit`](https://www.man7.org/linux/man-pages/man1/csplit.1p.html) - split files based on context
+- [`csqrt`](https://www.man7.org/linux/man-pages/man3/csqrt.3.html) - complex square root
+- [`csqrt`](https://www.man7.org/linux/man-pages/man3/csqrt.3p.html) - complex square root functions
+- [`csqrtf`](https://www.man7.org/linux/man-pages/man3/csqrtf.3.html) - complex square root
+- [`csqrtf`](https://www.man7.org/linux/man-pages/man3/csqrtf.3p.html) - complex square root functions
+- [`csqrtl`](https://www.man7.org/linux/man-pages/man3/csqrtl.3.html) - complex square root
+- [`csqrtl`](https://www.man7.org/linux/man-pages/man3/csqrtl.3p.html) - complex square root functions
+- [`csum`](https://www.man7.org/linux/man-pages/man8/csum.8.html) - checksum update action
+- [`csysdig` -](https://www.man7.org/linux/man-pages/man8/csysdig.8.html) - (no description)
+- [`ct`](https://www.man7.org/linux/man-pages/man8/ct.8.html) - tc connection tracking action
+- [`ctags`](https://www.man7.org/linux/man-pages/man1/ctags.1p.html) - create a tags file (DEVELOPMENT, FORTRAN)
+- [`ctan`](https://www.man7.org/linux/man-pages/man3/ctan.3.html) - complex tangent function
+- [`ctan`](https://www.man7.org/linux/man-pages/man3/ctan.3p.html) - complex tangent functions
+- [`ctanf`](https://www.man7.org/linux/man-pages/man3/ctanf.3.html) - complex tangent function
+- [`ctanf`](https://www.man7.org/linux/man-pages/man3/ctanf.3p.html) - complex tangent functions
+- [`ctanh`](https://www.man7.org/linux/man-pages/man3/ctanh.3.html) - complex hyperbolic tangent
+- [`ctanh`](https://www.man7.org/linux/man-pages/man3/ctanh.3p.html) - complex hyperbolic tangent functions
+- [`ctanhf`](https://www.man7.org/linux/man-pages/man3/ctanhf.3.html) - complex hyperbolic tangent
+- [`ctanhf`](https://www.man7.org/linux/man-pages/man3/ctanhf.3p.html) - complex hyperbolic tangent functions
+- [`ctanhl`](https://www.man7.org/linux/man-pages/man3/ctanhl.3.html) - complex hyperbolic tangent
+- [`ctanhl`](https://www.man7.org/linux/man-pages/man3/ctanhl.3p.html) - complex hyperbolic tangent functions
+- [`ctanl`](https://www.man7.org/linux/man-pages/man3/ctanl.3.html) - complex tangent function
+- [`ctanl`](https://www.man7.org/linux/man-pages/man3/ctanl.3p.html) - complex tangent functions
+- [`ctermid`](https://www.man7.org/linux/man-pages/man3/ctermid.3.html) - get controlling terminal name
+- [`ctermid`](https://www.man7.org/linux/man-pages/man3/ctermid.3p.html) - generate a pathname for the controlling terminal
+- [`ctime`](https://www.man7.org/linux/man-pages/man3/ctime.3.html) - transform date and time to broken-down time or ASCII
+- [`ctime`](https://www.man7.org/linux/man-pages/man3/ctime.3p.html) - convert a time value to a date and time string
+- [`ctime_r`](https://www.man7.org/linux/man-pages/man3/ctime_r.3.html) - transform date and time to broken-down time or ASCII
+- [`ctime_r`](https://www.man7.org/linux/man-pages/man3/ctime_r.3p.html) - convert a time value to a date and time string
+- [`ctinfo`](https://www.man7.org/linux/man-pages/man8/ctinfo.8.html) - tc connmark processing action
+- [`ctrlaltdel`](https://www.man7.org/linux/man-pages/man8/ctrlaltdel.8.html) - set the function of the Ctrl-Alt-Del combination
+- [`ctstat`](https://www.man7.org/linux/man-pages/man8/ctstat.8.html) - unified linux network statistics
+- [`ctype.h`](https://www.man7.org/linux/man-pages/man0/ctype.h.0p.html) - character types
+- [`cups-config`](https://www.man7.org/linux/man-pages/man1/cups-config.1.html) - get cups api, compiler, directory, and link information (deprecated).
+- [`cups-files.conf`](https://www.man7.org/linux/man-pages/man5/cups-files.conf.5.html) - file and directory configuration file for cups
+- [`cups-lpd`](https://www.man7.org/linux/man-pages/man8/cups-lpd.8.html) - receive print jobs and report printer status to lpd clients (deprecated)
+- [`cups-snmp`](https://www.man7.org/linux/man-pages/man8/cups-snmp.8.html) - cups snmp backend (deprecated)
+- [`cups-snmp.conf`](https://www.man7.org/linux/man-pages/man5/cups-snmp.conf.5.html) - snmp configuration file for cups (deprecated)
+- [`cups`](https://www.man7.org/linux/man-pages/man1/cups.1.html) - a standards-based, open source printing system
+- [`cupsaccept`](https://www.man7.org/linux/man-pages/man8/cupsaccept.8.html) - accept/reject jobs sent to a destination
+- [`cupsctl`](https://www.man7.org/linux/man-pages/man8/cupsctl.8.html) - configure cupsd.conf options
+- [`cupsd-helper`](https://www.man7.org/linux/man-pages/man8/cupsd-helper.8.html) - cupsd helper programs (deprecated)
+- [`cupsd-logs`](https://www.man7.org/linux/man-pages/man5/cupsd-logs.5.html) - cupsd log files (access_log, error_log, and page_log)
+- [`cupsd`](https://www.man7.org/linux/man-pages/man8/cupsd.8.html) - cups scheduler
+- [`cupsd.conf`](https://www.man7.org/linux/man-pages/man5/cupsd.conf.5.html) - server configuration file for cups
+- [`cupsdisable`](https://www.man7.org/linux/man-pages/man8/cupsdisable.8.html) - stop/start printers and classes
+- [`cupsenable`](https://www.man7.org/linux/man-pages/man8/cupsenable.8.html) - stop/start printers and classes
+- [`cupsfilter`](https://www.man7.org/linux/man-pages/man8/cupsfilter.8.html) - convert a file to another format using cups filters (deprecated)
+- [`cupstestppd`](https://www.man7.org/linux/man-pages/man1/cupstestppd.1.html) - test conformance of ppd files (deprecated)
+- [`curl-config`](https://www.man7.org/linux/man-pages/man1/curl-config.1.html) - Get information about a libcurl installation
+- [`curl`](https://www.man7.org/linux/man-pages/man1/curl.1.html) - transfer a URL
+- [`curs_addch`](https://www.man7.org/linux/man-pages/man3/curs_addch.3x.html) - add a character (with attributes) to a curses window, then advance the cursor
+- [`curs_addchstr`](https://www.man7.org/linux/man-pages/man3/curs_addchstr.3x.html) - add a string of characters (and attributes) to a curses window
+- [`curs_addstr`](https://www.man7.org/linux/man-pages/man3/curs_addstr.3x.html) - add a string of characters to a curses window and advance cursor
+- [`curs_add_wch`](https://www.man7.org/linux/man-pages/man3/curs_add_wch.3x.html) - add a complex character and rendition to a curses window, then advance the cursor
+- [`curs_add_wchstr`](https://www.man7.org/linux/man-pages/man3/curs_add_wchstr.3x.html) - add an array of complex characters (and attributes) to a curses window
+- [`curs_addwstr`](https://www.man7.org/linux/man-pages/man3/curs_addwstr.3x.html) - add a string of wide characters to a curses window and advance cursor
+- [`curs_attr`](https://www.man7.org/linux/man-pages/man3/curs_attr.3x.html) - curses character and window attribute control routines
+- [`curs_beep`](https://www.man7.org/linux/man-pages/man3/curs_beep.3x.html) - curses bell and screen flash routines
+- [`curs_bkgd`](https://www.man7.org/linux/man-pages/man3/curs_bkgd.3x.html) - curses window background manipulation routines
+- [`curs_bkgrnd`](https://www.man7.org/linux/man-pages/man3/curs_bkgrnd.3x.html) - curses window complex background manipulation routines
+- [`curs_border`](https://www.man7.org/linux/man-pages/man3/curs_border.3x.html) - create curses borders, horizontal and vertical lines
+- [`curs_border_set`](https://www.man7.org/linux/man-pages/man3/curs_border_set.3x.html) - create curses borders or lines using complex characters and renditions
+- [`curs_clear`](https://www.man7.org/linux/man-pages/man3/curs_clear.3x.html) - clear all or part of a curses window
+- [`curs_color`](https://www.man7.org/linux/man-pages/man3/curs_color.3x.html) - curses color manipulation routines
+- [`curscr`](https://www.man7.org/linux/man-pages/man3/curscr.3x.html) - curses global variables
+- [`curs_delch`](https://www.man7.org/linux/man-pages/man3/curs_delch.3x.html) - delete character under the cursor in a curses window
+- [`curs_deleteln`](https://www.man7.org/linux/man-pages/man3/curs_deleteln.3x.html) - delete and insert lines in a curses window
+- [`curses_trace`](https://www.man7.org/linux/man-pages/man3/curses_trace.3x.html) - curses debugging routines
+- [`curses_version`](https://www.man7.org/linux/man-pages/man3/curses_version.3x.html) - miscellaneous curses extensions
+- [`curs_extend`](https://www.man7.org/linux/man-pages/man3/curs_extend.3x.html) - miscellaneous curses extensions
+- [`curs_getcchar`](https://www.man7.org/linux/man-pages/man3/curs_getcchar.3x.html) - Get a wide character string and rendition from a cchar_t or set a cchar_t from a wide-character string
+- [`curs_getch`](https://www.man7.org/linux/man-pages/man3/curs_getch.3x.html) - get (or push back) characters from curses terminal keyboard
+- [`curs_getstr`](https://www.man7.org/linux/man-pages/man3/curs_getstr.3x.html) - accept character strings from curses terminal keyboard
+- [`curs_get_wch`](https://www.man7.org/linux/man-pages/man3/curs_get_wch.3x.html) - get (or push back) a wide character from curses terminal keyboard
+- [`curs_get_wstr`](https://www.man7.org/linux/man-pages/man3/curs_get_wstr.3x.html) - get an array of wide characters from a curses terminal keyboard
+- [`curs_getyx`](https://www.man7.org/linux/man-pages/man3/curs_getyx.3x.html) - get curses cursor and window coordinates
+- [`curs_inch`](https://www.man7.org/linux/man-pages/man3/curs_inch.3x.html) - get a character and attributes from a curses window
+- [`curs_inchstr`](https://www.man7.org/linux/man-pages/man3/curs_inchstr.3x.html) - get a string of characters (and attributes) from a curses window
+- [`curs_initscr`](https://www.man7.org/linux/man-pages/man3/curs_initscr.3x.html) - curses screen initialization and manipulation routines
+- [`curs_inopts`](https://www.man7.org/linux/man-pages/man3/curs_inopts.3x.html) - curses input options
+- [`curs_insch`](https://www.man7.org/linux/man-pages/man3/curs_insch.3x.html) - insert a character before cursor in a curses window
+- [`curs_insstr`](https://www.man7.org/linux/man-pages/man3/curs_insstr.3x.html) - insert string before cursor in a curses window
+- [`curs_instr`](https://www.man7.org/linux/man-pages/man3/curs_instr.3x.html) - get a string of characters from a curses window
+- [`curs_ins_wch`](https://www.man7.org/linux/man-pages/man3/curs_ins_wch.3x.html) - insert a complex character and rendition into a window
+- [`curs_ins_wstr`](https://www.man7.org/linux/man-pages/man3/curs_ins_wstr.3x.html) - insert a wide-character string into a curses window
+- [`curs_in_wch`](https://www.man7.org/linux/man-pages/man3/curs_in_wch.3x.html) - extract a complex character and rendition from a window
+- [`curs_in_wchstr`](https://www.man7.org/linux/man-pages/man3/curs_in_wchstr.3x.html) - get an array of complex characters and renditions from a curses window
+- [`curs_inwstr`](https://www.man7.org/linux/man-pages/man3/curs_inwstr.3x.html) - get a string of wchar_t characters from a curses window
+- [`curs_kernel`](https://www.man7.org/linux/man-pages/man3/curs_kernel.3x.html) - low-level curses routines
+- [`curs_legacy`](https://www.man7.org/linux/man-pages/man3/curs_legacy.3x.html) - get curses cursor and window coordinates, attributes
+- [`curs_memleaks`](https://www.man7.org/linux/man-pages/man3/curs_memleaks.3x.html) - curses memory-leak checking
+- [`curs_mouse`](https://www.man7.org/linux/man-pages/man3/curs_mouse.3x.html) - mouse interface through curses
+- [`curs_move`](https://www.man7.org/linux/man-pages/man3/curs_move.3x.html) - move curses window cursor
+- [`curs_opaque`](https://www.man7.org/linux/man-pages/man3/curs_opaque.3x.html) - curses window properties
+- [`curs_outopts`](https://www.man7.org/linux/man-pages/man3/curs_outopts.3x.html) - curses output options
+- [`curs_overlay`](https://www.man7.org/linux/man-pages/man3/curs_overlay.3x.html) - overlay and manipulate overlapped curses windows
+- [`curs_pad`](https://www.man7.org/linux/man-pages/man3/curs_pad.3x.html) - create and display curses pads
+- [`curs_print`](https://www.man7.org/linux/man-pages/man3/curs_print.3x.html) - ship binary data to printer
+- [`curs_printw`](https://www.man7.org/linux/man-pages/man3/curs_printw.3x.html) - print formatted output in curses windows
+- [`curs_refresh`](https://www.man7.org/linux/man-pages/man3/curs_refresh.3x.html) - refresh curses windows and lines
+- [`curs_scanw`](https://www.man7.org/linux/man-pages/man3/curs_scanw.3x.html) - convert formatted input from a curses window
+- [`curs_scr_dump`](https://www.man7.org/linux/man-pages/man3/curs_scr_dump.3x.html) - read (write) a curses screen from (to) a file
+- [`curs_scroll`](https://www.man7.org/linux/man-pages/man3/curs_scroll.3x.html) - scroll a curses window
+- [`curs_set`](https://www.man7.org/linux/man-pages/man3/curs_set.3x.html) - low-level curses routines
+- [`curs_slk`](https://www.man7.org/linux/man-pages/man3/curs_slk.3x.html) - curses soft label routines
+- [`curs_sp_funcs`](https://www.man7.org/linux/man-pages/man3/curs_sp_funcs.3x.html) - curses screen-pointer extension
+- [`curs_termattrs`](https://www.man7.org/linux/man-pages/man3/curs_termattrs.3x.html) - curses environment query routines
+- [`curs_termcap`](https://www.man7.org/linux/man-pages/man3/curs_termcap.3x.html) - curses emulation of termcap
+- [`curs_terminfo`](https://www.man7.org/linux/man-pages/man3/curs_terminfo.3x.html) - curses interfaces to terminfo database
+- [`curs_threads`](https://www.man7.org/linux/man-pages/man3/curs_threads.3x.html) - curses thread support
+- [`curs_touch`](https://www.man7.org/linux/man-pages/man3/curs_touch.3x.html) - curses refresh control routines
+- [`curs_trace`](https://www.man7.org/linux/man-pages/man3/curs_trace.3x.html) - curses debugging routines
+- [`curs_util`](https://www.man7.org/linux/man-pages/man3/curs_util.3x.html) - miscellaneous curses utility routines
+- [`curs_variables`](https://www.man7.org/linux/man-pages/man3/curs_variables.3x.html) - curses global variables
+- [`curs_window`](https://www.man7.org/linux/man-pages/man3/curs_window.3x.html) - create curses windows
+- [`cur_term`](https://www.man7.org/linux/man-pages/man3/cur_term.3x.html) - curses terminfo global variables
+- [`curvetun`](https://www.man7.org/linux/man-pages/man8/curvetun.8.html) - a lightweight curve25519 ip4/6 tunnel
+- [`cuserid`](https://www.man7.org/linux/man-pages/man3/cuserid.3.html) - get username
+- [`customizable_types`](https://www.man7.org/linux/man-pages/man5/customizable_types.5.html) - The SELinux customizable types configuration file
+- [`cut`](https://www.man7.org/linux/man-pages/man1/cut.1.html) - remove sections from each line of files
+- [`cut`](https://www.man7.org/linux/man-pages/man1/cut.1p.html) - cut out selected fields of each line of a file
+- [`cvtsudoers`](https://www.man7.org/linux/man-pages/man1/cvtsudoers.1.html) - convert between sudoers file formats
+- [`cxref`](https://www.man7.org/linux/man-pages/man1/cxref.1p.html) - language program cross-reference table (DEVELOPMENT)

@@ -204,7 +204,7 @@ Contributions are always welcome! Please create a pull request to contribute.
 
 Discussion forums is already opened, feel free to ask your doubts or give your suggestions.
 
-Contributions of all types are more than welcome; if you are interested in contributing code, feel free to check out our GitHub [Issues][github-issues-link] , [Create a pull request][github-pull-request-link] to contribute. and [Projects][github-project-link] to get stuck in to show us what you're made of.
+Contributions of all types are more than welcome; if you are interested in contributing code, feel free to check out our GitHub [Issues][https://github.com/LouisCaiKM7/command-line-the-guide/issues] , [Create a pull request][https://github.com/LouisCaiKM7/command-line-the-guide/pulls] to contribute.
 
 **Principal Maintainers:** [@LouisCaiKM7](https://github.com/LouisCaiKM7)
 

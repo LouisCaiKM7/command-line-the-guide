@@ -1,0 +1,2 @@
+- [`graph`](https://www.gnu.org/software/coreutils/manual/html_node/Character-arrays.html#index-graph) - Character arrays
+- [`groups`](https://www.gnu.org/software/coreutils/manual/html_node/groups-invocation.html#index-groups) - groups invocation

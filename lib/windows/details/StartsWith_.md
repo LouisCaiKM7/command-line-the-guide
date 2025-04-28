@@ -1,0 +1,5 @@
+- [`_POSIX2_VERSION`](https://www.gnu.org/software/coreutils/manual/html_node/Standards-conformance.html#index-_005fPOSIX2_005fVERSION) - Standards conformance
+- [`_POSIX2_VERSION`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_005fPOSIX2_005fVERSION-1) - tail invocation
+- [`_POSIX2_VERSION`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_005fPOSIX2_005fVERSION-2) - sort invocation
+- [`_POSIX2_VERSION`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_005fPOSIX2_005fVERSION-3) - uniq invocation
+- [`_POSIX2_VERSION`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_005fPOSIX2_005fVERSION-4) - touch invocation

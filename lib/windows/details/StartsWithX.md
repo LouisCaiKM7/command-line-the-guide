@@ -1,0 +1,3 @@
+- [`xcase`](https://www.gnu.org/software/coreutils/manual/html_node/Local.html#index-xcase) - Local
+- [`xdigit`](https://www.gnu.org/software/coreutils/manual/html_node/Character-arrays.html#index-xdigit) - Character arrays
+- [`xfs file system type`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-xfs-file-system-type) - df invocation

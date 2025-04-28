@@ -1,0 +1,18 @@
+- [`mktemp`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-exit-status-of-mktemp) - mktemp invocation
+- [`match`](https://www.gnu.org/software/coreutils/manual/html_node/String-expressions.html#index-match) - String expressions
+- [`md5sum`](https://www.gnu.org/software/coreutils/manual/html_node/md5sum-invocation.html#index-md5sum) - md5sum invocation
+- [`midnight in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Time-of-day-items.html#index-midnight-in-date-strings) - Time of day items
+- [`min`](https://www.gnu.org/software/coreutils/manual/html_node/Special.html#index-min) - Special
+- [`minute in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Relative-items-in-date-strings.html#index-minute-in-date-strings) - Relative items in date strings
+- [`mkdir`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html#index-mkdir) - mkdir invocation
+- [`mkfifo`](https://www.gnu.org/software/coreutils/manual/html_node/mkfifo-invocation.html#index-mkfifo) - mkfifo invocation
+- [`mknod`](https://www.gnu.org/software/coreutils/manual/html_node/mknod-invocation.html#index-mknod) - mknod invocation
+- [`mktemp`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-mktemp) - mktemp invocation
+- [`modification timestamp, sorting files by`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-modification-timestamp_002c-sorting-files-by) - Sorting the output
+- [`modify time, changing`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-modify-time_002c-changing) - touch invocation
+- [`month in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Relative-items-in-date-strings.html#index-month-in-date-strings) - Relative items in date strings
+- [`mtime, changing`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-mtime_002c-changing) - touch invocation
+- [`mtime, printing or sorting files by`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-mtime_002c-printing-or-sorting-files-by) - Sorting the output
+- [`multicall`](https://www.gnu.org/software/coreutils/manual/html_node/Multi_002dcall-invocation.html#index-multicall) - Multi-call invocation
+- [`mv`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-mv) - mv invocation
+- [`mv`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-prompting_002c-and-mv) - mv invocation

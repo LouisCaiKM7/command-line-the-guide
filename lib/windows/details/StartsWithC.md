@@ -1,0 +1,44 @@
+- [`c for character special file`](https://www.gnu.org/software/coreutils/manual/html_node/mknod-invocation.html#index-c-for-character-special-file) - mknod invocation
+- [`C-s/C-q flow control`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-C_002ds_002fC_002dq-flow-control) - Input
+- [`cat`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-cat) - cat invocation
+- [`cbreak`](https://www.gnu.org/software/coreutils/manual/html_node/Combination.html#index-cbreak) - Combination
+- [`cbs`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-cbs) - dd invocation
+- [`cdfs file system type`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-cdfs-file-system-type) - df invocation
+- [`cdtrdsr`](https://www.gnu.org/software/coreutils/manual/html_node/Control.html#index-cdtrdsr) - Control
+- [`chcon`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-chcon) - chcon invocation
+- [`chgrp`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-chgrp) - chgrp invocation
+- [`chmod`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-chmod) - chmod invocation
+- [`chown`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-chown) - chown invocation
+- [`chroot`](https://www.gnu.org/software/coreutils/manual/html_node/chroot-invocation.html#index-chroot) - chroot invocation
+- [`cio`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-cio) - dd invocation
+- [`cksum`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-invocation.html#index-cksum) - cksum invocation
+- [`clocal`](https://www.gnu.org/software/coreutils/manual/html_node/Control.html#index-clocal) - Control
+- [`cmspar`](https://www.gnu.org/software/coreutils/manual/html_node/Control.html#index-cmspar) - Control
+- [`cntrl`](https://www.gnu.org/software/coreutils/manual/html_node/Character-arrays.html#index-cntrl) - Character arrays
+- [`cols`](https://www.gnu.org/software/coreutils/manual/html_node/Special.html#index-cols) - Special
+- [`COLUMNS`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-COLUMNS) - General output formatting
+- [`COLUMNS`](https://www.gnu.org/software/coreutils/manual/html_node/Special.html#index-COLUMNS-1) - Special
+- [`columns`](https://www.gnu.org/software/coreutils/manual/html_node/Special.html#index-columns) - Special
+- [`comm`](https://www.gnu.org/software/coreutils/manual/html_node/comm-invocation.html#index-comm) - comm invocation
+- [`commas, outputting between files`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-commas_002c-outputting-between-files) - General output formatting
+- [`conv`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-conv) - dd invocation
+- [`cooked`](https://www.gnu.org/software/coreutils/manual/html_node/Combination.html#index-cooked) - Combination
+- [`count`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-count) - dd invocation
+- [`cp`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-cp) - cp invocation
+- [`cread`](https://www.gnu.org/software/coreutils/manual/html_node/Control.html#index-cread) - Control
+- [`creation timestamp, printing or sorting files by`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-creation-timestamp_002c-printing-or-sorting-files-by) - Sorting the output
+- [`crn`](https://www.gnu.org/software/coreutils/manual/html_node/Output.html#index-crn) - Output
+- [`crt`](https://www.gnu.org/software/coreutils/manual/html_node/Combination.html#index-crt) - Combination
+- [`crterase`](https://www.gnu.org/software/coreutils/manual/html_node/Local.html#index-crterase) - Local
+- [`crtkill`](https://www.gnu.org/software/coreutils/manual/html_node/Local.html#index-crtkill) - Local
+- [`crtscts`](https://www.gnu.org/software/coreutils/manual/html_node/Control.html#index-crtscts) - Control
+- [`csh`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-csh-syntax-for-color-setup) - dircolors invocation
+- [`csn`](https://www.gnu.org/software/coreutils/manual/html_node/Control.html#index-csn) - Control
+- [`csplit`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-csplit) - csplit invocation
+- [`cstopb`](https://www.gnu.org/software/coreutils/manual/html_node/Control.html#index-cstopb) - Control
+- [`ctime, printing or sorting by`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-ctime_002c-printing-or-sorting-by) - Sorting the output
+- [`ctime, show the most recent`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-ctime_002c-show-the-most-recent) - du invocation
+- [`ctlecho`](https://www.gnu.org/software/coreutils/manual/html_node/Local.html#index-ctlecho) - Local
+- [`cut`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-cut) - cut invocation
+- [`chroot`](https://www.gnu.org/software/coreutils/manual/html_node/chroot-invocation.html#index-exit-status-of-chroot) - chroot invocation
+- [`cp`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-parent-directories-and-cp) - cp invocation

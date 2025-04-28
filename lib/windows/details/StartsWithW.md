@@ -1,0 +1,10 @@
+- [`wc`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-wc) - wc invocation
+- [`week in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Relative-items-in-date-strings.html#index-week-in-date-strings) - Relative items in date strings
+- [`werase`](https://www.gnu.org/software/coreutils/manual/html_node/Characters.html#index-werase) - Characters
+- [`who`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-who) - who invocation
+- [`who am i`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-who-am-i) - who invocation
+- [`whoami`](https://www.gnu.org/software/coreutils/manual/html_node/whoami-invocation.html#index-whoami) - whoami invocation
+- [`width, sorting option for ls`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-width_002c-sorting-option-for-ls) - Sorting the output
+- [`write, allowed`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-write_002c-allowed) - who invocation
+- [`wtmp`](https://www.gnu.org/software/coreutils/manual/html_node/users-invocation.html#index-wtmp) - users invocation
+- [`wtmp`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-wtmp-1) - who invocation

@@ -1,0 +1,2 @@
+- [`!`](https://www.gnu.org/software/coreutils/manual/html_node/Connectives-for-test.html#index-_0021) - Connectives for test
+- [`!=`](https://www.gnu.org/software/coreutils/manual/html_node/String-tests.html#index-_0021_003d) - String tests

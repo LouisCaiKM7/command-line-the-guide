@@ -1,0 +1,35 @@
+- [`parse_datetime`](https://www.gnu.org/software/coreutils/manual/html_node/Authors-of-parse_005fdatetime.html#index-authors-of-parse_005fdatetime) - Authors of parse_datetime
+- [`pathchk`](https://www.gnu.org/software/coreutils/manual/html_node/pathchk-invocation.html#index-exit-status-of-pathchk) - pathchk invocation
+- [`printenv`](https://www.gnu.org/software/coreutils/manual/html_node/printenv-invocation.html#index-exit-status-of-printenv) - printenv invocation
+- [`p for FIFO file`](https://www.gnu.org/software/coreutils/manual/html_node/mknod-invocation.html#index-p-for-FIFO-file) - mknod invocation
+- [`parenb`](https://www.gnu.org/software/coreutils/manual/html_node/Control.html#index-parenb) - Control
+- [`parity`](https://www.gnu.org/software/coreutils/manual/html_node/Combination.html#index-parity) - Combination
+- [`parmrk`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-parmrk) - Input
+- [`parodd`](https://www.gnu.org/software/coreutils/manual/html_node/Control.html#index-parodd) - Control
+- [`parse_datetime`](https://www.gnu.org/software/coreutils/manual/html_node/Date-input-formats.html#index-parse_005fdatetime) - Date input formats
+- [`pass8`](https://www.gnu.org/software/coreutils/manual/html_node/Combination.html#index-pass8) - Combination
+- [`paste`](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#index-paste) - paste invocation
+- [`PATH`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-PATH) - env invocation
+- [`pathchk`](https://www.gnu.org/software/coreutils/manual/html_node/pathchk-invocation.html#index-pathchk) - pathchk invocation
+- [`pm in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Time-of-day-items.html#index-pm-in-date-strings) - Time of day items
+- [`POSIXLY_CORRECT`](https://www.gnu.org/software/coreutils/manual/html_node/Common-options.html#index-POSIXLY_005fCORRECT) - Common options
+- [`POSIXLY_CORRECT`](https://www.gnu.org/software/coreutils/manual/html_node/Standards-conformance.html#index-POSIXLY_005fCORRECT-1) - Standards conformance
+- [`POSIXLY_CORRECT`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-POSIXLY_005fCORRECT-2) - pr invocation
+- [`POSIXLY_CORRECT`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-POSIXLY_005fCORRECT-3) - wc invocation
+- [`POSIXLY_CORRECT`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-POSIXLY_005fCORRECT-4) - sort invocation
+- [`POSIXLY_CORRECT`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-POSIXLY_005fCORRECT-5) - sort invocation
+- [`POSIXLY_CORRECT`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-POSIXLY_005fCORRECT-6) - dd invocation
+- [`POSIXLY_CORRECT`](https://www.gnu.org/software/coreutils/manual/html_node/echo-invocation.html#index-POSIXLY_005fCORRECT-7) - echo invocation
+- [`POSIXLY_CORRECT`](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#index-POSIXLY_005fCORRECT-8) - printf invocation
+- [`POSIXLY_CORRECT`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-POSIXLY_005fCORRECT-9) - id invocation
+- [`POSIXLY_CORRECT, and block size`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-POSIXLY_005fCORRECT_002c-and-block-size) - Block size
+- [`pr`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-pr) - pr invocation
+- [`print`](https://www.gnu.org/software/coreutils/manual/html_node/Character-arrays.html#index-print) - Character arrays
+- [`printenv`](https://www.gnu.org/software/coreutils/manual/html_node/printenv-invocation.html#index-printenv) - printenv invocation
+- [`printf`](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#index-printf) - printf invocation
+- [`progress dd status=`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-progress-dd-status_003d) - dd invocation
+- [`prterase`](https://www.gnu.org/software/coreutils/manual/html_node/Local.html#index-prterase) - Local
+- [`ptx`](https://www.gnu.org/software/coreutils/manual/html_node/ptx-invocation.html#index-ptx) - ptx invocation
+- [`punct`](https://www.gnu.org/software/coreutils/manual/html_node/Character-arrays.html#index-punct) - Character arrays
+- [`pwd`](https://www.gnu.org/software/coreutils/manual/html_node/pwd-invocation.html#index-pwd) - pwd invocation
+- [`pwd`](https://www.gnu.org/software/coreutils/manual/html_node/pwd-invocation.html#index-symbolic-links-and-pwd) - pwd invocation

@@ -1,0 +1,1195 @@
+- [`-`](https://www.gnu.org/software/coreutils/manual/html_node/Numeric-expressions.html#index-_002d) - Numeric expressions
+- [`-`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002d-1) - env invocation
+- [`- and Unix rm`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002d-and-Unix-rm) - rm invocation
+- [`--`](https://www.gnu.org/software/coreutils/manual/html_node/Common-options.html#index-_002d_002d) - Common options
+- [`--across`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dacross) - pr invocation
+- [`--additional-suffix`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dadditional_002dsuffix) - split invocation
+- [`--address-radix`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002d_002daddress_002dradix) - od invocation
+- [`--adjustment`](https://www.gnu.org/software/coreutils/manual/html_node/nice-invocation.html#index-_002d_002dadjustment) - nice invocation
+- [`--algorithm`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-general-options.html#index-_002d_002dalgorithm) - cksum general options
+- [`--all`](https://www.gnu.org/software/coreutils/manual/html_node/unexpand-invocation.html#index-_002d_002dall) - unexpand invocation
+- [`--all`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002d_002dall-1) - Which files are listed
+- [`--all`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dall-2) - df invocation
+- [`--all`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dall-3) - du invocation
+- [`--all`](https://www.gnu.org/software/coreutils/manual/html_node/stty-invocation.html#index-_002d_002dall-4) - stty invocation
+- [`--all`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dall-5) - who invocation
+- [`--all`](https://www.gnu.org/software/coreutils/manual/html_node/nproc-invocation.html#index-_002d_002dall-6) - nproc invocation
+- [`--all`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002d_002dall-7) - uname invocation
+- [`--all-repeated`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002d_002dall_002drepeated) - uniq invocation
+- [`--almost-all`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002d_002dalmost_002dall) - Which files are listed
+- [`--apparent-size`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dapparent_002dsize) - du invocation
+- [`--append`](https://www.gnu.org/software/coreutils/manual/html_node/tee-invocation.html#index-_002d_002dappend) - tee invocation
+- [`--archive`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002darchive) - cp invocation
+- [`--argv0`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002d_002dargv0) - env invocation
+- [`--attributes-only`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dattributes_002donly) - cp invocation
+- [`--author`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002dauthor) - What information is listed
+- [`--auto-reference`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002d_002dauto_002dreference) - Output formatting in ptx
+- [`--backup`](https://www.gnu.org/software/coreutils/manual/html_node/Backup-options.html#index-_002d_002dbackup) - Backup options
+- [`--backup`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dbackup-1) - cp invocation
+- [`--backup`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dbackup-2) - install invocation
+- [`--backup`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dbackup-3) - mv invocation
+- [`--backup`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dbackup-4) - ln invocation
+- [`--base16`](https://www.gnu.org/software/coreutils/manual/html_node/basenc-invocation.html#index-_002d_002dbase16) - basenc invocation
+- [`--base2lsbf`](https://www.gnu.org/software/coreutils/manual/html_node/basenc-invocation.html#index-_002d_002dbase2lsbf) - basenc invocation
+- [`--base2msbf`](https://www.gnu.org/software/coreutils/manual/html_node/basenc-invocation.html#index-_002d_002dbase2msbf) - basenc invocation
+- [`--base32`](https://www.gnu.org/software/coreutils/manual/html_node/basenc-invocation.html#index-_002d_002dbase32) - basenc invocation
+- [`--base32hex`](https://www.gnu.org/software/coreutils/manual/html_node/basenc-invocation.html#index-_002d_002dbase32hex) - basenc invocation
+- [`--base64`](https://www.gnu.org/software/coreutils/manual/html_node/basenc-invocation.html#index-_002d_002dbase64) - basenc invocation
+- [`--base64`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-general-options.html#index-_002d_002dbase64-1) - cksum general options
+- [`--base64url`](https://www.gnu.org/software/coreutils/manual/html_node/basenc-invocation.html#index-_002d_002dbase64url) - basenc invocation
+- [`--batch-size`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dbatch_002dsize) - sort invocation
+- [`--before`](https://www.gnu.org/software/coreutils/manual/html_node/tac-invocation.html#index-_002d_002dbefore) - tac invocation
+- [`--binary`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002d_002dbinary) - cksum common options
+- [`--block-size`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-_002d_002dblock_002dsize) - Block size
+- [`--block-size`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dblock_002dsize-1) - df invocation
+- [`--block-size`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dblock_002dsize-2) - du invocation
+- [`--block-size=size`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-_002d_002dblock_002dsize_003dsize) - Block size
+- [`--body-numbering`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002dbody_002dnumbering) - nl invocation
+- [`--boot`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dboot) - who invocation
+- [`--bourne-shell`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-_002d_002dbourne_002dshell) - dircolors invocation
+- [`--break-file`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002d_002dbreak_002dfile) - Input processing in ptx
+- [`--buffer-size`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dbuffer_002dsize) - sort invocation
+- [`--bytes`](https://www.gnu.org/software/coreutils/manual/html_node/fold-invocation.html#index-_002d_002dbytes) - fold invocation
+- [`--bytes`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002d_002dbytes-1) - head invocation
+- [`--bytes`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dbytes-2) - tail invocation
+- [`--bytes`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dbytes-3) - split invocation
+- [`--bytes`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002d_002dbytes-4) - wc invocation
+- [`--bytes`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002d_002dbytes-5) - cut invocation
+- [`--bytes`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dbytes-6) - du invocation
+- [`--c-shell`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-_002d_002dc_002dshell) - dircolors invocation
+- [`--cached=mode`](https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html#index-_002d_002dcached_003dmode) - stat invocation
+- [`--canonicalize`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002d_002dcanonicalize) - readlink invocation
+- [`--canonicalize-existing`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002d_002dcanonicalize_002dexisting) - readlink invocation
+- [`--canonicalize-existing`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002d_002dcanonicalize_002dexisting-1) - realpath invocation
+- [`--canonicalize-missing`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002d_002dcanonicalize_002dmissing) - readlink invocation
+- [`--canonicalize-missing`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002d_002dcanonicalize_002dmissing-1) - realpath invocation
+- [`--changes`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002dchanges) - chown invocation
+- [`--changes`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002dchanges-1) - chgrp invocation
+- [`--changes`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002d_002dchanges-2) - chmod invocation
+- [`--characters`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002d_002dcharacters) - cut invocation
+- [`--chars`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002d_002dchars) - wc invocation
+- [`--chdir`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002d_002dchdir) - env invocation
+- [`--check`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dcheck) - sort invocation
+- [`--check`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dcheck-1) - sort invocation
+- [`--check-chars`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002d_002dcheck_002dchars) - uniq invocation
+- [`--classify`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dclassify) - General output formatting
+- [`--color`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dcolor) - General output formatting
+- [`--columns`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dcolumns) - pr invocation
+- [`--compare`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dcompare) - install invocation
+- [`--complement`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002d_002dcomplement) - cut invocation
+- [`--complement`](https://www.gnu.org/software/coreutils/manual/html_node/tr-invocation.html#index-_002d_002dcomplement-1) - tr invocation
+- [`--compute`](https://www.gnu.org/software/coreutils/manual/html_node/runcon-invocation.html#index-_002d_002dcompute) - runcon invocation
+- [`--context`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002dcontext) - What information is listed
+- [`--context`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dcontext-1) - cp invocation
+- [`--context`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dcontext-2) - install invocation
+- [`--context`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dcontext-3) - mv invocation
+- [`--context`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html#index-_002d_002dcontext-4) - mkdir invocation
+- [`--context`](https://www.gnu.org/software/coreutils/manual/html_node/mkfifo-invocation.html#index-_002d_002dcontext-5) - mkfifo invocation
+- [`--context`](https://www.gnu.org/software/coreutils/manual/html_node/mknod-invocation.html#index-_002d_002dcontext-6) - mknod invocation
+- [`--context`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002d_002dcontext-7) - id invocation
+- [`--count`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002d_002dcount) - uniq invocation
+- [`--count`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dcount-1) - who invocation
+- [`--count-links`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dcount_002dlinks) - du invocation
+- [`--crown-margin`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002d_002dcrown_002dmargin) - fmt invocation
+- [`--csh`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-_002d_002dcsh) - dircolors invocation
+- [`--data`](https://www.gnu.org/software/coreutils/manual/html_node/sync-invocation.html#index-_002d_002ddata) - sync invocation
+- [`--date`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002d_002ddate) - touch invocation
+- [`--date`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002ddate-1) - Options for date
+- [`--dead`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002ddead) - who invocation
+- [`--debug`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-general-options.html#index-_002d_002ddebug) - cksum general options
+- [`--debug`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002ddebug-1) - cp invocation
+- [`--debug`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002ddebug-2) - install invocation
+- [`--debug`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002ddebug-3) - mv invocation
+- [`--debug`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002ddebug-4) - Options for date
+- [`--debug`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002d_002ddebug-5) - env invocation
+- [`--debug`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002ddebug-6) - numfmt invocation
+- [`--decode`](https://www.gnu.org/software/coreutils/manual/html_node/base64-invocation.html#index-_002d_002ddecode) - base64 invocation
+- [`--delete`](https://www.gnu.org/software/coreutils/manual/html_node/tr-invocation.html#index-_002d_002ddelete) - tr invocation
+- [`--delimiter`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002d_002ddelimiter) - cut invocation
+- [`--delimiter`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002ddelimiter-1) - numfmt invocation
+- [`--delimiters`](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#index-_002d_002ddelimiters) - paste invocation
+- [`--dereference`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002d_002ddereference) - Which files are listed
+- [`--dereference`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002ddereference-1) - cp invocation
+- [`--dereference`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002ddereference-2) - chown invocation
+- [`--dereference`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002ddereference-3) - chgrp invocation
+- [`--dereference`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002d_002ddereference-4) - chmod invocation
+- [`--dereference`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002ddereference-5) - du invocation
+- [`--dereference`](https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html#index-_002d_002ddereference-6) - stat invocation
+- [`--dereference`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002ddereference-7) - chcon invocation
+- [`--dereference-args`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002ddereference_002dargs) - du invocation
+- [`--dereference-command-line`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002d_002ddereference_002dcommand_002dline) - Which files are listed
+- [`--dereference-command-line-symlink-to-dir`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002d_002ddereference_002dcommand_002dline_002dsymlink_002dto_002ddir) - Which files are listed
+- [`--dictionary-order`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002ddictionary_002dorder) - sort invocation
+- [`--digits`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002d_002ddigits) - csplit invocation
+- [`--dir`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002d_002ddir) - rm invocation
+- [`--directory`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002d_002ddirectory) - Which files are listed
+- [`--directory`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002ddirectory-1) - install invocation
+- [`--directory`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002ddirectory-2) - ln invocation
+- [`--directory`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-_002d_002ddirectory-3) - mktemp invocation
+- [`--dired`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002ddired) - What information is listed
+- [`--double-space`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002ddouble_002dspace) - pr invocation
+- [`--dry-run`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-_002d_002ddry_002drun) - mktemp invocation
+- [`--echo`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002d_002decho) - shuf invocation
+- [`--elide-empty-files`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002delide_002dempty_002dfiles) - split invocation
+- [`--elide-empty-files`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002d_002delide_002dempty_002dfiles-1) - csplit invocation
+- [`--endian`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002d_002dendian) - od invocation
+- [`--equal-width`](https://www.gnu.org/software/coreutils/manual/html_node/seq-invocation.html#index-_002d_002dequal_002dwidth) - seq invocation
+- [`--error`](https://www.gnu.org/software/coreutils/manual/html_node/stdbuf-invocation.html#index-_002d_002derror) - stdbuf invocation
+- [`--escape`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002d_002descape) - Formatting the file names
+- [`--exact`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002dexact) - shred invocation
+- [`--exchange`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dexchange) - mv invocation
+- [`--exclude-from=file`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dexclude_002dfrom_003dfile) - du invocation
+- [`--exclude-type`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dexclude_002dtype) - df invocation
+- [`--exclude=pattern`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dexclude_003dpattern) - du invocation
+- [`--expand-tabs`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dexpand_002dtabs) - pr invocation
+- [`--exponents`](https://www.gnu.org/software/coreutils/manual/html_node/factor-invocation.html#index-_002d_002dexponents) - factor invocation
+- [`--field`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dfield) - numfmt invocation
+- [`--field-separator`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dfield_002dseparator) - sort invocation
+- [`--fields`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002d_002dfields) - cut invocation
+- [`--file`](https://www.gnu.org/software/coreutils/manual/html_node/stty-invocation.html#index-_002d_002dfile) - stty invocation
+- [`--file`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002dfile-1) - Options for date
+- [`--file-system`](https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html#index-_002d_002dfile_002dsystem) - stat invocation
+- [`--file-system`](https://www.gnu.org/software/coreutils/manual/html_node/sync-invocation.html#index-_002d_002dfile_002dsystem-1) - sync invocation
+- [`--file-type`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dfile_002dtype) - General output formatting
+- [`--files0-from=file`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002d_002dfiles0_002dfrom_003dfile) - wc invocation
+- [`--files0-from=file`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dfiles0_002dfrom_003dfile-1) - sort invocation
+- [`--files0-from=file`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dfiles0_002dfrom_003dfile-2) - du invocation
+- [`--filter`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dfilter) - split invocation
+- [`--first-line-number`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dfirst_002dline_002dnumber) - pr invocation
+- [`--flag-truncation`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002d_002dflag_002dtruncation) - Output formatting in ptx
+- [`--follow`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dfollow) - tail invocation
+- [`--footer-numbering`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002dfooter_002dnumbering) - nl invocation
+- [`--force`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dforce) - cp invocation
+- [`--force`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dforce-1) - mv invocation
+- [`--force`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002d_002dforce-2) - rm invocation
+- [`--force`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002dforce-3) - shred invocation
+- [`--force`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dforce-4) - ln invocation
+- [`--foreground`](https://www.gnu.org/software/coreutils/manual/html_node/timeout-invocation.html#index-_002d_002dforeground) - timeout invocation
+- [`--form-feed`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dform_002dfeed) - pr invocation
+- [`--format`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002d_002dformat) - od invocation
+- [`--format`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002dformat-1) - What information is listed
+- [`--format`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dformat-2) - General output formatting
+- [`--format`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dformat-3) - General output formatting
+- [`--format`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dformat-4) - General output formatting
+- [`--format`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dformat-5) - General output formatting
+- [`--format`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dformat-6) - numfmt invocation
+- [`--format`](https://www.gnu.org/software/coreutils/manual/html_node/seq-invocation.html#index-_002d_002dformat-7) - seq invocation
+- [`--format=format`](https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html#index-_002d_002dformat_003dformat) - stat invocation
+- [`--format=roff`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002d_002dformat_003droff) - Output formatting in ptx
+- [`--format=tex`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002d_002dformat_003dtex) - Output formatting in ptx
+- [`--from`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002dfrom) - chown invocation
+- [`--from`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002dfrom-1) - chgrp invocation
+- [`--from`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dfrom-2) - numfmt invocation
+- [`--from-unit`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dfrom_002dunit) - numfmt invocation
+- [`--full-time`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002dfull_002dtime) - What information is listed
+- [`--gap-size`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002d_002dgap_002dsize) - Output formatting in ptx
+- [`--general-numeric-sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dgeneral_002dnumeric_002dsort) - sort invocation
+- [`--goal`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002d_002dgoal) - fmt invocation
+- [`--group`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002d_002dgroup) - uniq invocation
+- [`--group`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dgroup-1) - install invocation
+- [`--group`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002d_002dgroup-2) - id invocation
+- [`--group-directories-first`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dgroup_002ddirectories_002dfirst) - Sorting the output
+- [`--grouping`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dgrouping) - numfmt invocation
+- [`--groups`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002d_002dgroups) - id invocation
+- [`--groups`](https://www.gnu.org/software/coreutils/manual/html_node/chroot-invocation.html#index-_002d_002dgroups-1) - chroot invocation
+- [`--hardware-platform`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002d_002dhardware_002dplatform) - uname invocation
+- [`--head-count`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002d_002dhead_002dcount) - shuf invocation
+- [`--header`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dheader) - pr invocation
+- [`--header`](https://www.gnu.org/software/coreutils/manual/html_node/General-options-in-join.html#index-_002d_002dheader-1) - General options in join
+- [`--header`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dheader-2) - numfmt invocation
+- [`--header-numbering`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002dheader_002dnumbering) - nl invocation
+- [`--header=N`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dheader_003dN) - numfmt invocation
+- [`--heading`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dheading) - who invocation
+- [`--help`](https://www.gnu.org/software/coreutils/manual/html_node/Common-options.html#index-_002d_002dhelp) - Common options
+- [`--hex-suffixes`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dhex_002dsuffixes) - split invocation
+- [`--hide-control-chars`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002d_002dhide_002dcontrol_002dchars) - Formatting the file names
+- [`--hide=pattern`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002d_002dhide_003dpattern) - Which files are listed
+- [`--human-numeric-sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dhuman_002dnumeric_002dsort) - sort invocation
+- [`--human-readable`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-_002d_002dhuman_002dreadable) - Block size
+- [`--human-readable`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002dhuman_002dreadable-1) - What information is listed
+- [`--human-readable`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dhuman_002dreadable-2) - df invocation
+- [`--human-readable`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dhuman_002dreadable-3) - du invocation
+- [`--hyperlink`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dhyperlink) - General output formatting
+- [`--ignore`](https://www.gnu.org/software/coreutils/manual/html_node/nproc-invocation.html#index-_002d_002dignore) - nproc invocation
+- [`--ignore-backups`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002d_002dignore_002dbackups) - Which files are listed
+- [`--ignore-case`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dignore_002dcase) - sort invocation
+- [`--ignore-case`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002d_002dignore_002dcase-1) - uniq invocation
+- [`--ignore-case`](https://www.gnu.org/software/coreutils/manual/html_node/Charset-selection-in-ptx.html#index-_002d_002dignore_002dcase-2) - Charset selection in ptx
+- [`--ignore-case`](https://www.gnu.org/software/coreutils/manual/html_node/General-options-in-join.html#index-_002d_002dignore_002dcase-3) - General options in join
+- [`--ignore-environment`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002d_002dignore_002denvironment) - env invocation
+- [`--ignore-fail-on-non-empty`](https://www.gnu.org/software/coreutils/manual/html_node/rmdir-invocation.html#index-_002d_002dignore_002dfail_002don_002dnon_002dempty) - rmdir invocation
+- [`--ignore-file`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002d_002dignore_002dfile) - Input processing in ptx
+- [`--ignore-garbage`](https://www.gnu.org/software/coreutils/manual/html_node/base64-invocation.html#index-_002d_002dignore_002dgarbage) - base64 invocation
+- [`--ignore-interrupts`](https://www.gnu.org/software/coreutils/manual/html_node/tee-invocation.html#index-_002d_002dignore_002dinterrupts) - tee invocation
+- [`--ignore-leading-blanks`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dignore_002dleading_002dblanks) - sort invocation
+- [`--ignore-missing`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002d_002dignore_002dmissing) - cksum common options
+- [`--ignore-nonprinting`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dignore_002dnonprinting) - sort invocation
+- [`--ignore=pattern`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002d_002dignore_003dpattern) - Which files are listed
+- [`--indent`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dindent) - pr invocation
+- [`--indicator-style`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dindicator_002dstyle) - General output formatting
+- [`--indicator-style`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dindicator_002dstyle-1) - General output formatting
+- [`--indicator-style`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dindicator_002dstyle-2) - General output formatting
+- [`--indicator-style`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dindicator_002dstyle-3) - General output formatting
+- [`--initial`](https://www.gnu.org/software/coreutils/manual/html_node/expand-invocation.html#index-_002d_002dinitial) - expand invocation
+- [`--inode`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002dinode) - What information is listed
+- [`--inodes`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dinodes) - df invocation
+- [`--inodes`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dinodes-1) - du invocation
+- [`--input`](https://www.gnu.org/software/coreutils/manual/html_node/stdbuf-invocation.html#index-_002d_002dinput) - stdbuf invocation
+- [`--input-range`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002d_002dinput_002drange) - shuf invocation
+- [`--interactive`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dinteractive) - cp invocation
+- [`--interactive`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dinteractive-1) - mv invocation
+- [`--interactive`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002d_002dinteractive-2) - rm invocation
+- [`--interactive`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dinteractive-3) - ln invocation
+- [`--invalid`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dinvalid) - numfmt invocation
+- [`--io-blocks`](https://www.gnu.org/software/coreutils/manual/html_node/truncate-invocation.html#index-_002d_002dio_002dblocks) - truncate invocation
+- [`--iso-8601[=timespec]`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002diso_002d8601_005b_003dtimespec_005d) - Options for date
+- [`--iterations=number`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002diterations_003dnumber) - shred invocation
+- [`--join-blank-lines`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002djoin_002dblank_002dlines) - nl invocation
+- [`--join-lines`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002djoin_002dlines) - pr invocation
+- [`--keep-directory-symlink`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dkeep_002ddirectory_002dsymlink) - mv invocation
+- [`--keep-files`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002d_002dkeep_002dfiles) - csplit invocation
+- [`--kernel-name`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002d_002dkernel_002dname) - uname invocation
+- [`--kernel-release`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002d_002dkernel_002drelease) - uname invocation
+- [`--kernel-version`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002d_002dkernel_002dversion) - uname invocation
+- [`--key`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dkey) - sort invocation
+- [`--kibibytes`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dkibibytes) - General output formatting
+- [`--kill-after`](https://www.gnu.org/software/coreutils/manual/html_node/timeout-invocation.html#index-_002d_002dkill_002dafter) - timeout invocation
+- [`--length`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dlength) - pr invocation
+- [`--length`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-general-options.html#index-_002d_002dlength-1) - cksum general options
+- [`--length`](https://www.gnu.org/software/coreutils/manual/html_node/b2sum-invocation.html#index-_002d_002dlength-2) - b2sum invocation
+- [`--line-bytes`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dline_002dbytes) - split invocation
+- [`--line-increment`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002dline_002dincrement) - nl invocation
+- [`--lines`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002d_002dlines) - head invocation
+- [`--lines`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dlines-1) - tail invocation
+- [`--lines`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dlines-2) - split invocation
+- [`--lines`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002d_002dlines-3) - wc invocation
+- [`--link`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dlink) - cp invocation
+- [`--literal`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002d_002dliteral) - Formatting the file names
+- [`--local`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dlocal) - df invocation
+- [`--logical`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dlogical) - ln invocation
+- [`--logical`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002d_002dlogical-1) - realpath invocation
+- [`--logical`](https://www.gnu.org/software/coreutils/manual/html_node/pwd-invocation.html#index-_002d_002dlogical-2) - pwd invocation
+- [`--login`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dlogin) - who invocation
+- [`--lookup`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dlookup) - who invocation
+- [`--lookup`](https://www.gnu.org/software/coreutils/manual/html_node/pinky-invocation.html#index-_002d_002dlookup-1) - pinky invocation
+- [`--machine`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002d_002dmachine) - uname invocation
+- [`--macro-name`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002d_002dmacro_002dname) - Output formatting in ptx
+- [`--max-depth=depth`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dmax_002ddepth_003ddepth) - du invocation
+- [`--max-line-length`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002d_002dmax_002dline_002dlength) - wc invocation
+- [`--max-unchanged-stats`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dmax_002dunchanged_002dstats) - tail invocation
+- [`--merge`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dmerge) - pr invocation
+- [`--merge`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dmerge-1) - sort invocation
+- [`--mesg`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dmesg) - who invocation
+- [`--message`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dmessage) - who invocation
+- [`--mode`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dmode) - install invocation
+- [`--mode`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html#index-_002d_002dmode-1) - mkdir invocation
+- [`--mode`](https://www.gnu.org/software/coreutils/manual/html_node/mkfifo-invocation.html#index-_002d_002dmode-2) - mkfifo invocation
+- [`--mode`](https://www.gnu.org/software/coreutils/manual/html_node/mknod-invocation.html#index-_002d_002dmode-3) - mknod invocation
+- [`--month-sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dmonth_002dsort) - sort invocation
+- [`--multiple`](https://www.gnu.org/software/coreutils/manual/html_node/basename-invocation.html#index-_002d_002dmultiple) - basename invocation
+- [`--name`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002d_002dname) - id invocation
+- [`--no-clobber`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dno_002dclobber) - cp invocation
+- [`--no-clobber`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dno_002dclobber-1) - mv invocation
+- [`--no-copy`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dno_002dcopy) - mv invocation
+- [`--no-create`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002d_002dno_002dcreate) - touch invocation
+- [`--no-create`](https://www.gnu.org/software/coreutils/manual/html_node/truncate-invocation.html#index-_002d_002dno_002dcreate-1) - truncate invocation
+- [`--no-dereference`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dno_002ddereference) - cp invocation
+- [`--no-dereference`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dno_002ddereference-1) - ln invocation
+- [`--no-dereference`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002dno_002ddereference-2) - chown invocation
+- [`--no-dereference`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002dno_002ddereference-3) - chgrp invocation
+- [`--no-dereference`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002d_002dno_002ddereference-4) - chmod invocation
+- [`--no-dereference`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002d_002dno_002ddereference-5) - touch invocation
+- [`--no-dereference`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dno_002ddereference-6) - du invocation
+- [`--no-dereference`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002dno_002ddereference-7) - chcon invocation
+- [`--no-file-warnings`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dno_002dfile_002dwarnings) - pr invocation
+- [`--no-group`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002dno_002dgroup) - What information is listed
+- [`--no-newline`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002d_002dno_002dnewline) - readlink invocation
+- [`--no-preserve-root`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002d_002dno_002dpreserve_002droot) - rm invocation
+- [`--no-preserve-root`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002dno_002dpreserve_002droot-1) - chown invocation
+- [`--no-preserve-root`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002dno_002dpreserve_002droot-2) - chgrp invocation
+- [`--no-preserve-root`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002d_002dno_002dpreserve_002droot-3) - chmod invocation
+- [`--no-preserve-root`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002dno_002dpreserve_002droot-4) - chcon invocation
+- [`--no-renumber`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002dno_002drenumber) - nl invocation
+- [`--no-symlinks`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002d_002dno_002dsymlinks) - realpath invocation
+- [`--no-sync`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dno_002dsync) - df invocation
+- [`--no-target-directory`](https://www.gnu.org/software/coreutils/manual/html_node/Target-directory.html#index-_002d_002dno_002dtarget_002ddirectory) - Target directory
+- [`--no-target-directory`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dno_002dtarget_002ddirectory-1) - cp invocation
+- [`--no-target-directory`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dno_002dtarget_002ddirectory-2) - install invocation
+- [`--no-target-directory`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dno_002dtarget_002ddirectory-3) - mv invocation
+- [`--no-target-directory`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dno_002dtarget_002ddirectory-4) - ln invocation
+- [`--nodename`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002d_002dnodename) - uname invocation
+- [`--null`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dnull) - du invocation
+- [`--null`](https://www.gnu.org/software/coreutils/manual/html_node/printenv-invocation.html#index-_002d_002dnull-1) - printenv invocation
+- [`--null`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002d_002dnull-2) - env invocation
+- [`--number`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002d_002dnumber) - cat invocation
+- [`--number`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dnumber-1) - split invocation
+- [`--number-format`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002dnumber_002dformat) - nl invocation
+- [`--number-lines`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dnumber_002dlines) - pr invocation
+- [`--number-nonblank`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002d_002dnumber_002dnonblank) - cat invocation
+- [`--number-separator`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002dnumber_002dseparator) - nl invocation
+- [`--number-width`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002dnumber_002dwidth) - nl invocation
+- [`--numeric-sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dnumeric_002dsort) - sort invocation
+- [`--numeric-suffixes`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dnumeric_002dsuffixes) - split invocation
+- [`--numeric-uid-gid`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002dnumeric_002duid_002dgid) - What information is listed
+- [`--omit-header`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002domit_002dheader) - pr invocation
+- [`--omit-pagination`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002domit_002dpagination) - pr invocation
+- [`--one-file-system`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002done_002dfile_002dsystem) - cp invocation
+- [`--one-file-system`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002d_002done_002dfile_002dsystem-1) - rm invocation
+- [`--one-file-system`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002done_002dfile_002dsystem-2) - du invocation
+- [`--only-delimited`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002d_002donly_002ddelimited) - cut invocation
+- [`--only-file`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002d_002donly_002dfile) - Input processing in ptx
+- [`--operating-system`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002d_002doperating_002dsystem) - uname invocation
+- [`--output`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002doutput) - sort invocation
+- [`--output`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002d_002doutput-1) - shuf invocation
+- [`--output`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002doutput-2) - df invocation
+- [`--output`](https://www.gnu.org/software/coreutils/manual/html_node/stdbuf-invocation.html#index-_002d_002doutput-3) - stdbuf invocation
+- [`--output-delimiter`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002d_002doutput_002ddelimiter) - cut invocation
+- [`--output-duplicates`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002d_002doutput_002dduplicates) - od invocation
+- [`--output-error`](https://www.gnu.org/software/coreutils/manual/html_node/tee-invocation.html#index-_002d_002doutput_002derror) - tee invocation
+- [`--output-tabs`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002doutput_002dtabs) - pr invocation
+- [`--owner`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002downer) - install invocation
+- [`--padding`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dpadding) - numfmt invocation
+- [`--page_width`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dpage_005fwidth) - pr invocation
+- [`--pages=page_range`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dpages_003dpage_005frange) - pr invocation
+- [`--parallel`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dparallel) - sort invocation
+- [`--parents`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dparents) - cp invocation
+- [`--parents`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html#index-_002d_002dparents-1) - mkdir invocation
+- [`--parents`](https://www.gnu.org/software/coreutils/manual/html_node/rmdir-invocation.html#index-_002d_002dparents-2) - rmdir invocation
+- [`--physical`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dphysical) - ln invocation
+- [`--physical`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002d_002dphysical-1) - realpath invocation
+- [`--physical`](https://www.gnu.org/software/coreutils/manual/html_node/pwd-invocation.html#index-_002d_002dphysical-2) - pwd invocation
+- [`--pid`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dpid) - tail invocation
+- [`--portability`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dportability) - df invocation
+- [`--portability`](https://www.gnu.org/software/coreutils/manual/html_node/pathchk-invocation.html#index-_002d_002dportability-1) - pathchk invocation
+- [`--prefix`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002d_002dprefix) - csplit invocation
+- [`--preserve`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dpreserve) - cp invocation
+- [`--preserve-context`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dpreserve_002dcontext) - install invocation
+- [`--preserve-root`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002d_002dpreserve_002droot) - rm invocation
+- [`--preserve-root`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002dpreserve_002droot-1) - chown invocation
+- [`--preserve-root`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002dpreserve_002droot-2) - chgrp invocation
+- [`--preserve-root`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002d_002dpreserve_002droot-3) - chmod invocation
+- [`--preserve-root`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002dpreserve_002droot-4) - chcon invocation
+- [`--preserve-status`](https://www.gnu.org/software/coreutils/manual/html_node/timeout-invocation.html#index-_002d_002dpreserve_002dstatus) - timeout invocation
+- [`--preserve-timestamps`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dpreserve_002dtimestamps) - install invocation
+- [`--print-database`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-_002d_002dprint_002ddatabase) - dircolors invocation
+- [`--print-ls-colors`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-_002d_002dprint_002dls_002dcolors) - dircolors invocation
+- [`--print-type`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dprint_002dtype) - df invocation
+- [`--printf=format`](https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html#index-_002d_002dprintf_003dformat) - stat invocation
+- [`--process`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dprocess) - who invocation
+- [`--processor`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002d_002dprocessor) - uname invocation
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002d_002dquiet) - head invocation
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dquiet-1) - tail invocation
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002d_002dquiet-2) - csplit invocation
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002d_002dquiet-3) - cksum common options
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002d_002dquiet-4) - readlink invocation
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002dquiet-5) - chown invocation
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002dquiet-6) - chgrp invocation
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002d_002dquiet-7) - chmod invocation
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-_002d_002dquiet-8) - mktemp invocation
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002d_002dquiet-9) - realpath invocation
+- [`--quiet`](https://www.gnu.org/software/coreutils/manual/html_node/tty-invocation.html#index-_002d_002dquiet-10) - tty invocation
+- [`--quote-name`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002d_002dquote_002dname) - Formatting the file names
+- [`--quoting-style`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002d_002dquoting_002dstyle) - Formatting the file names
+- [`--quoting-style`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002d_002dquoting_002dstyle-1) - Formatting the file names
+- [`--quoting-style`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002d_002dquoting_002dstyle-2) - Formatting the file names
+- [`--quoting-style`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002d_002dquoting_002dstyle-3) - Formatting the file names
+- [`--random-sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002drandom_002dsort) - sort invocation
+- [`--random-source`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002drandom_002dsource) - sort invocation
+- [`--random-source`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002d_002drandom_002dsource-1) - shuf invocation
+- [`--random-source`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002drandom_002dsource-2) - shred invocation
+- [`--range`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002drange) - chcon invocation
+- [`--range`](https://www.gnu.org/software/coreutils/manual/html_node/runcon-invocation.html#index-_002d_002drange-1) - runcon invocation
+- [`--raw`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-general-options.html#index-_002d_002draw) - cksum general options
+- [`--read-bytes`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002d_002dread_002dbytes) - od invocation
+- [`--real`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002d_002dreal) - id invocation
+- [`--recursive`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002d_002drecursive) - Which files are listed
+- [`--recursive`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002drecursive-1) - cp invocation
+- [`--recursive`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002d_002drecursive-2) - rm invocation
+- [`--recursive`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002drecursive-3) - chown invocation
+- [`--recursive`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002drecursive-4) - chgrp invocation
+- [`--recursive`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002d_002drecursive-5) - chmod invocation
+- [`--recursive`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002drecursive-6) - chcon invocation
+- [`--reference`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002dreference) - chown invocation
+- [`--reference`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002dreference-1) - chgrp invocation
+- [`--reference`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002d_002dreference-2) - chmod invocation
+- [`--reference`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002d_002dreference-3) - touch invocation
+- [`--reference`](https://www.gnu.org/software/coreutils/manual/html_node/truncate-invocation.html#index-_002d_002dreference-4) - truncate invocation
+- [`--reference`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002dreference-5) - Options for date
+- [`--reference`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002dreference-6) - chcon invocation
+- [`--references`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002d_002dreferences) - Input processing in ptx
+- [`--reflink[=when]`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dreflink_005b_003dwhen_005d) - cp invocation
+- [`--regex`](https://www.gnu.org/software/coreutils/manual/html_node/tac-invocation.html#index-_002d_002dregex) - tac invocation
+- [`--relative`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002drelative) - ln invocation
+- [`--relative-base`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002d_002drelative_002dbase) - realpath invocation
+- [`--relative-base`](https://www.gnu.org/software/coreutils/manual/html_node/Realpath-usage-examples.html#index-_002d_002drelative_002dbase-1) - Realpath usage examples
+- [`--relative-to`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002d_002drelative_002dto) - realpath invocation
+- [`--relative-to`](https://www.gnu.org/software/coreutils/manual/html_node/Realpath-usage-examples.html#index-_002d_002drelative_002dto-1) - Realpath usage examples
+- [`--remove`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002dremove) - shred invocation
+- [`--remove-destination`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dremove_002ddestination) - cp invocation
+- [`--remove=unlink`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002dremove_003dunlink) - shred invocation
+- [`--remove=wipe`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002dremove_003dwipe) - shred invocation
+- [`--remove=wipesync`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002dremove_003dwipesync) - shred invocation
+- [`--repeat`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002d_002drepeat) - shuf invocation
+- [`--repeated`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002d_002drepeated) - uniq invocation
+- [`--resolution`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002dresolution) - Options for date
+- [`--retry`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dretry) - tail invocation
+- [`--reverse`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dreverse) - sort invocation
+- [`--reverse`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dreverse-1) - Sorting the output
+- [`--rfc-2822`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002drfc_002d2822) - Options for date
+- [`--rfc-3339=timespec`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002drfc_002d3339_003dtimespec) - Options for date
+- [`--rfc-822`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002drfc_002d822) - Options for date
+- [`--rfc-email`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002drfc_002demail) - Options for date
+- [`--right-side-refs`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002d_002dright_002dside_002drefs) - Output formatting in ptx
+- [`--role`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002drole) - chcon invocation
+- [`--role`](https://www.gnu.org/software/coreutils/manual/html_node/runcon-invocation.html#index-_002d_002drole-1) - runcon invocation
+- [`--round`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dround) - numfmt invocation
+- [`--round=down`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dround_003ddown) - numfmt invocation
+- [`--round=from-zero`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dround_003dfrom_002dzero) - numfmt invocation
+- [`--round=nearest`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dround_003dnearest) - numfmt invocation
+- [`--round=towards-zero`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dround_003dtowards_002dzero) - numfmt invocation
+- [`--round=up`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dround_003dup) - numfmt invocation
+- [`--runlevel`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002drunlevel) - who invocation
+- [`--save`](https://www.gnu.org/software/coreutils/manual/html_node/stty-invocation.html#index-_002d_002dsave) - stty invocation
+- [`--section-delimiter`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002dsection_002ddelimiter) - nl invocation
+- [`--sentence-regexp`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002d_002dsentence_002dregexp) - Input processing in ptx
+- [`--sep-string`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dsep_002dstring) - pr invocation
+- [`--separate-dirs`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dseparate_002ddirs) - du invocation
+- [`--separator`](https://www.gnu.org/software/coreutils/manual/html_node/tac-invocation.html#index-_002d_002dseparator) - tac invocation
+- [`--separator`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dseparator-1) - pr invocation
+- [`--separator`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dseparator-2) - split invocation
+- [`--separator`](https://www.gnu.org/software/coreutils/manual/html_node/seq-invocation.html#index-_002d_002dseparator-3) - seq invocation
+- [`--serial`](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#index-_002d_002dserial) - paste invocation
+- [`--set`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002dset) - Options for date
+- [`--sh`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-_002d_002dsh) - dircolors invocation
+- [`--show-all`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002d_002dshow_002dall) - cat invocation
+- [`--show-control-chars`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dshow_002dcontrol_002dchars) - pr invocation
+- [`--show-control-chars`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002d_002dshow_002dcontrol_002dchars-1) - Formatting the file names
+- [`--show-ends`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002d_002dshow_002dends) - cat invocation
+- [`--show-nonprinting`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002d_002dshow_002dnonprinting) - cat invocation
+- [`--show-nonprinting`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dshow_002dnonprinting-1) - pr invocation
+- [`--show-tabs`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002d_002dshow_002dtabs) - cat invocation
+- [`--si`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-_002d_002dsi) - Block size
+- [`--si`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002dsi-1) - What information is listed
+- [`--si`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dsi-2) - df invocation
+- [`--si`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dsi-3) - du invocation
+- [`--signal`](https://www.gnu.org/software/coreutils/manual/html_node/timeout-invocation.html#index-_002d_002dsignal) - timeout invocation
+- [`--silent`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002d_002dsilent) - head invocation
+- [`--silent`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dsilent-1) - tail invocation
+- [`--silent`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002d_002dsilent-2) - csplit invocation
+- [`--silent`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002d_002dsilent-3) - readlink invocation
+- [`--silent`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002dsilent-4) - chown invocation
+- [`--silent`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002dsilent-5) - chgrp invocation
+- [`--silent`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002d_002dsilent-6) - chmod invocation
+- [`--silent`](https://www.gnu.org/software/coreutils/manual/html_node/tty-invocation.html#index-_002d_002dsilent-7) - tty invocation
+- [`--size`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002d_002dsize) - What information is listed
+- [`--size`](https://www.gnu.org/software/coreutils/manual/html_node/truncate-invocation.html#index-_002d_002dsize-1) - truncate invocation
+- [`--size=bytes`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002dsize_003dbytes) - shred invocation
+- [`--skip-bytes`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002d_002dskip_002dbytes) - od invocation
+- [`--skip-chars`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002d_002dskip_002dchars) - uniq invocation
+- [`--skip-chdir`](https://www.gnu.org/software/coreutils/manual/html_node/chroot-invocation.html#index-_002d_002dskip_002dchdir) - chroot invocation
+- [`--skip-fields`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002d_002dskip_002dfields) - uniq invocation
+- [`--sleep-interval`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dsleep_002dinterval) - tail invocation
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dsort) - sort invocation
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dsort-1) - sort invocation
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dsort-2) - sort invocation
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dsort-3) - sort invocation
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dsort-4) - sort invocation
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dsort-5) - Sorting the output
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dsort-6) - Sorting the output
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dsort-7) - Sorting the output
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dsort-8) - Sorting the output
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dsort-9) - Sorting the output
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dsort-10) - Sorting the output
+- [`--sort`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dsort-11) - Sorting the output
+- [`--spaces`](https://www.gnu.org/software/coreutils/manual/html_node/fold-invocation.html#index-_002d_002dspaces) - fold invocation
+- [`--sparse=when`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dsparse_003dwhen) - cp invocation
+- [`--split-only`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002d_002dsplit_002donly) - fmt invocation
+- [`--split-string`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002d_002dsplit_002dstring) - env invocation
+- [`--squeeze-blank`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002d_002dsqueeze_002dblank) - cat invocation
+- [`--squeeze-repeats`](https://www.gnu.org/software/coreutils/manual/html_node/tr-invocation.html#index-_002d_002dsqueeze_002drepeats) - tr invocation
+- [`--stable`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dstable) - sort invocation
+- [`--starting-line-number`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002d_002dstarting_002dline_002dnumber) - nl invocation
+- [`--status`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002d_002dstatus) - cksum common options
+- [`--strict`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002d_002dstrict) - cksum common options
+- [`--strings`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002d_002dstrings) - od invocation
+- [`--strip`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dstrip) - install invocation
+- [`--strip`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002d_002dstrip-1) - realpath invocation
+- [`--strip-program`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dstrip_002dprogram) - install invocation
+- [`--strip-trailing-slashes`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dstrip_002dtrailing_002dslashes) - cp invocation
+- [`--strip-trailing-slashes`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dstrip_002dtrailing_002dslashes-1) - mv invocation
+- [`--suffix`](https://www.gnu.org/software/coreutils/manual/html_node/Backup-options.html#index-_002d_002dsuffix) - Backup options
+- [`--suffix`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dsuffix-1) - cp invocation
+- [`--suffix`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dsuffix-2) - install invocation
+- [`--suffix`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dsuffix-3) - mv invocation
+- [`--suffix`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dsuffix-4) - ln invocation
+- [`--suffix`](https://www.gnu.org/software/coreutils/manual/html_node/basename-invocation.html#index-_002d_002dsuffix-5) - basename invocation
+- [`--suffix`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-_002d_002dsuffix-6) - mktemp invocation
+- [`--suffix`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dsuffix-7) - numfmt invocation
+- [`--suffix-format`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002d_002dsuffix_002dformat) - csplit invocation
+- [`--suffix-length`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dsuffix_002dlength) - split invocation
+- [`--summarize`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dsummarize) - du invocation
+- [`--suppress-matched`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002d_002dsuppress_002dmatched) - csplit invocation
+- [`--symbolic`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dsymbolic) - ln invocation
+- [`--symbolic-link`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dsymbolic_002dlink) - cp invocation
+- [`--sync`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dsync) - df invocation
+- [`--sysv`](https://www.gnu.org/software/coreutils/manual/html_node/sum-invocation.html#index-_002d_002dsysv) - sum invocation
+- [`--tabs`](https://www.gnu.org/software/coreutils/manual/html_node/expand-invocation.html#index-_002d_002dtabs) - expand invocation
+- [`--tabs`](https://www.gnu.org/software/coreutils/manual/html_node/unexpand-invocation.html#index-_002d_002dtabs-1) - unexpand invocation
+- [`--tabsize`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dtabsize) - General output formatting
+- [`--tag`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002d_002dtag) - cksum common options
+- [`--tagged-paragraph`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002d_002dtagged_002dparagraph) - fmt invocation
+- [`--target-directory`](https://www.gnu.org/software/coreutils/manual/html_node/Target-directory.html#index-_002d_002dtarget_002ddirectory) - Target directory
+- [`--target-directory`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dtarget_002ddirectory-1) - cp invocation
+- [`--target-directory`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dtarget_002ddirectory-2) - install invocation
+- [`--target-directory`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dtarget_002ddirectory-3) - mv invocation
+- [`--target-directory`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dtarget_002ddirectory-4) - ln invocation
+- [`--temporary-directory`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dtemporary_002ddirectory) - sort invocation
+- [`--terse`](https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html#index-_002d_002dterse) - stat invocation
+- [`--text`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002d_002dtext) - cksum common options
+- [`--threshold`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dthreshold) - du invocation
+- [`--time`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dtime) - Sorting the output
+- [`--time`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dtime-1) - Sorting the output
+- [`--time`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dtime-2) - Sorting the output
+- [`--time`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002d_002dtime-3) - Sorting the output
+- [`--time`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002d_002dtime-4) - touch invocation
+- [`--time`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002d_002dtime-5) - touch invocation
+- [`--time`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dtime-6) - du invocation
+- [`--time`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dtime-7) - du invocation
+- [`--time`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dtime-8) - du invocation
+- [`--time`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dtime-9) - who invocation
+- [`--time-style`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-file-timestamps.html#index-_002d_002dtime_002dstyle) - Formatting file timestamps
+- [`--time-style`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dtime_002dstyle-1) - du invocation
+- [`--tmpdir`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-_002d_002dtmpdir) - mktemp invocation
+- [`--to`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dto) - numfmt invocation
+- [`--to-unit`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dto_002dunit) - numfmt invocation
+- [`--total`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dtotal) - df invocation
+- [`--total`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d_002dtotal-1) - du invocation
+- [`--total=when`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002d_002dtotal_003dwhen) - wc invocation
+- [`--traditional`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002d_002dtraditional) - od invocation
+- [`--truncate-set1`](https://www.gnu.org/software/coreutils/manual/html_node/tr-invocation.html#index-_002d_002dtruncate_002dset1) - tr invocation
+- [`--type`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002d_002dtype) - df invocation
+- [`--type`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002dtype-1) - chcon invocation
+- [`--type`](https://www.gnu.org/software/coreutils/manual/html_node/runcon-invocation.html#index-_002d_002dtype-2) - runcon invocation
+- [`--unbuffered`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dunbuffered) - split invocation
+- [`--uniform-spacing`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002d_002duniform_002dspacing) - fmt invocation
+- [`--unique`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dunique) - sort invocation
+- [`--unique`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002d_002dunique-1) - uniq invocation
+- [`--universal`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002duniversal) - Options for date
+- [`--unset`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002d_002dunset) - env invocation
+- [`--untagged`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-general-options.html#index-_002d_002duntagged) - cksum general options
+- [`--update`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dupdate) - mv invocation
+- [`--update[=which]`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dupdate_005b_003dwhich_005d) - cp invocation
+- [`--user`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002d_002duser) - id invocation
+- [`--user`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002duser-1) - chcon invocation
+- [`--user`](https://www.gnu.org/software/coreutils/manual/html_node/runcon-invocation.html#index-_002d_002duser-2) - runcon invocation
+- [`--userspec`](https://www.gnu.org/software/coreutils/manual/html_node/chroot-invocation.html#index-_002d_002duserspec) - chroot invocation
+- [`--utc`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002d_002dutc) - Options for date
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002d_002dverbose) - head invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dverbose-1) - tail invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002d_002dverbose-2) - split invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002d_002dverbose-3) - cp invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002d_002dverbose-4) - install invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002d_002dverbose-5) - mv invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002d_002dverbose-6) - rm invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002dverbose-7) - shred invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002d_002dverbose-8) - ln invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html#index-_002d_002dverbose-9) - mkdir invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002d_002dverbose-10) - readlink invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/rmdir-invocation.html#index-_002d_002dverbose-11) - rmdir invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002d_002dverbose-12) - chown invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002d_002dverbose-13) - chgrp invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002d_002dverbose-14) - chmod invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002d_002dverbose-15) - chcon invocation
+- [`--verbose`](https://www.gnu.org/software/coreutils/manual/html_node/timeout-invocation.html#index-_002d_002dverbose-16) - timeout invocation
+- [`--version`](https://www.gnu.org/software/coreutils/manual/html_node/Common-options.html#index-_002d_002dversion) - Common options
+- [`--version-sort`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dversion_002dsort) - sort invocation
+- [`--warn`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002d_002dwarn) - cksum common options
+- [`--width`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002d_002dwidth) - od invocation
+- [`--width`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002d_002dwidth-1) - fmt invocation
+- [`--width`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002d_002dwidth-2) - pr invocation
+- [`--width`](https://www.gnu.org/software/coreutils/manual/html_node/fold-invocation.html#index-_002d_002dwidth-3) - fold invocation
+- [`--width`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002d_002dwidth-4) - Output formatting in ptx
+- [`--width`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dwidth-5) - General output formatting
+- [`--word-regexp`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002d_002dword_002dregexp) - Input processing in ptx
+- [`--words`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002d_002dwords) - wc invocation
+- [`--wrap`](https://www.gnu.org/software/coreutils/manual/html_node/base64-invocation.html#index-_002d_002dwrap) - base64 invocation
+- [`--writable`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002d_002dwritable) - who invocation
+- [`--z85`](https://www.gnu.org/software/coreutils/manual/html_node/basenc-invocation.html#index-_002d_002dz85) - basenc invocation
+- [`--zero`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002d_002dzero) - cksum common options
+- [`--zero`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d_002dzero-1) - General output formatting
+- [`--zero`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002d_002dzero-2) - shred invocation
+- [`--zero`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002d_002dzero-3) - readlink invocation
+- [`--zero`](https://www.gnu.org/software/coreutils/manual/html_node/basename-invocation.html#index-_002d_002dzero-4) - basename invocation
+- [`--zero`](https://www.gnu.org/software/coreutils/manual/html_node/dirname-invocation.html#index-_002d_002dzero-5) - dirname invocation
+- [`--zero`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002d_002dzero-6) - realpath invocation
+- [`--zero`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002d_002dzero-7) - id invocation
+- [`--zero-terminated`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002d_002dzero_002dterminated) - head invocation
+- [`--zero-terminated`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002d_002dzero_002dterminated-1) - tail invocation
+- [`--zero-terminated`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002d_002dzero_002dterminated-2) - sort invocation
+- [`--zero-terminated`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002d_002dzero_002dterminated-3) - shuf invocation
+- [`--zero-terminated`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002d_002dzero_002dterminated-4) - uniq invocation
+- [`--zero-terminated`](https://www.gnu.org/software/coreutils/manual/html_node/comm-invocation.html#index-_002d_002dzero_002dterminated-5) - comm invocation
+- [`--zero-terminated`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002d_002dzero_002dterminated-6) - cut invocation
+- [`--zero-terminated`](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#index-_002d_002dzero_002dterminated-7) - paste invocation
+- [`--zero-terminated`](https://www.gnu.org/software/coreutils/manual/html_node/General-options-in-join.html#index-_002d_002dzero_002dterminated-8) - General options in join
+- [`--zero-terminated`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002d_002dzero_002dterminated-9) - numfmt invocation
+- [`-0`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002d0) - du invocation
+- [`-0`](https://www.gnu.org/software/coreutils/manual/html_node/printenv-invocation.html#index-_002d0-1) - printenv invocation
+- [`-0`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002d0-2) - env invocation
+- [`-1`](https://www.gnu.org/software/coreutils/manual/html_node/comm-invocation.html#index-_002d1) - comm invocation
+- [`-1`](https://www.gnu.org/software/coreutils/manual/html_node/General-options-in-join.html#index-_002d1-1) - General options in join
+- [`-1`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002d1-2) - General output formatting
+- [`-2`](https://www.gnu.org/software/coreutils/manual/html_node/comm-invocation.html#index-_002d2) - comm invocation
+- [`-2`](https://www.gnu.org/software/coreutils/manual/html_node/General-options-in-join.html#index-_002d2-1) - General options in join
+- [`-3`](https://www.gnu.org/software/coreutils/manual/html_node/comm-invocation.html#index-_002d3) - comm invocation
+- [`-A`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002dA) - cat invocation
+- [`-A`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dA-1) - od invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002da) - od invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002da-1) - pr invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002da-2) - split invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-general-options.html#index-_002da-3) - cksum general options
+- [`-A`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002dA-2) - Output formatting in ptx
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/General-options-in-join.html#index-_002da-4) - General options in join
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/unexpand-invocation.html#index-_002da-5) - unexpand invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002da-6) - Which files are listed
+- [`-A`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002dA-3) - Which files are listed
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002da-7) - cp invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002da-8) - touch invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002da-9) - df invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002da-10) - du invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/Connectives-for-test.html#index-_002da-11) - Connectives for test
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/tee-invocation.html#index-_002da-12) - tee invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/basename-invocation.html#index-_002da-13) - basename invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/stty-invocation.html#index-_002da-14) - stty invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002da-15) - who invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002da-16) - uname invocation
+- [`-a`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002da-17) - env invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/Backup-options.html#index-_002db) - Backup options
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002db-1) - cat invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/tac-invocation.html#index-_002db-2) - tac invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002db-3) - nl invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002db-4) - od invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/fold-invocation.html#index-_002db-5) - fold invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002db-6) - split invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002db-7) - csplit invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002db-8) - cksum common options
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002db-9) - sort invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002db-10) - Input processing in ptx
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002db-11) - cut invocation
+- [`-B`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002dB) - Which files are listed
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002db-12) - Formatting the file names
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-_002db-13) - dircolors invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002db-14) - cp invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002db-15) - install invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002db-16) - mv invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002db-17) - ln invocation
+- [`-B`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002dB-1) - df invocation
+- [`-B`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dB-2) - du invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002db-18) - du invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/File-type-tests.html#index-_002db-19) - File type tests
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002db-20) - who invocation
+- [`-b`](https://www.gnu.org/software/coreutils/manual/html_node/pinky-invocation.html#index-_002db-21) - pinky invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dc) - od invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002dc-1) - fmt invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dc-2) - pr invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002dc-3) - head invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002dc-4) - tail invocation
+- [`-C`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002dC) - split invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002dc-5) - wc invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dc-6) - sort invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dc-7) - sort invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002dc-8) - shuf invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002dc-9) - uniq invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002dc-10) - cut invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/tr-invocation.html#index-_002dc-11) - tr invocation
+- [`-C`](https://www.gnu.org/software/coreutils/manual/html_node/tr-invocation.html#index-_002dC-1) - tr invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002dc-12) - Sorting the output
+- [`-C`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002dC-2) - General output formatting
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-_002dc-13) - dircolors invocation
+- [`-C`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dC-3) - install invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dc-14) - install invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002dc-15) - chown invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002dc-16) - chgrp invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002dc-17) - chmod invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002dc-18) - touch invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dc-19) - du invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html#index-_002dc-20) - stat invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/truncate-invocation.html#index-_002dc-21) - truncate invocation
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/File-type-tests.html#index-_002dc-22) - File type tests
+- [`-c`](https://www.gnu.org/software/coreutils/manual/html_node/runcon-invocation.html#index-_002dc-23) - runcon invocation
+- [`-C`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002dC-4) - env invocation
+- [`-column`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dcolumn) - pr invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002dd) - nl invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dd-1) - od invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/base64-invocation.html#index-_002dd-2) - base64 invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dd-3) - pr invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002dd-4) - split invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dd-5) - sort invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002dd-6) - uniq invocation
+- [`-D`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002dD) - uniq invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002dd-7) - cut invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#index-_002dd-8) - paste invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/tr-invocation.html#index-_002dd-9) - tr invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002dd-10) - Which files are listed
+- [`-D`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002dD-1) - What information is listed
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dd-11) - cp invocation
+- [`-D`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dD-2) - install invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dd-12) - install invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002dd-13) - rm invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002dd-14) - ln invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002dd-15) - touch invocation
+- [`-D`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dD-3) - du invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/File-type-tests.html#index-_002dd-16) - File type tests
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-_002dd-17) - mktemp invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002dd-18) - who invocation
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002dd-19) - Options for date
+- [`-d`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002dd-20) - numfmt invocation
+- [`-d depth`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dd-depth) - du invocation
+- [`-e`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002de) - cat invocation
+- [`-E`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002dE) - cat invocation
+- [`-e`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002de-1) - pr invocation
+- [`-e`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002de-2) - split invocation
+- [`-e`](https://www.gnu.org/software/coreutils/manual/html_node/General-options-in-join.html#index-_002de-3) - General options in join
+- [`-e`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002de-4) - readlink invocation
+- [`-e`](https://www.gnu.org/software/coreutils/manual/html_node/echo-invocation.html#index-_002de-5) - echo invocation
+- [`-E`](https://www.gnu.org/software/coreutils/manual/html_node/echo-invocation.html#index-_002dE-1) - echo invocation
+- [`-e`](https://www.gnu.org/software/coreutils/manual/html_node/File-characteristic-tests.html#index-_002de-6) - File characteristic tests
+- [`-e`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002de-7) - realpath invocation
+- [`-e`](https://www.gnu.org/software/coreutils/manual/html_node/stdbuf-invocation.html#index-_002de-8) - stdbuf invocation
+- [`-ef`](https://www.gnu.org/software/coreutils/manual/html_node/File-characteristic-tests.html#index-_002def) - File characteristic tests
+- [`-eq`](https://www.gnu.org/software/coreutils/manual/html_node/Numeric-tests.html#index-_002deq) - Numeric tests
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002df) - nl invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002df-1) - od invocation
+- [`-F`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dF) - pr invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002df-2) - pr invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002df-3) - tail invocation
+- [`-F`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002dF-1) - tail invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002df-4) - csplit invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002df-5) - sort invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002df-6) - uniq invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/Charset-selection-in-ptx.html#index-_002df-7) - Charset selection in ptx
+- [`-F`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002dF-2) - Output formatting in ptx
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002df-8) - cut invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002df-9) - Sorting the output
+- [`-F`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002dF-3) - General output formatting
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002df-10) - cp invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002df-11) - mv invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002df-12) - rm invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002df-13) - shred invocation
+- [`-F`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002dF-4) - ln invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002df-14) - ln invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002df-15) - readlink invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002df-16) - chown invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002df-17) - chgrp invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002df-18) - chmod invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002df-19) - touch invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html#index-_002df-20) - stat invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/File-type-tests.html#index-_002df-21) - File type tests
+- [`-F`](https://www.gnu.org/software/coreutils/manual/html_node/stty-invocation.html#index-_002dF-5) - stty invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/pinky-invocation.html#index-_002df-22) - pinky invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002df-23) - Options for date
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/timeout-invocation.html#index-_002df-24) - timeout invocation
+- [`-f`](https://www.gnu.org/software/coreutils/manual/html_node/seq-invocation.html#index-_002df-25) - seq invocation
+- [`-g`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002dg) - fmt invocation
+- [`-g`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dg-1) - sort invocation
+- [`-g`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002dg-2) - Output formatting in ptx
+- [`-g`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002dg-3) - What information is listed
+- [`-G`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002dG) - What information is listed
+- [`-g`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dg-4) - install invocation
+- [`-g`](https://www.gnu.org/software/coreutils/manual/html_node/Access-permission-tests.html#index-_002dg-5) - Access permission tests
+- [`-G`](https://www.gnu.org/software/coreutils/manual/html_node/Access-permission-tests.html#index-_002dG-1) - Access permission tests
+- [`-g`](https://www.gnu.org/software/coreutils/manual/html_node/stty-invocation.html#index-_002dg-6) - stty invocation
+- [`-g`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002dg-7) - id invocation
+- [`-G`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002dG-2) - id invocation
+- [`-ge`](https://www.gnu.org/software/coreutils/manual/html_node/Numeric-tests.html#index-_002dge) - Numeric tests
+- [`-gt`](https://www.gnu.org/software/coreutils/manual/html_node/Numeric-tests.html#index-_002dgt) - Numeric tests
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-_002dh) - Block size
+- [`-H`](https://www.gnu.org/software/coreutils/manual/html_node/Traversing-symlinks.html#index-_002dH) - Traversing symlinks
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002dh-1) - nl invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dh-2) - pr invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dh-3) - sort invocation
+- [`-H`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002dH-1) - Which files are listed
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002dh-4) - What information is listed
+- [`-H`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dH-2) - cp invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002dh-5) - chown invocation
+- [`-H`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002dH-3) - chown invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002dh-6) - chgrp invocation
+- [`-H`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002dH-4) - chgrp invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002dh-7) - chmod invocation
+- [`-H`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002dH-5) - chmod invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002dh-8) - touch invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002dh-9) - df invocation
+- [`-H`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002dH-6) - df invocation
+- [`-H`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dH-7) - du invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dh-10) - du invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/File-type-tests.html#index-_002dh-11) - File type tests
+- [`-H`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002dH-8) - who invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/pinky-invocation.html#index-_002dh-12) - pinky invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002dh-13) - chcon invocation
+- [`-H`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002dH-9) - chcon invocation
+- [`-h`](https://www.gnu.org/software/coreutils/manual/html_node/factor-invocation.html#index-_002dh-14) - factor invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002di) - nl invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002di-1) - od invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/base64-invocation.html#index-_002di-2) - base64 invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002di-3) - pr invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002di-4) - sort invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002di-5) - shuf invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002di-6) - uniq invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002di-7) - Input processing in ptx
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/General-options-in-join.html#index-_002di-8) - General options in join
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/expand-invocation.html#index-_002di-9) - expand invocation
+- [`-I`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002dI) - Which files are listed
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002di-10) - What information is listed
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002di-11) - cp invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002di-12) - mv invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002di-13) - rm invocation
+- [`-I`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002dI-1) - rm invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002di-14) - ln invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002di-15) - df invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/tee-invocation.html#index-_002di-16) - tee invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/pinky-invocation.html#index-_002di-17) - pinky invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002di-18) - uname invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002di-19) - env invocation
+- [`-i`](https://www.gnu.org/software/coreutils/manual/html_node/stdbuf-invocation.html#index-_002di-20) - stdbuf invocation
+- [`-I[timespec]`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002dI_005btimespec_005d) - Options for date
+- [`-j`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dj) - od invocation
+- [`-J`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dJ) - pr invocation
+- [`-k`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-_002dk) - Block size
+- [`-k`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002dk-1) - csplit invocation
+- [`-k`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dk-2) - sort invocation
+- [`-k`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002dk-3) - General output formatting
+- [`-k`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002dk-4) - df invocation
+- [`-k`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dk-5) - du invocation
+- [`-k`](https://www.gnu.org/software/coreutils/manual/html_node/Access-permission-tests.html#index-_002dk-6) - Access permission tests
+- [`-k`](https://www.gnu.org/software/coreutils/manual/html_node/timeout-invocation.html#index-_002dk-7) - timeout invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/Traversing-symlinks.html#index-_002dL) - Traversing symlinks
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002dl) - nl invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dl-1) - od invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dl-2) - pr invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002dl-3) - split invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002dl-4) - wc invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002dL-1) - wc invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-general-options.html#index-_002dl-5) - cksum general options
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/b2sum-invocation.html#index-_002dl-6) - b2sum invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002dL-2) - Which files are listed
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002dl-7) - What information is listed
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dl-8) - cp invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dL-3) - cp invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002dL-4) - ln invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002dL-5) - chown invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002dL-6) - chgrp invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002dL-7) - chmod invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002dl-9) - df invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dL-8) - du invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dl-10) - du invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html#index-_002dL-9) - stat invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/File-type-tests.html#index-_002dL-10) - File type tests
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002dL-11) - realpath invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/pwd-invocation.html#index-_002dL-12) - pwd invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002dl-11) - who invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/pinky-invocation.html#index-_002dl-12) - pinky invocation
+- [`-L`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002dL-13) - chcon invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002dl-13) - chcon invocation
+- [`-l`](https://www.gnu.org/software/coreutils/manual/html_node/runcon-invocation.html#index-_002dl-14) - runcon invocation
+- [`-le`](https://www.gnu.org/software/coreutils/manual/html_node/Numeric-tests.html#index-_002dle) - Numeric tests
+- [`-lt`](https://www.gnu.org/software/coreutils/manual/html_node/Numeric-tests.html#index-_002dlt) - Numeric tests
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dm) - pr invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002dm-1) - wc invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dm-2) - sort invocation
+- [`-M`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dM) - sort invocation
+- [`-M`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002dM-1) - Output formatting in ptx
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002dm-3) - General output formatting
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dm-4) - install invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html#index-_002dm-5) - mkdir invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/mkfifo-invocation.html#index-_002dm-6) - mkfifo invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/mknod-invocation.html#index-_002dm-7) - mknod invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002dm-8) - readlink invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002dm-9) - touch invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dm-10) - du invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002dm-11) - realpath invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002dm-12) - who invocation
+- [`-m`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002dm-13) - uname invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002dn) - cat invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002dn-1) - nl invocation
+- [`-N`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dN) - od invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dn-2) - pr invocation
+- [`-N`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dN-1) - pr invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002dn-3) - head invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002dn-4) - tail invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002dn-5) - split invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002dn-6) - csplit invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dn-7) - sort invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002dn-8) - shuf invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002dn-9) - cut invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002dn-10) - What information is listed
+- [`-N`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002dN-2) - Formatting the file names
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dn-11) - cp invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002dn-12) - mv invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002dn-13) - ln invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002dn-14) - readlink invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/echo-invocation.html#index-_002dn-15) - echo invocation
+- [`-N`](https://www.gnu.org/software/coreutils/manual/html_node/File-characteristic-tests.html#index-_002dN-3) - File characteristic tests
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/String-tests.html#index-_002dn-16) - String tests
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002dn-17) - id invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002dn-18) - uname invocation
+- [`-n`](https://www.gnu.org/software/coreutils/manual/html_node/nice-invocation.html#index-_002dn-19) - nice invocation
+- [`-n number`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002dn-number) - shred invocation
+- [`-ne`](https://www.gnu.org/software/coreutils/manual/html_node/Numeric-tests.html#index-_002dne) - Numeric tests
+- [`-nt`](https://www.gnu.org/software/coreutils/manual/html_node/File-characteristic-tests.html#index-_002dnt) - File characteristic tests
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002do) - od invocation
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002do-1) - pr invocation
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002do-2) - sort invocation
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002do-3) - shuf invocation
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002do-4) - Input processing in ptx
+- [`-O`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002dO) - Output formatting in ptx
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002do-5) - What information is listed
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002do-6) - install invocation
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/truncate-invocation.html#index-_002do-7) - truncate invocation
+- [`-O`](https://www.gnu.org/software/coreutils/manual/html_node/Access-permission-tests.html#index-_002dO-1) - Access permission tests
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/Connectives-for-test.html#index-_002do-8) - Connectives for test
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002do-9) - uname invocation
+- [`-o`](https://www.gnu.org/software/coreutils/manual/html_node/stdbuf-invocation.html#index-_002do-10) - stdbuf invocation
+- [`-ot`](https://www.gnu.org/software/coreutils/manual/html_node/File-characteristic-tests.html#index-_002dot) - File characteristic tests
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/Traversing-symlinks.html#index-_002dP) - Traversing symlinks
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002dp) - nl invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002dp-1) - General output formatting
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-_002dp-2) - dircolors invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dP-1) - cp invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dp-3) - cp invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dp-4) - install invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002dP-2) - ln invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html#index-_002dp-5) - mkdir invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/rmdir-invocation.html#index-_002dp-6) - rmdir invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002dP-3) - chown invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002dP-4) - chgrp invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002dP-5) - chmod invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002dP-6) - df invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dP-7) - du invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/File-type-tests.html#index-_002dp-7) - File type tests
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/tee-invocation.html#index-_002dp-8) - tee invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/pathchk-invocation.html#index-_002dp-9) - pathchk invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/pathchk-invocation.html#index-_002dP-8) - pathchk invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-_002dp-10) - mktemp invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002dP-9) - realpath invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/pwd-invocation.html#index-_002dP-10) - pwd invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002dp-11) - who invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/pinky-invocation.html#index-_002dp-12) - pinky invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002dp-13) - uname invocation
+- [`-P`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002dP-11) - chcon invocation
+- [`-p`](https://www.gnu.org/software/coreutils/manual/html_node/timeout-invocation.html#index-_002dp-14) - timeout invocation
+- [`-q`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002dq) - head invocation
+- [`-q`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002dq-1) - tail invocation
+- [`-q`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002dq-2) - csplit invocation
+- [`-q`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002dq-3) - Formatting the file names
+- [`-Q`](https://www.gnu.org/software/coreutils/manual/html_node/Formatting-the-file-names.html#index-_002dQ) - Formatting the file names
+- [`-q`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002dq-4) - readlink invocation
+- [`-q`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-_002dq-5) - mktemp invocation
+- [`-q`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002dq-6) - realpath invocation
+- [`-q`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002dq-7) - who invocation
+- [`-q`](https://www.gnu.org/software/coreutils/manual/html_node/pinky-invocation.html#index-_002dq-8) - pinky invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/tac-invocation.html#index-_002dr) - tac invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dr-1) - pr invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/sum-invocation.html#index-_002dr-2) - sum invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dr-3) - sort invocation
+- [`-R`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dR) - sort invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002dr-4) - shuf invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002dr-5) - Input processing in ptx
+- [`-R`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002dR-1) - Output formatting in ptx
+- [`-R`](https://www.gnu.org/software/coreutils/manual/html_node/Which-files-are-listed.html#index-_002dR-2) - Which files are listed
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002dr-6) - Sorting the output
+- [`-R`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dR-3) - cp invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dr-7) - cp invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002dr-8) - rm invocation
+- [`-R`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002dR-4) - rm invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002dr-9) - ln invocation
+- [`-R`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002dR-5) - chown invocation
+- [`-R`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002dR-6) - chgrp invocation
+- [`-R`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002dR-7) - chmod invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-_002dr-10) - touch invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/truncate-invocation.html#index-_002dr-11) - truncate invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/Access-permission-tests.html#index-_002dr-12) - Access permission tests
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002dr-13) - id invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002dr-14) - who invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002dr-15) - Options for date
+- [`-R`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002dR-8) - Options for date
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002dr-16) - uname invocation
+- [`-R`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002dR-9) - chcon invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002dr-17) - chcon invocation
+- [`-r`](https://www.gnu.org/software/coreutils/manual/html_node/runcon-invocation.html#index-_002dr-18) - runcon invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/Backup-options.html#index-_002dS) - Backup options
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002ds) - cat invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/tac-invocation.html#index-_002ds-1) - tac invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002ds-2) - nl invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dS-1) - od invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002ds-3) - od invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002ds-4) - fmt invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002ds-5) - pr invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dS-2) - pr invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/fold-invocation.html#index-_002ds-6) - fold invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002ds-7) - tail invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002ds-8) - csplit invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/sum-invocation.html#index-_002ds-9) - sum invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002ds-10) - sort invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dS-3) - sort invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002ds-11) - uniq invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002dS-4) - Input processing in ptx
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002ds-12) - cut invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#index-_002ds-13) - paste invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/tr-invocation.html#index-_002ds-14) - tr invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002ds-15) - What information is listed
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002dS-5) - Sorting the output
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002ds-16) - cp invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dS-6) - cp invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002ds-17) - install invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dS-7) - install invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002dS-8) - mv invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002ds-18) - ln invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002dS-9) - ln invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002ds-19) - readlink invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dS-10) - du invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002ds-20) - du invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/truncate-invocation.html#index-_002ds-21) - truncate invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/File-type-tests.html#index-_002dS-11) - File type tests
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/File-characteristic-tests.html#index-_002ds-22) - File characteristic tests
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/basename-invocation.html#index-_002ds-23) - basename invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002ds-24) - realpath invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/tty-invocation.html#index-_002ds-25) - tty invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002ds-26) - who invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/pinky-invocation.html#index-_002ds-27) - pinky invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002ds-28) - Options for date
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002ds-29) - uname invocation
+- [`-S`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002dS-12) - env invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/timeout-invocation.html#index-_002ds-30) - timeout invocation
+- [`-s`](https://www.gnu.org/software/coreutils/manual/html_node/seq-invocation.html#index-_002ds-31) - seq invocation
+- [`-s bytes`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002ds-bytes) - shred invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002dt) - cat invocation
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002dT) - cat invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dt-1) - od invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002dt-2) - fmt invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dt-3) - pr invocation
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dT-1) - pr invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002dt-4) - split invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002dt-5) - cksum common options
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dt-6) - sort invocation
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dT-2) - sort invocation
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002dT-3) - Output formatting in ptx
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/tr-invocation.html#index-_002dt-7) - tr invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/expand-invocation.html#index-_002dt-8) - expand invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/unexpand-invocation.html#index-_002dt-9) - unexpand invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002dt-10) - Sorting the output
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002dT-4) - General output formatting
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dt-11) - cp invocation
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dT-5) - cp invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dt-12) - install invocation
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dT-6) - install invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002dt-13) - mv invocation
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002dT-7) - mv invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002dt-14) - ln invocation
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002dT-8) - ln invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002dt-15) - df invocation
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002dT-9) - df invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dt-16) - du invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/stat-invocation.html#index-_002dt-17) - stat invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/File-type-tests.html#index-_002dt-18) - File type tests
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-_002dt-19) - mktemp invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002dt-20) - who invocation
+- [`-T`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002dT-10) - who invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002dt-21) - chcon invocation
+- [`-t`](https://www.gnu.org/software/coreutils/manual/html_node/runcon-invocation.html#index-_002dt-22) - runcon invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002du) - cat invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002du-1) - fmt invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002du-2) - split invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002du-3) - sort invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002du-4) - uniq invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002du-5) - Sorting the output
+- [`-U`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002dU) - Sorting the output
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002du-6) - cp invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002du-7) - mv invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002du-8) - shred invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/Access-permission-tests.html#index-_002du-9) - Access permission tests
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/mktemp-invocation.html#index-_002du-10) - mktemp invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002du-11) - id invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002du-12) - who invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-_002du-13) - Options for date
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002du-14) - chcon invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/runcon-invocation.html#index-_002du-15) - runcon invocation
+- [`-u`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002du-16) - env invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#index-_002dv) - cat invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002dv-1) - nl invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dv-2) - od invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dv-3) - pr invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002dv-4) - head invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002dv-5) - tail invocation
+- [`-V`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dV) - sort invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002dv-6) - Sorting the output
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dv-7) - cp invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dv-8) - install invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002dv-9) - mv invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-_002dv-10) - rm invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002dv-11) - shred invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html#index-_002dv-12) - ln invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html#index-_002dv-13) - mkdir invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002dv-14) - readlink invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/rmdir-invocation.html#index-_002dv-15) - rmdir invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/chown-invocation.html#index-_002dv-16) - chown invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/chgrp-invocation.html#index-_002dv-17) - chgrp invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html#index-_002dv-18) - chmod invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/uname-invocation.html#index-_002dv-19) - uname invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/chcon-invocation.html#index-_002dv-20) - chcon invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html#index-_002dv-21) - env invocation
+- [`-v`](https://www.gnu.org/software/coreutils/manual/html_node/timeout-invocation.html#index-_002dv-22) - timeout invocation
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/nl-invocation.html#index-_002dw) - nl invocation
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dw-1) - od invocation
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/base64-invocation.html#index-_002dw-2) - base64 invocation
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002dw-3) - fmt invocation
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dw-4) - pr invocation
+- [`-W`](https://www.gnu.org/software/coreutils/manual/html_node/pr-invocation.html#index-_002dW) - pr invocation
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/fold-invocation.html#index-_002dw-5) - fold invocation
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-_002dw-6) - wc invocation
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002dw-7) - cksum common options
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002dw-8) - uniq invocation
+- [`-W`](https://www.gnu.org/software/coreutils/manual/html_node/Input-processing-in-ptx.html#index-_002dW-1) - Input processing in ptx
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/Output-formatting-in-ptx.html#index-_002dw-9) - Output formatting in ptx
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002dw-10) - General output formatting
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/Access-permission-tests.html#index-_002dw-11) - Access permission tests
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-_002dw-12) - who invocation
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/pinky-invocation.html#index-_002dw-13) - pinky invocation
+- [`-w`](https://www.gnu.org/software/coreutils/manual/html_node/seq-invocation.html#index-_002dw-14) - seq invocation
+- [`-width`](https://www.gnu.org/software/coreutils/manual/html_node/fmt-invocation.html#index-_002dwidth) - fmt invocation
+- [`-x`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-_002dx) - od invocation
+- [`-x`](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#index-_002dx-1) - split invocation
+- [`-X`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-_002dX) - Sorting the output
+- [`-x`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-_002dx-2) - General output formatting
+- [`-x`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dx-3) - cp invocation
+- [`-x`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002dx-4) - shred invocation
+- [`-x`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-_002dx-5) - df invocation
+- [`-x`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dx-6) - du invocation
+- [`-x`](https://www.gnu.org/software/coreutils/manual/html_node/Access-permission-tests.html#index-_002dx-7) - Access permission tests
+- [`-X file`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-_002dX-file) - du invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-_002dz) - head invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-_002dz-1) - tail invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/csplit-invocation.html#index-_002dz-2) - csplit invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/cksum-common-options.html#index-_002dz-3) - cksum common options
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html#index-_002dz-4) - sort invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/shuf-invocation.html#index-_002dz-5) - shuf invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/uniq-invocation.html#index-_002dz-6) - uniq invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/comm-invocation.html#index-_002dz-7) - comm invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/cut-invocation.html#index-_002dz-8) - cut invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#index-_002dz-9) - paste invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/General-options-in-join.html#index-_002dz-10) - General options in join
+- [`-Z`](https://www.gnu.org/software/coreutils/manual/html_node/What-information-is-listed.html#index-_002dZ) - What information is listed
+- [`-Z`](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html#index-_002dZ-1) - cp invocation
+- [`-Z`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-_002dZ-2) - install invocation
+- [`-Z`](https://www.gnu.org/software/coreutils/manual/html_node/mv-invocation.html#index-_002dZ-3) - mv invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#index-_002dz-11) - shred invocation
+- [`-Z`](https://www.gnu.org/software/coreutils/manual/html_node/mkdir-invocation.html#index-_002dZ-4) - mkdir invocation
+- [`-Z`](https://www.gnu.org/software/coreutils/manual/html_node/mkfifo-invocation.html#index-_002dZ-5) - mkfifo invocation
+- [`-Z`](https://www.gnu.org/software/coreutils/manual/html_node/mknod-invocation.html#index-_002dZ-6) - mknod invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/readlink-invocation.html#index-_002dz-12) - readlink invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/String-tests.html#index-_002dz-13) - String tests
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/basename-invocation.html#index-_002dz-14) - basename invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/dirname-invocation.html#index-_002dz-15) - dirname invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/realpath-invocation.html#index-_002dz-16) - realpath invocation
+- [`-Z`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002dZ-7) - id invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-_002dz-17) - id invocation
+- [`-z`](https://www.gnu.org/software/coreutils/manual/html_node/numfmt-invocation.html#index-_002dz-18) - numfmt invocation

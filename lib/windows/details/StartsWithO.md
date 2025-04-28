@@ -1,0 +1,17 @@
+- [`obs`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-obs) - dd invocation
+- [`ocrnl`](https://www.gnu.org/software/coreutils/manual/html_node/Output.html#index-ocrnl) - Output
+- [`od`](https://www.gnu.org/software/coreutils/manual/html_node/od-invocation.html#index-od) - od invocation
+- [`oddp`](https://www.gnu.org/software/coreutils/manual/html_node/Combination.html#index-oddp) - Combination
+- [`of`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-of) - dd invocation
+- [`ofdel`](https://www.gnu.org/software/coreutils/manual/html_node/Output.html#index-ofdel) - Output
+- [`ofill`](https://www.gnu.org/software/coreutils/manual/html_node/Output.html#index-ofill) - Output
+- [`oflag`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-oflag) - dd invocation
+- [`olcuc`](https://www.gnu.org/software/coreutils/manual/html_node/Output.html#index-olcuc) - Output
+- [`once interactive option`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-once-interactive-option) - rm invocation
+- [`onlcr`](https://www.gnu.org/software/coreutils/manual/html_node/Output.html#index-onlcr) - Output
+- [`onlret`](https://www.gnu.org/software/coreutils/manual/html_node/Output.html#index-onlret) - Output
+- [`only total option`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-only-total-option) - wc invocation
+- [`onocr`](https://www.gnu.org/software/coreutils/manual/html_node/Output.html#index-onocr) - Output
+- [`opost`](https://www.gnu.org/software/coreutils/manual/html_node/Output.html#index-opost) - Output
+- [`oseek`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-oseek) - dd invocation
+- [`ospeed`](https://www.gnu.org/software/coreutils/manual/html_node/Special.html#index-ospeed) - Special

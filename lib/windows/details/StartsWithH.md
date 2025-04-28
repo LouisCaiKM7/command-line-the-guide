@@ -1,0 +1,6 @@
+- [`head`](https://www.gnu.org/software/coreutils/manual/html_node/head-invocation.html#index-head) - head invocation
+- [`horizontal, listing files`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-horizontal_002c-listing-files) - General output formatting
+- [`hostid`](https://www.gnu.org/software/coreutils/manual/html_node/hostid-invocation.html#index-hostid) - hostid invocation
+- [`hostname`](https://www.gnu.org/software/coreutils/manual/html_node/hostname-invocation.html#index-hostname-1) - hostname invocation
+- [`hour in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Relative-items-in-date-strings.html#index-hour-in-date-strings) - Relative items in date strings
+- [`hup[cl]`](https://www.gnu.org/software/coreutils/manual/html_node/Control.html#index-hup_005bcl_005d) - Control

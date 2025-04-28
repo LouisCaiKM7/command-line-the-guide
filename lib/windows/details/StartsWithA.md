@@ -1,0 +1,25 @@
+- [`access time, changing`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-access-time_002c-changing) - touch invocation
+- [`access timestamp, printing or sorting files by`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-access-timestamp_002c-printing-or-sorting-files-by) - Sorting the output
+- [`access timestamp, show the most recent`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-access-timestamp_002c-show-the-most-recent) - du invocation
+- [`across, listing files`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-across_002c-listing-files) - General output formatting
+- [`ago in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Relative-items-in-date-strings.html#index-ago-in-date-strings) - Relative items in date strings
+- [`alnum`](https://www.gnu.org/software/coreutils/manual/html_node/Character-arrays.html#index-alnum) - Character arrays
+- [`alpha`](https://www.gnu.org/software/coreutils/manual/html_node/Character-arrays.html#index-alpha) - Character arrays
+- [`alternate ebcdic, converting to`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-alternate-ebcdic_002c-converting-to) - dd invocation
+- [`always classify option`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-always-classify-option) - General output formatting
+- [`always color option`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-always-color-option) - General output formatting
+- [`always hyperlink option`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-always-hyperlink-option) - General output formatting
+- [`always interactive option`](https://www.gnu.org/software/coreutils/manual/html_node/rm-invocation.html#index-always-interactive-option) - rm invocation
+- [`always total option`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-always-total-option) - wc invocation
+- [`am i`](https://www.gnu.org/software/coreutils/manual/html_node/who-invocation.html#index-am-i) - who invocation
+- [`am in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Time-of-day-items.html#index-am-in-date-strings) - Time of day items
+- [`append`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-append) - dd invocation
+- [`arch`](https://www.gnu.org/software/coreutils/manual/html_node/arch-invocation.html#index-arch) - arch invocation
+- [`ascii, converting to`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-ascii_002c-converting-to) - dd invocation
+- [`atime, changing`](https://www.gnu.org/software/coreutils/manual/html_node/touch-invocation.html#index-atime_002c-changing) - touch invocation
+- [`atime, printing or sorting files by`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-atime_002c-printing-or-sorting-files-by) - Sorting the output
+- [`atime, show the most recent`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-atime_002c-show-the-most-recent) - du invocation
+- [`auto classify option`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-auto-classify-option) - General output formatting
+- [`auto color option`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-auto-color-option) - General output formatting
+- [`auto hyperlink option`](https://www.gnu.org/software/coreutils/manual/html_node/General-output-formatting.html#index-auto-hyperlink-option) - General output formatting
+- [`auto total option`](https://www.gnu.org/software/coreutils/manual/html_node/wc-invocation.html#index-auto-total-option) - wc invocation

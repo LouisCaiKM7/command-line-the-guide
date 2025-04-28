@@ -1,0 +1,37 @@
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-compression-and-du) - du invocation
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-copy_002don_002dwrite-and-du) - du invocation
+- [`data modification time, printing or sorting files by`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-data-modification-time_002c-printing-or-sorting-files-by) - Sorting the output
+- [`date`](https://www.gnu.org/software/coreutils/manual/html_node/date-invocation.html#index-date) - date invocation
+- [`date`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-date-options) - Options for date
+- [`day in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Relative-items-in-date-strings.html#index-day-in-date-strings) - Relative items in date strings
+- [`day in date strings`](https://www.gnu.org/software/coreutils/manual/html_node/Relative-items-in-date-strings.html#index-day-in-date-strings-1) - Relative items in date strings
+- [`dd`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-dd) - dd invocation
+- [`dec`](https://www.gnu.org/software/coreutils/manual/html_node/Combination.html#index-dec) - Combination
+- [`decctlq`](https://www.gnu.org/software/coreutils/manual/html_node/Combination.html#index-decctlq) - Combination
+- [`descriptor follow option`](https://www.gnu.org/software/coreutils/manual/html_node/tail-invocation.html#index-descriptor-follow-option) - tail invocation
+- [`df`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-df) - df invocation
+- [`DF_BLOCK_SIZE`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-DF_005fBLOCK_005fSIZE) - Block size
+- [`digit`](https://www.gnu.org/software/coreutils/manual/html_node/Character-arrays.html#index-digit) - Character arrays
+- [`dir`](https://www.gnu.org/software/coreutils/manual/html_node/dir-invocation.html#index-dir) - dir invocation
+- [`dircolors`](https://www.gnu.org/software/coreutils/manual/html_node/dircolors-invocation.html#index-dircolors) - dircolors invocation
+- [`direct`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-direct) - dd invocation
+- [`directory`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-directory) - dd invocation
+- [`dirname`](https://www.gnu.org/software/coreutils/manual/html_node/dirname-invocation.html#index-dirname) - dirname invocation
+- [`discard`](https://www.gnu.org/software/coreutils/manual/html_node/Characters.html#index-discard) - Characters
+- [`drain`](https://www.gnu.org/software/coreutils/manual/html_node/Special.html#index-drain) - Special
+- [`dsusp`](https://www.gnu.org/software/coreutils/manual/html_node/Characters.html#index-dsusp) - Characters
+- [`dsync`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-dsync) - dd invocation
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-du) - du invocation
+- [`DU_BLOCK_SIZE`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-DU_005fBLOCK_005fSIZE) - Block size
+- [`date`](https://www.gnu.org/software/coreutils/manual/html_node/Examples-of-date.html#index-examples-of-date) - Examples of date
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-excluding-files-from-du) - du invocation
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-excluding-files-from-du-1) - du invocation
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-hard-links_002c-counting-in-du) - du invocation
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-inode-usage_002c-dereferencing-in-du) - du invocation
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-last-modified-dates_002c-displaying-in-du) - du invocation
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-limiting-output-of-du) - du invocation
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-networked-file-systems-and-du) - du invocation
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-one-file-system_002c-restricting-du-to) - du invocation
+- [`date`](https://www.gnu.org/software/coreutils/manual/html_node/Options-for-date.html#index-options-for-date) - Options for date
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-symbolic-links_002c-dereferencing-in-du) - du invocation
+- [`du`](https://www.gnu.org/software/coreutils/manual/html_node/du-invocation.html#index-symbolic-links_002c-dereferencing-in-du-1) - du invocation

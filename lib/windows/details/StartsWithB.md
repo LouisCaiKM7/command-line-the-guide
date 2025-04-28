@@ -1,0 +1,16 @@
+- [`b for block special file`](https://www.gnu.org/software/coreutils/manual/html_node/mknod-invocation.html#index-b-for-block-special-file) - mknod invocation
+- [`b2sum`](https://www.gnu.org/software/coreutils/manual/html_node/b2sum-invocation.html#index-b2sum) - b2sum invocation
+- [`base32`](https://www.gnu.org/software/coreutils/manual/html_node/base32-invocation.html#index-base32) - base32 invocation
+- [`base64`](https://www.gnu.org/software/coreutils/manual/html_node/base64-invocation.html#index-base64) - base64 invocation
+- [`basename`](https://www.gnu.org/software/coreutils/manual/html_node/basename-invocation.html#index-basename) - basename invocation
+- [`basenc`](https://www.gnu.org/software/coreutils/manual/html_node/basenc-invocation.html#index-basenc) - basenc invocation
+- [`binary`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-binary) - dd invocation
+- [`birth time, printing or sorting files by`](https://www.gnu.org/software/coreutils/manual/html_node/Sorting-the-output.html#index-birth-time_002c-printing-or-sorting-files-by) - Sorting the output
+- [`blank`](https://www.gnu.org/software/coreutils/manual/html_node/Character-arrays.html#index-blank) - Character arrays
+- [`block (space-padding)`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-block-_0028space_002dpadding_0029) - dd invocation
+- [`BLOCK_SIZE`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-BLOCK_005fSIZE) - Block size
+- [`BLOCKSIZE`](https://www.gnu.org/software/coreutils/manual/html_node/Block-size.html#index-BLOCKSIZE) - Block size
+- [`brkint`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-brkint) - Input
+- [`bs`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-bs) - dd invocation
+- [`bsn`](https://www.gnu.org/software/coreutils/manual/html_node/Output.html#index-bsn) - Output
+- [`btrfs file system type`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-btrfs-file-system-type) - df invocation

@@ -1,0 +1,26 @@
+- [`ibs`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-ibs) - dd invocation
+- [`icanon`](https://www.gnu.org/software/coreutils/manual/html_node/Local.html#index-icanon) - Local
+- [`icrnl`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-icrnl) - Input
+- [`id`](https://www.gnu.org/software/coreutils/manual/html_node/id-invocation.html#index-id) - id invocation
+- [`iexten`](https://www.gnu.org/software/coreutils/manual/html_node/Local.html#index-iexten) - Local
+- [`if`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-if) - dd invocation
+- [`iflag`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-iflag) - dd invocation
+- [`ignbrk`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-ignbrk) - Input
+- [`igncr`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-igncr) - Input
+- [`ignpar`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-ignpar) - Input
+- [`imaxbel`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-imaxbel) - Input
+- [`index`](https://www.gnu.org/software/coreutils/manual/html_node/String-expressions.html#index-index) - String expressions
+- [`inlcr`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-inlcr) - Input
+- [`inpck`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-inpck) - Input
+- [`install`](https://www.gnu.org/software/coreutils/manual/html_node/install-invocation.html#index-install) - install invocation
+- [`intr`](https://www.gnu.org/software/coreutils/manual/html_node/Characters.html#index-intr) - Characters
+- [`iseek`](https://www.gnu.org/software/coreutils/manual/html_node/dd-invocation.html#index-iseek) - dd invocation
+- [`isig`](https://www.gnu.org/software/coreutils/manual/html_node/Local.html#index-isig) - Local
+- [`iso9660 file system type`](https://www.gnu.org/software/coreutils/manual/html_node/df-invocation.html#index-iso9660-file-system-type) - df invocation
+- [`ispeed`](https://www.gnu.org/software/coreutils/manual/html_node/Special.html#index-ispeed) - Special
+- [`istrip`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-istrip) - Input
+- [`iuclc`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-iuclc) - Input
+- [`iutf8`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-iutf8) - Input
+- [`ixany`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-ixany) - Input
+- [`ixoff`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-ixoff) - Input
+- [`ixon`](https://www.gnu.org/software/coreutils/manual/html_node/Input.html#index-ixon) - Input

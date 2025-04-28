@@ -206,13 +206,7 @@ Discussion forums is already opened, feel free to ask your doubts or give your s
 
 Contributions of all types are more than welcome; if you are interested in contributing code, feel free to check out our GitHub [Issues][github-issues-link] and [Projects][github-project-link] to get stuck in to show us what you're made of.
 
-> \[!TIP]
->
-> We are creating a technology-driven forum, fostering knowledge interaction and the exchange of ideas that may culminate in mutual inspiration and collaborative innovation.
->
-> Help us make LobeChat better. Welcome to provide product design feedback, user experience discussions directly to us.
->
-> **Principal Maintainers:** [@LouisCaiKM7](https://github.com/LouisCaiKM7)
+**Principal Maintainers:** [@LouisCaiKM7](https://github.com/LouisCaiKM7)
 
 [![][pr-welcome-shield]][pr-welcome-link]
 [![][submit-agents-shield]][submit-agents-link]
@@ -221,6 +215,7 @@ Contributions of all types are more than welcome; if you are interested in contr
 <a href="https://github.com/LouisCaiKM7/command-line-the-guide/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LouisCaiKM7/command-line-the-guide" />
 </a>
+
 
 <!-- Copy-paste in your Readme.md file -->
 

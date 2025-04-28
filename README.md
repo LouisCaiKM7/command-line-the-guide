@@ -9,6 +9,8 @@ A guide of how to use command line and shell.
 
 [Environment Setup](#environment-setup)
 
+[Contribute](#contribute)
+
 
 ### History of Command-Line:
 
@@ -196,5 +198,10 @@ Inside, you can type commands and run them. All the commands can be seen in offi
 
 try to get help in command line by typing `man some-command`
 
+### Contribute:
+
+Contributions are always welcome! Please create a pull request to contribute.
+
+Discussion forums is already opened, feel free to ask your doubts or give your suggestions.
 
 ![Alt](https://repobeats.axiom.co/api/embed/3fd5c4c86bb30329cdb539b2a8bef1ad06f21043.svg "Repobeats analytics image")

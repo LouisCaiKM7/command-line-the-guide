@@ -6,6 +6,7 @@ A guide of how to use command line and shell.
 ## Table of Contents
 
 [History of Command-Line](#history-of-command-line)
+
 [Environment Setup](#environment-setup)
 
 

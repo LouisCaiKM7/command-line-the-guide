@@ -8,16 +8,19 @@ const Navbar = () => {
       <div className="container-custom">
         <div className="h-16 flex items-center justify-between gap-4">
           {/* Logo */}
-          <div className="flex-shrink-0 flex items-center gap-2">
-            <Image
-              src="/logo.png"
-              alt="CMD Guide"
-              width={24}
-              height={24}
-              className="rounded"
-            />
-            <span className="font-semibold text-lg text-gray-800">CMD Guide</span>
-          </div>
+          <li><a href="/">
+            <div className="flex-shrink-0 flex items-center gap-2">
+            
+                <Image
+                src="/logo.png"
+                alt="CMD Guide"
+                width={24}
+                height={24}
+                className="rounded"
+                />
+                <span className="font-semibold text-lg text-gray-800">CMD Guide</span>
+            </div>
+          </a></li>
 
           {/* Search Bar */}
           <div className="flex-grow max-w-2xl">

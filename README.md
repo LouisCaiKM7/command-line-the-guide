@@ -2,6 +2,7 @@
 So glad to introduce a guide on command line in github with all linux cmd manual inside!
 A guide of how to use command line and shell.
 
+[📚 View Full Documentation](./docs/index.md)
 
 ## Table of Contents
 
@@ -197,6 +198,10 @@ If you are using [linux](https://www.linux.org/), you can open the terminal by p
 Inside, you can type commands and run them. All the commands can be seen in official documentation or  pages or in the windows section in this [library](./lib/lib.md).
 
 try to get help in command line by typing `man some-command`
+
+### Resources:
+    https://github.com/jlevy/the-art-of-command-line
+    https://missing.csail.mit.edu/2020/
 
 ### Contribute:
 

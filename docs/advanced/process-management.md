@@ -153,3 +153,10 @@ vm_stat    # macOS
 - [Command Syntax](../fundamentals/command-syntax.md)
 - [System Monitoring](./system-monitoring.md)
 - [Task Automation](../advanced/task-automation.md)
+
+---
+
+**Navigation**
+- Previous: [Text Processing](./text-processing.md)
+- Next: [Networking Tools](./networking.md)
+- [Back to Index](../index.md)

@@ -35,9 +35,3 @@ Welcome to the comprehensive guide for command line interfaces! This documentati
 - [Common Commands Reference](./reference/commands.md)
 - [Shortcuts and Hotkeys](./reference/shortcuts.md)
 - [Glossary](./reference/glossary.md)
-
-## Contributing
-We welcome contributions! Please see our [contribution guidelines](../CONTRIBUTING.md) for details on how to help improve this guide.
-
-## License
-This documentation is licensed under [MIT License](../LICENSE).

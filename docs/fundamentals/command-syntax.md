@@ -122,3 +122,10 @@ Now that you understand command syntax, you can:
 - [Basic Concepts](./basic-concepts.md)
 - [Command Line Tips](../best-practices/tips.md)
 - [Common Commands Reference](../reference/commands.md)
+
+---
+
+**Navigation**
+- Previous: [Basic Concepts](./basic-concepts.md)
+- Next: [File System Navigation](../advanced/file-system.md)
+- [Back to Index](../index.md)

@@ -166,3 +166,10 @@ wmic logicaldisk    # Windows CMD
 - [Command Syntax](../fundamentals/command-syntax.md)
 - [Text Processing](./text-processing.md)
 - [Shell Scripting](../os/linux/shell-scripting.md)
+
+---
+
+**Navigation**
+- Previous: [Command Syntax](../fundamentals/command-syntax.md)
+- Next: [Text Processing](./text-processing.md)
+- [Back to Index](../index.md)

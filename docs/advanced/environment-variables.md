@@ -137,3 +137,10 @@ export PATH="$PATH:/new/path"
 - [Command Syntax](../fundamentals/command-syntax.md)
 - [Shell Configuration](../os/shell-config.md)
 - [System Administration](../advanced/system-admin.md)
+
+---
+
+**Navigation**
+- Previous: [System Administration](./system-admin.md)
+- Next: [Shell Scripting](../os/linux/shell-scripting.md)
+- [Back to Index](../index.md)

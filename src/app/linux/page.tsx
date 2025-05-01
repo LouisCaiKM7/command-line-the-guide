@@ -3,20 +3,45 @@ import { useEffect, useState } from 'react';
 import CommandList from '@/components/CommandList';
 import CategoryNav from '@/components/CategoryNav';
 
+interface Command {
+  id: string;
+  name: string;
+  description: string;
+  manualUrl: string;
+  system: 'linux' | 'windows';
+  syntax?: string;
+  examples?: string[];
+  relatedCommands?: string[];
+}
+
 export default function LinuxPage() {
-  const [commands, setCommands] = useState([]);
+  const [commands, setCommands] = useState<Command[]>([]);
   const [activeCategory, setActiveCategory] = useState('all');
 
   useEffect(() => {
-    // Fetch commands from static JSON file
-    fetch('/data/commands.json')
-      .then(res => res.json())
-      .then(data => {
-        // Filter for Linux commands
-        const linuxCommands = data.filter((cmd: { system: string }) => cmd.system === 'linux');
+    const fetchCommands = async () => {
+      try {
+        const response = await fetch('/data/commands.json');
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data: Command[] = await response.json();
+        console.log('Fetched data:', data);
+        
+        if (!Array.isArray(data)) {
+          throw new Error('Invalid data format: expected an array');
+        }
+
+        const linuxCommands = data.filter((cmd) => cmd.system === 'linux');
+        console.log('Filtered Linux commands:', linuxCommands);
         setCommands(linuxCommands);
-      })
-      .catch(err => console.error('Error loading commands:', err));
+      } catch (error) {
+        console.error('Error loading commands:', error);
+        setCommands([]);
+      }
+    };
+
+    fetchCommands();
   }, []);
 
   return (

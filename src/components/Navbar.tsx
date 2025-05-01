@@ -42,11 +42,11 @@ const Navbar = () => {
               className="flex items-center gap-2 text-gray-600 hover:text-blue-600 transition-colors"
             >
               <Image src="/windows-icon.png" alt="Windows" width={16} height={16} />
-              <span className="text-sm">Windows</span>
+              <span className="text-sm">Windows</span>{/* TEST */}
             </Link>
 
             <Link 
-              href="https://github.com/lousicaikm7/command-line-the-guide"
+              href="https://github.com/LousiCaiKM7/command-line-the-guide"
               target="_blank"
               className="text-gray-600 hover:text-gray-900 transition-colors"
             >

@@ -1,9 +1,7 @@
-*.md linguist-language=Markdown
-*.tsx linguist-language=Markdown
-*.ts linguist-language=Markdown
-*.py linguist-language=Markdown
-*.mjs linguist-language=Markdown
-*.js linguist-language=Markdown
-*.json linguist-language=Markdown
-*.conf linguist-language=Markdown\
-*.css linguist-language=Markdown
+*.md linguist-detectable=true
+*.py linguist-documentation
+*.js linguist-documentation
+*.ts linguist-documentation
+*.json linguist-documentation
+*.yml linguist-documentation
+*.yaml linguist-documentation

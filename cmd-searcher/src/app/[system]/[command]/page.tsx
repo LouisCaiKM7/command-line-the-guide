@@ -1,6 +1,25 @@
-'use client';
-import { useEffect, useState } from 'react';
+import { getStaticCommands } from '@/lib/staticData';
 import Link from 'next/link';
+
+// Generate static paths for all commands
+export async function generateStaticParams() {
+  const commands = getStaticCommands() || [];
+  
+  // Filter out commands with problematic characters
+  return commands
+    .filter((command) => {
+      // Use a less restrictive regex to allow more characters
+      const hasProblematicChars = /[<>:"|?*]/.test(command.name);
+      // Allow longer names
+      const isTooLong = command.name.length > 5000;
+      return !hasProblematicChars && !isTooLong;
+    })
+    .slice(0, 16000) // Limit to 16000 commands total
+    .map((command) => ({
+      system: command.system,
+      command: command.name,
+    }));
+}
 
 interface CommandDetails {
   id: string;
@@ -13,33 +32,22 @@ interface CommandDetails {
   relatedCommands?: string[];
 }
 
+// This is a server component that will be pre-rendered
 export default function CommandPage({ params }: { params: { system: string; command: string } }) {
-  const [command, setCommand] = useState<CommandDetails | null>(null);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    fetch(`/api/commands/${params.system}/${params.command}`)
-      .then(res => res.json())
-      .then(data => {
-        setCommand(data);
-        setLoading(false);
-      });
-  }, [params.system, params.command]);
-
-  if (loading) {
-    return (
-      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
-        <div className="animate-spin h-8 w-8 border-4 border-blue-500 rounded-full border-t-transparent"></div>
-      </div>
-    );
-  }
+  // Get all commands
+  const commands = getStaticCommands() || [];
+  
+  // Find the specific command
+  const command = commands.find(
+    (cmd) => cmd.system === params.system && cmd.name === params.command
+  ) as CommandDetails | undefined;
 
   if (!command) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
         <div className="text-center">
           <h2 className="text-2xl font-bold text-gray-700">Command not found</h2>
-          <Link href={`/${params.system}`} className="text-blue-500 hover:text-blue-700 mt-4 inline-block">
+          <Link href={`/command-line-the-guide/${params.system}`} className="text-blue-500 hover:text-blue-700 mt-4 inline-block">
             Return to {params.system} commands
           </Link>
         </div>
@@ -96,7 +104,7 @@ export default function CommandPage({ params }: { params: { system: string; comm
                 {command.relatedCommands.map((cmd) => (
                   <Link
                     key={cmd}
-                    href={`/${params.system}/${cmd}`}
+                    href={`/command-line-the-guide/${params.system}/${cmd}`}
                     className="px-3 py-1 bg-gray-100 hover:bg-gray-200 rounded-full text-sm"
                   >
                     {cmd}

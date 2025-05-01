@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "db:populate": "ts-node scripts/parseCommands.ts"
+    "generate-static": "ts-node scripts/generateStaticData.ts",
+    "clean": "rmdir /s /q .next && rmdir /s /q out"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",

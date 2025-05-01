@@ -25,7 +25,7 @@ export default function WindowsPage() {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
-        const data: Command[] = await response.json();
+        const data = await response.json();
         console.log('Fetched data:', data);
         
         if (!Array.isArray(data)) {

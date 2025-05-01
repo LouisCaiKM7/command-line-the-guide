@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container-custom">
         <div className="h-16 flex items-center justify-between gap-4">
           {/* Logo */}
-          <li><Link href="/command-line-the-guide">
+          <li><Link href="/">
             <div className="flex-shrink-0 flex items-center gap-2">
               <Image
                 src="/logo.png"

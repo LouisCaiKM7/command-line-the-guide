@@ -2,6 +2,13 @@
 So glad to introduce a guide on command line in github with all linux cmd manual inside!
 A guide of how to use command line and shell.
 
+Using Command-line searcher, see [cmd-searcher](./cmd-searcher/README.md)
+
+Use Github Codespace to edit and run code and commands in the browser:
+
+Fork this repository, and opne in your [codespace](https://github.com/codespaces/new).
+Select the repository you just forked, and click on the "Code" button to open the editor.
+
 [📚 View Full Documentation](./docs/index.md)
 
 ## Table of Contents

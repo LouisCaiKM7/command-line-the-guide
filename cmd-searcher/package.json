@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "generate-static": "ts-node scripts/generateStaticData.ts",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

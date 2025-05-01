@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
-import { prisma } from '@/lib/prisma';
+import { getStaticCommands } from '@/lib/staticData';
+import { Prisma, PrismaClient } from '@prisma/client';
 
 interface ScoredCommand {
   command: any;
@@ -48,6 +49,7 @@ function calculateScore(command: any, searchTerm: string): number {
 }
 
 export async function GET(request: Request) {
+  const prisma = new PrismaClient();
   const { searchParams } = new URL(request.url);
   const query = searchParams.get('q');
   const system = searchParams.get('system');

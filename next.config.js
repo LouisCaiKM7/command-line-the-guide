@@ -7,5 +7,6 @@ const nextConfig = {
   },
   trailingSlash: true,
 }
+//test
 
 export default nextConfig;

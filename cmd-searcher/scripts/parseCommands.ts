@@ -13,8 +13,7 @@ interface Command {
 
 async function parseLinuxCommands(): Promise<Command[]> {
   const linuxCommands: Command[] = [];
-  // Use relative path instead of absolute path
-  const detailsPath = path.join('..', 'lib', 'linux', 'details');
+  const detailsPath = path.join('E:', 'cmd guide', 'command-line-the-guide', 'lib', 'linux', 'details');
   
   const files = fs.readdirSync(detailsPath);
   
@@ -43,8 +42,7 @@ async function parseLinuxCommands(): Promise<Command[]> {
 
 async function parseWindowsCommands(): Promise<Command[]> {
   const windowsCommands: Command[] = [];
-  // Use relative path instead of absolute path
-  const detailsPath = path.join('..', 'lib', 'windows', 'details');
+  const detailsPath = path.join('E:', 'cmd guide', 'command-line-the-guide', 'lib', 'windows', 'details');
   
   const files = fs.readdirSync(detailsPath);
   

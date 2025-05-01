@@ -8,6 +8,7 @@ Use Github Codespace to edit and run code and commands in the browser:
 
 Fork this repository, and opne in your [codespace](https://github.com/codespaces/new).
 Select the repository you just forked, and click on the "Code" button to open the editor.
+You can use the branch freeCodeSpace to create files and run commands in the terminal.
 
 [📚 View Full Documentation](./docs/index.md)
 

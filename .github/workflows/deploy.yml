@@ -17,24 +17,8 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install dependencies
-        run: |
-          cd cmd-searcher
-          npm ci
-
-      - name: Build Next.js app
-        run: |
-          cd cmd-searcher
-          npm run build
-          
-      - name: Prepare deployment directory
-        run: |
-          mkdir -p deploy
-          cp -r README.md lib/ docs/ deploy/
-          cp -r cmd-searcher/out/* deploy/
-
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: deploy
+          folder: .
           branch: gh-pages

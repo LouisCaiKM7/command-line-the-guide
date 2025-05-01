@@ -32,8 +32,11 @@ export default function WindowsPage() {
           throw new Error('Invalid data format: expected an array');
         }
 
-        const windowsCommands = data.filter((cmd) => cmd.system === 'windows');
+        const windowsCommands = data.filter((cmd: { system: string }) => cmd.system === 'windows');
         console.log('Filtered Windows commands:', windowsCommands);
+        if (windowsCommands.length === 0) {
+          console.error('No Windows commands found in data:', data);
+        }
         setCommands(windowsCommands);
       } catch (error) {
         console.error('Error loading commands:', error);

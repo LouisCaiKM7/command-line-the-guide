@@ -8,19 +8,18 @@ const Navbar = () => {
       <div className="container-custom">
         <div className="h-16 flex items-center justify-between gap-4">
           {/* Logo */}
-          <li><a href="/">
+          <li><Link href="/command-line-the-guide">
             <div className="flex-shrink-0 flex items-center gap-2">
-            
-                <Image
+              <Image
                 src="/logo.png"
                 alt="CMD Guide"
                 width={24}
                 height={24}
                 className="rounded"
-                />
-                <span className="font-semibold text-lg text-gray-800">CMD Guide</span>
+              />
+              <span className="font-semibold text-lg text-gray-800">CMD Guide</span>
             </div>
-          </a></li>
+          </Link></li>
 
           {/* Search Bar */}
           <div className="flex-grow max-w-2xl">
@@ -46,7 +45,7 @@ const Navbar = () => {
             </Link>
 
             <Link 
-              href="https://github.com/LousiCaiKM7/command-line-the-guide"
+              href="https://github.com/LouisCaiKM7/command-line-the-guide"
               target="_blank"
               className="text-gray-600 hover:text-gray-900 transition-colors"
             >

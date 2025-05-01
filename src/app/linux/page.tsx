@@ -32,8 +32,11 @@ export default function LinuxPage() {
           throw new Error('Invalid data format: expected an array');
         }
 
-        const linuxCommands = data.filter((cmd) => cmd.system === 'linux');
+        const linuxCommands = data.filter((cmd: { system: string }) => cmd.system === 'linux');
         console.log('Filtered Linux commands:', linuxCommands);
+        if (linuxCommands.length === 0) {
+          console.error('No Linux commands found in data:', data);
+        }
         setCommands(linuxCommands);
       } catch (error) {
         console.error('Error loading commands:', error);

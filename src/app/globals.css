@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #2563eb;
+  --background-light: #777b85;  /* Changed to a pale gray */
+  --text-primary: #ffffff;
+}
+
+body {
+  background-color: var(--background-light);
+  color: var(--text-primary);
+}
+
+.container-custom {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.search-container {
+  @apply max-w-3xl mx-auto mt-16;
+}
+
+.hero-section {
+  @apply py-20 text-center;
+}

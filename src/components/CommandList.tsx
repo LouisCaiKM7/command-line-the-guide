@@ -67,7 +67,7 @@ export default function CommandList({ commands, system, activeCategory }: Comman
         {filteredCommands.map(cmd => (
           <div key={cmd.id} className="bg-white p-4 rounded-lg shadow">
             <Link 
-              href={`/command-line-the-guide/${system}/${cmd.name}`}
+              href={`/${system}/${cmd.name}`}
               className="block hover:bg-gray-50"
             >
               <h3 className="text-lg font-semibold text-blue-600">{cmd.name}</h3>

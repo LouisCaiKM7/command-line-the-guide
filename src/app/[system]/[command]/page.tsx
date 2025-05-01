@@ -47,7 +47,7 @@ export default function CommandPage({ params }: { params: { system: string; comm
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
         <div className="text-center">
           <h2 className="text-2xl font-bold text-gray-700">Command not found</h2>
-          <Link href={`/command-line-the-guide/${params.system}`} className="text-blue-500 hover:text-blue-700 mt-4 inline-block">
+          <Link href={`/${params.system}`} className="text-blue-500 hover:text-blue-700 mt-4 inline-block">
             Return to {params.system} commands
           </Link>
         </div>
@@ -104,7 +104,7 @@ export default function CommandPage({ params }: { params: { system: string; comm
                 {command.relatedCommands.map((cmd) => (
                   <Link
                     key={cmd}
-                    href={`/command-line-the-guide/${params.system}/${cmd}`}
+                    href={`/${params.system}/${cmd}`}
                     className="px-3 py-1 bg-gray-100 hover:bg-gray-200 rounded-full text-sm"
                   >
                     {cmd}

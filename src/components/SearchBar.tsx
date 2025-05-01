@@ -47,7 +47,7 @@ export default function SearchBar({ isNavbar = false }: SearchBarProps) {
           {commands.map((cmd: any) => (
             <div
               key={cmd.id}
-              onClick={() => router.push(`/command-line-the-guide/${cmd.system}/${cmd.name}`)}
+              onClick={() => router.push(`/${cmd.system}/${cmd.name}`)}
               className="p-3 hover:bg-gray-100 cursor-pointer border-b last:border-b-0"
             >
               <div className="font-medium">{cmd.name}</div>

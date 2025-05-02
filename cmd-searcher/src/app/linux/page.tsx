@@ -8,15 +8,9 @@ export default function LinuxPage() {
   const [activeCategory, setActiveCategory] = useState('all');
 
   useEffect(() => {
-    // Fetch commands from static JSON file
-    fetch('/data/commands.json')
+    fetch('/api/commands?system=linux')
       .then(res => res.json())
-      .then(data => {
-        // Filter for Linux commands
-        const linuxCommands = data.filter((cmd: { system: string }) => cmd.system === 'linux');
-        setCommands(linuxCommands);
-      })
-      .catch(err => console.error('Error loading commands:', err));
+      .then(data => setCommands(data));
   }, []);
 
   return (

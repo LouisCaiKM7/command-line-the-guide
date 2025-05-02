@@ -1,61 +1,108 @@
 'use client';
 import { useState, useEffect } from 'react';
-import { useRouter } from 'next/navigation';
-// Replace the import statement with:
-import commandsData from '../../public/data/commands.json';
-
-interface SearchBarProps {
-  isNavbar?: boolean;
-}
+import { useDebounce } from '@/hooks/useDebounce';
 
 interface Command {
   id: string;
   name: string;
   description: string;
-  system: string;
+  system: 'linux' | 'windows';
   manualUrl: string;
 }
 
-export default function SearchBar({ isNavbar = false }: SearchBarProps) {
-  const [query, setQuery] = useState('');
-  const [commands, setCommands] = useState<Command[]>([]);
-  const router = useRouter();
+interface SearchBarProps {
+  isNavbar?: boolean;
+}
+
+const SearchBar = ({ isNavbar = false }: SearchBarProps) => {
+  const [searchTerm, setSearchTerm] = useState('');
+  const [system, setSystem] = useState<'linux' | 'windows' | 'all'>('all');
+  const [results, setResults] = useState<Command[]>([]);
+  const [isLoading, setIsLoading] = useState(false);
+  const debouncedSearch = useDebounce(searchTerm, 300);
 
   useEffect(() => {
-    if (query) {
-      const filteredCommands = commandsData.filter((cmd: any) => {
-        return cmd.name.toLowerCase().includes(query.toLowerCase()) ||
-               cmd.description.toLowerCase().includes(query.toLowerCase());
-      }).slice(0, 20);
-      setCommands(filteredCommands);
-    } else {
-      setCommands([]);
-    }
-  }, [query]);
+    const fetchResults = async () => {
+      if (!debouncedSearch.trim()) {
+        setResults([]);
+        return;
+      }
+
+      setIsLoading(true);
+      try {
+        const systemQuery = system !== 'all' ? `&system=${system}` : '';
+        const response = await fetch(`/api/search?q=${encodeURIComponent(debouncedSearch)}${systemQuery}`);
+        const data = await response.json();
+        setResults(data);
+      } catch (error) {
+        console.error('Search error:', error);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
+    fetchResults();
+  }, [debouncedSearch, system]);
 
   return (
-    <div className={`relative ${isNavbar ? 'w-full' : ''}`}>
-      <input
-        type="text"
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-        placeholder="Search commands..."
-        className="w-full p-4 border rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-      />
-      {query && commands.length > 0 && (
-        <div className="absolute w-full mt-2 bg-white rounded-lg shadow-lg border">
-          {commands.map((cmd: any) => (
-            <div
-              key={cmd.id}
-              onClick={() => router.push(`/${cmd.system}/${cmd.name}`)}
-              className="p-3 hover:bg-gray-100 cursor-pointer border-b last:border-b-0"
-            >
-              <div className="font-medium">{cmd.name}</div>
-              <div className="text-sm text-gray-600">{cmd.description}</div>
-            </div>
-          ))}
+    <div className="w-full">
+      <div className="relative">
+        <div className="flex gap-2 mb-4">
+          <input
+            type="text"
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            placeholder={isNavbar ? "Search commands..." : "Search commands (e.g., 'git clone', 'dir', 'ls')..."}
+            className={`w-full border border-gray-200 shadow-sm focus:outline-none focus:ring-2 
+                     focus:ring-blue-500 focus:border-transparent transition-shadow
+                     ${isNavbar ? 'px-3 py-1.5 text-sm rounded-lg' : 'px-5 py-3 text-lg rounded-lg'}`}
+          />
+          <select
+            value={system}
+            onChange={(e) => setSystem(e.target.value as 'linux' | 'windows' | 'all')}
+            className="px-3 py-2 border border-gray-200 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+          >
+            <option value="all">All</option>
+            <option value="linux">Linux</option>
+            <option value="windows">Windows</option>
+          </select>
         </div>
-      )}
+
+        {isLoading && (
+          <div className="absolute right-12 top-3">
+            <div className="animate-spin h-5 w-5 border-2 border-blue-500 rounded-full border-t-transparent" />
+          </div>
+        )}
+
+        {results.length > 0 && (
+          <div className={`mt-2 absolute w-full bg-white rounded-lg shadow-lg border border-gray-200 max-h-96 overflow-y-auto z-50 
+                        ${isNavbar ? 'top-12' : 'top-16'}`}>
+            {results.map((command) => (
+              <a
+                key={command.id}
+                href={command.manualUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block p-3 hover:bg-gray-50 border-b last:border-b-0"
+              >
+                <div className="flex items-center justify-between">
+                  <span className="font-medium text-gray-900">{command.name}</span>
+                  <span className={`px-2 py-1 text-xs rounded-full ${
+                    command.system === 'linux' 
+                      ? 'bg-yellow-100 text-yellow-800' 
+                      : 'bg-blue-100 text-blue-800'
+                  }`}>
+                    {command.system}
+                  </span>
+                </div>
+                <p className="text-sm text-gray-600 mt-1">{command.description}</p>
+              </a>
+            ))}
+          </div>
+        )}
+      </div>
     </div>
   );
-}
+};
+
+export default SearchBar;

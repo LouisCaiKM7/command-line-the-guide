@@ -64,14 +64,14 @@ export default function CommandList({ commands, system, activeCategory }: Comman
 
       {/* Commands List */}
       <div className="space-y-4">
-        {filteredCommands.map(cmd => (
-          <div key={cmd.id} className="bg-white p-4 rounded-lg shadow">
+        {filteredCommands.map((cmd) => (
+          <div key={cmd.id} className="bg-white p-6 rounded-lg shadow hover:shadow-md transition-shadow">
             <Link 
               href={`/${system}/${cmd.name}`}
-              className="block hover:bg-gray-50"
+              className="block"
             >
-              <h3 className="text-lg font-semibold text-blue-600">{cmd.name}</h3>
-              <p className="text-gray-600 mt-1">{cmd.description}</p>
+              <h3 className="text-xl font-semibold text-blue-600 mb-2">{cmd.name}</h3>
+              <p className="text-gray-600">{cmd.description}</p>
             </Link>
           </div>
         ))}

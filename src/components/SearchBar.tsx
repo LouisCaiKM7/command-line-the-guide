@@ -1,6 +1,7 @@
 'use client';
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 // Replace the import statement with:
 import commandsData from '../../public/data/commands.json';
 
@@ -34,28 +35,34 @@ export default function SearchBar({ isNavbar = false }: SearchBarProps) {
   }, [query]);
 
   return (
-    <div className={`relative ${isNavbar ? 'w-full' : ''}`}>
-      <input
-        type="text"
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-        placeholder="Search commands..."
-        className="w-full p-4 border rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-      />
-      {query && commands.length > 0 && (
-        <div className="absolute w-full mt-2 bg-white rounded-lg shadow-lg border">
-          {commands.map((cmd: any) => (
-            <div
-              key={cmd.id}
-              onClick={() => router.push(`/${cmd.system}/${cmd.name}`)}
-              className="p-3 hover:bg-gray-100 cursor-pointer border-b last:border-b-0"
-            >
-              <div className="font-medium">{cmd.name}</div>
-              <div className="text-sm text-gray-600">{cmd.description}</div>
-            </div>
-          ))}
-        </div>
-      )}
+    <div className="w-full">
+      <div className="relative">
+        <input
+          type="text"
+          placeholder="Search commands..."
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          className="w-full px-6 py-4 rounded-lg border border-gray-300 focus:ring-2 focus:ring-blue-500 focus:border-transparent text-lg shadow-sm transition-all duration-200 hover:shadow-md focus:shadow-lg"
+        />
+        {query && (
+          <div className="absolute z-10 mt-2 w-full bg-white rounded-lg shadow-lg overflow-hidden">
+            {commands.length > 0 ? (
+              commands.map((cmd) => (
+                <Link
+                  key={cmd.id}
+                  href={`/${cmd.system}/${cmd.name}`}
+                  className="block px-6 py-4 hover:bg-gray-50 transition-colors duration-150 border-b last:border-b-0"
+                >
+                  <div className="font-medium text-gray-800">{cmd.name}</div>
+                  <div className="text-sm text-gray-600 mt-1">{cmd.description}</div>
+                </Link>
+              ))
+            ) : (
+              <div className="px-6 py-4 text-gray-500">No commands found</div>
+            )}
+          </div>
+        )}
+      </div>
     </div>
   );
 }

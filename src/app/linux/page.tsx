@@ -1,8 +1,6 @@
 'use client';
 import { useEffect, useState } from 'react';
 import CommandList from '@/components/CommandList';
-import SearchBar from '@/components/SearchBar';
-import { motion } from 'framer-motion';
 
 interface Command {
   id: string;
@@ -18,29 +16,30 @@ interface Command {
 export default function LinuxPage() {
   const [commands, setCommands] = useState<Command[]>([]);
   const [activeCategory, setActiveCategory] = useState('all');
-  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const fetchCommands = async () => {
       try {
-        setIsLoading(true);
         const response = await fetch('/command-line-the-guide/data/commands.json');
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
+        console.log('Fetched data:', data);
         
         if (!Array.isArray(data)) {
           throw new Error('Invalid data format: expected an array');
         }
 
         const linuxCommands = data.filter((cmd: { system: string }) => cmd.system === 'linux');
+        console.log('Filtered Linux commands:', linuxCommands);
+        if (linuxCommands.length === 0) {
+          console.error('No Linux commands found in data:', data);
+        }
         setCommands(linuxCommands);
       } catch (error) {
         console.error('Error loading commands:', error);
         setCommands([]);
-      } finally {
-        setIsLoading(false);
       }
     };
 
@@ -48,63 +47,19 @@ export default function LinuxPage() {
   }, []);
 
   return (
-    <div className="min-h-screen">
-      <div className="max-w-7xl mx-auto px-4 py-12">
-        <motion.div 
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5 }}
-          className="text-center mb-12"
-        >
-          <div className="inline-block mb-6 p-2 bg-amber-100 dark:bg-amber-900 rounded-full">
-            <svg xmlns="http://www.w3.org/2000/svg" className="h-10 w-10 text-amber-600 dark:text-amber-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2m-2-4h.01M17 16h.01" />
-            </svg>
-          </div>
-          <h1 className="text-4xl font-bold mb-4 text-gray-800 dark:text-white">Linux Command Reference</h1>
-          <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Explore the complete library of Linux commands and utilities with interactive examples and comprehensive documentation.
-          </p>
-        </motion.div>
-
-        <div className="mb-10">
-          <SearchBar isNavbar={false} />
-        </div>
-
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
-          <div className="lg:col-span-3">
-            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-md p-6 sticky top-24">
-              <h2 className="text-lg font-semibold mb-4 text-gray-800 dark:text-white">Command Categories</h2>
-              <div className="space-y-2">
-                {['all', 'file', 'process', 'network', 'system', 'utility'].map((category) => (
-                  <button
-                    key={category}
-                    onClick={() => setActiveCategory(category)}
-                    className={`w-full text-left px-4 py-2 rounded-lg transition-colors ${
-                      activeCategory === category
-                        ? 'bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-200'
-                        : 'hover:bg-gray-100 text-gray-700 dark:hover:bg-gray-700 dark:text-gray-300'
-                    }`}
-                  >
-                    {category.charAt(0).toUpperCase() + category.slice(1)}
-                  </button>
-                ))}
-              </div>
-            </div>
-          </div>
-          
-          <div className="lg:col-span-9">
-            {isLoading ? (
-              <div className="flex justify-center items-center h-64">
-                <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-amber-500"></div>
-              </div>
-            ) : (
-              <CommandList 
-                commands={commands} 
-                system="linux"
-                activeCategory={activeCategory}
-              />
-            )}
+    <div className="min-h-screen bg-gray-50">
+      <div className="max-w-7xl mx-auto px-4 py-8">
+        <div className="grid grid-cols-12 gap-6">
+          <div className="col-span-9">
+            <h1 className="text-3xl font-bold mb-6">Linux Manual Pages</h1>
+            <p className="text-gray-600 mb-8">
+              Comprehensive documentation for Linux commands and system calls.
+            </p>
+            <CommandList 
+              commands={commands} 
+              system="linux"
+              activeCategory={activeCategory}
+            />
           </div>
         </div>
       </div>

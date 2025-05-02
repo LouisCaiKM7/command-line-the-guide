@@ -9,4 +9,4 @@ const nextConfig = {
 }
 //test
 
-export default nextConfig;
+export default nextConfig; // This is using ES modules syntax

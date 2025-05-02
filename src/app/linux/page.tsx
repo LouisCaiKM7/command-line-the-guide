@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import CommandList from '@/components/CommandList';
 import Image from 'next/image';
-import { ChevronRightIcon, CommandLineIcon, FolderIcon, ServerIcon, GlobeAltIcon, CpuChipIcon } from '@heroicons/react/24/outline';
+aimport { ChevronRightIcon, CommandLineIcon, FolderIcon, ServerIcon, GlobeAltIcon, CpuChipIcon } from '@heroicons/react/24/outline';
 
 interface Command {
   id: string;

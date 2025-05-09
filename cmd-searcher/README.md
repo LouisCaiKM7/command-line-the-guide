@@ -15,6 +15,17 @@ bun dev
 ```
 
 Set up postgresql database:
+first goto `.env`, change username and password
+```bash
+    DATABASE_URL="postgresql://username:password@localhost:5432/nextjs?schema=public"
+```
+then run:
+```bash
+    createdb -U postgres cmd_guide_db
+```
+```bash
+    npx prisma migrate dev --name ini
+```
 ```bash
     npm run db:populate
 ```
